@@ -1,1 +1,7 @@
 .ipynb_checkpoints
+node_modules
+fifa/cs2
+fifa/cs3
+fifa/cs4
+fifa/page
+*.pyc
