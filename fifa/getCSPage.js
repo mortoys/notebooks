@@ -32,11 +32,11 @@ const get = async (num, xeid, team1, team2) => {
 };
 
 async function main() {
-  // data = parse(fs.readFileSync("fifa2022.csv"));
-  data = parse(fs.readFileSync("aa.csv"));
+  data = parse(fs.readFileSync("fifa2022.csv"));
+  // data = parse(fs.readFileSync("aa.csv"));
   
   
-  for (let i = 20; i < data.length; i++) {
+  for (let i = 1; i < data.length; i++) {
     console.log(i, data[i][0], data[i][8], data[i][9]);
     try {
         await get(4, data[i][0], data[i][8], data[i][9]);
@@ -58,7 +58,7 @@ async function main() {
       }
     }
   }
-  for (let i = 12; i < data.length; i++) {
+  for (let i = 1; i < data.length; i++) {
     console.log(i, data[i][0], data[i][8], data[i][9]);
     try {
         await get(2, data[i][0], data[i][8], data[i][9]);

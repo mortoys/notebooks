@@ -14,7 +14,7 @@ const get = async (index) => {
     });
     const page = await browser.newPage();
 
-    await page.goto(`https://www.oddsportal.com/soccer/world/world-cup-2022/results/#/page/${index}/`, {
+    await page.goto(`https://www.oddsportal.com/soccer/world/world-championship-2022/results/#/page/${index}/`, {
         waitUntil: 'domcontentloaded'
     });
 
@@ -30,7 +30,7 @@ const get = async (index) => {
 
 async function main() {
     for(let i = 0; i < 19; i++) {
-        console.log('page: ' + i);
+        console.log('page: ' + (i+1));
         await get(i+1);
     }
 }

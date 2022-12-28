@@ -1,884 +1,886 @@
-xeid,date,time,score,s1,s2,win,tie,los,result,usable,team1,team2
-bswGq3oQ,2022-12-05,19:00,3:0,2:0,1:0,1.61,3.74,6.65,0.0,True,England,Senegal
-Cj8sxDv9,2022-12-04,15:00,3:1,1:0,2:1,1.39,4.95,9.03,0.0,True,France,Poland
-Ya9wwgP2,2022-12-04,19:00,2:1,1:0,1:1,1.29,6.17,9.9,0.0,True,Argentina,Australia
-ClJjw1Og,2022-12-03,15:00,3:1,2:0,1:1,1.91,3.4,4.58,0.0,True,Netherlands,USA
-2LCUbMel,2022-12-03,19:00,1:0,0:0,1:0,8.93,5.32,1.36,0.0,True,Cameroon,Brazil
-drCYctBf,2022-12-03,19:00,2:3,2:2,0:1,2.58,3.36,2.85,2.0,True,Serbia,Switzerland
-468UH12Q,2022-12-02,15:00,0:2,0:2,0:0,4.49,3.82,1.79,2.0,True,Ghana,Uruguay
-MsJPIsmK,2022-12-02,15:00,2:1,1:1,1:0,4.26,3.84,1.85,0.0,True,South Korea,Portugal
-I5Sd8Axs,2022-12-02,19:00,2:4,0:1,2:3,23.79,11.17,1.1,2.0,True,Costa Rica,Germany
-js7KjP3R,2022-12-02,19:00,2:1,0:1,2:0,7.04,4.49,1.49,0.0,True,Japan,Spain
-dKTo7pl8,2022-12-01,15:00,1:2,1:2,0:0,4.78,3.49,1.84,2.0,True,Canada,Morocco
-fFk3r1B7,2022-12-01,15:00,0:0,0:0,0:0,3.02,3.41,2.44,1.0,True,Croatia,Belgium
-nVNDXqck,2022-12-01,19:00,0:2,0:0,0:2,8.2,4.57,1.44,2.0,True,Poland,Argentina
-UgDIW3Ce,2022-12-01,19:00,1:2,0:0,1:2,5.35,4.28,1.62,2.0,True,Saudi Arabia,Mexico
-xMN9a6FL,2022-11-30,15:00,1:0,0:0,1:0,7.38,4.89,1.43,0.0,True,Australia,Denmark
-0hE7gRJ8,2022-11-30,15:00,1:0,0:0,1:0,6.01,3.92,1.62,0.0,True,Tunisia,France
-6D3ThfTc,2022-11-30,19:00,0:1,0:1,0:0,4.18,3.49,1.95,2.0,True,Iran,USA
-rytnS5cE,2022-11-30,19:00,0:3,0:0,0:3,8.81,4.45,1.43,2.0,True,Wales,England
-drzunOfo,2022-11-29,15:00,1:2,0:1,1:1,2.48,3.08,3.23,2.0,True,Ecuador,Senegal
-fZmDj4nU,2022-11-29,15:00,2:0,1:0,1:0,1.21,7.0,14.51,0.0,True,Netherlands,Qatar
-fyRweveD,2022-11-29,19:00,2:0,0:0,2:0,1.93,3.35,4.49,0.0,True,Portugal,Uruguay
-ryWc4rYQ,2022-11-29,16:00,1:0,0:0,1:0,1.5,4.28,7.6,0.0,True,Brazil,Switzerland
-8vFLJNXD,2022-11-28,13:00,2:3,0:2,2:1,2.76,3.13,2.8,2.0,True,South Korea,Ghana
-lI8Qa2tr,2022-11-28,10:00,3:3,1:2,2:1,5.3,3.77,1.71,1.0,True,Cameroon,Serbia
-dK7Gi5lL,2022-11-28,19:00,1:1,0:0,1:1,2.54,3.42,2.84,1.0,True,Spain,Germany
-runaqsd1,2022-11-28,16:00,4:1,2:1,2:0,2.23,3.27,3.55,0.0,True,Croatia,Canada
-lInepNte,2022-11-27,13:00,0:2,0:0,0:2,1.9,3.45,4.52,2.0,True,Belgium,Morocco
-COkUCjUP,2022-11-27,10:00,0:1,0:0,0:1,1.49,4.32,7.47,2.0,True,Japan,Costa Rica
-tWetjhDG,2022-11-27,19:00,2:0,0:0,2:0,1.55,3.95,7.12,0.0,True,Argentina,Mexico
-M1F3f742,2022-11-27,16:00,2:1,0:0,2:1,1.82,3.6,4.84,0.0,True,France,Denmark
-YRJ9YPsq,2022-11-26,13:00,2:0,1:0,1:0,1.73,3.64,5.43,0.0,True,Poland,Saudi Arabia
-bVO50n0F,2022-11-26,10:00,0:1,0:1,0:0,2.21,3.32,3.52,2.0,True,Tunisia,Australia
-Cj4PgzEi,2022-11-26,19:00,0:0,0:0,0:0,1.48,4.26,7.96,1.0,True,England,USA
-Qaq9ipXN,2022-11-26,16:00,1:1,1:0,0:1,1.83,3.44,4.99,1.0,True,Netherlands,Ecuador
-n9p5hQHH,2022-11-25,13:00,1:3,0:1,1:2,5.5,3.6,1.73,2.0,True,Qatar,Senegal
-4psrTor8,2022-11-25,10:00,0:2,0:0,0:2,2.14,3.18,3.87,2.0,True,Wales,Iran
-zBSk643E,2022-11-25,19:00,2:0,0:0,2:0,1.47,4.57,7.23,0.0,True,Brazil,Serbia
-zZAxc0Q0,2022-11-25,16:00,3:2,0:0,3:2,1.32,5.49,10.21,0.0,True,Portugal,Ghana
-GpSZeKu7,2022-11-24,13:00,0:0,0:0,0:0,1.78,3.55,5.1,1.0,True,Uruguay,South Korea
-4pXg5OIK,2022-11-24,10:00,1:0,0:0,1:0,1.81,3.45,5.02,0.0,True,Switzerland,Cameroon
-hjgnnqCr,2022-11-24,19:00,1:0,1:0,0:0,1.58,4.21,5.92,0.0,True,Belgium,Canada
-YXjQDWEJ,2022-11-24,16:00,7:0,3:0,4:0,1.16,8.42,17.43,0.0,True,Spain,Costa Rica
-rH3ChoZE,2022-11-23,13:00,1:2,1:0,0:2,1.45,4.85,7.28,2.0,True,Germany,Japan
-ARmio3Rl,2022-11-23,10:00,0:0,0:0,0:0,3.57,3.28,2.21,1.0,True,Morocco,Croatia
-IJ781Sp9,2022-11-23,19:00,4:1,2:1,2:0,1.22,6.8,13.86,0.0,True,France,Australia
-2ucxiYcA,2022-11-23,16:00,0:0,0:0,0:0,2.51,3.13,3.14,1.0,True,Mexico,Poland
-8pCMVNR1,2022-11-22,13:00,0:0,0:0,0:0,1.58,3.92,6.57,1.0,True,Denmark,Tunisia
-p42XiEr4,2022-11-22,10:00,1:2,1:0,0:2,1.12,9.21,25.52,2.0,True,Argentina,Saudi Arabia
-GUm04257,2022-11-22,19:00,1:1,1:0,0:1,2.47,3.09,3.22,1.0,True,USA,Wales
-4pe0g62B,2022-11-22,16:00,0:2,0:0,0:2,6.1,3.67,1.66,2.0,True,Senegal,Netherlands
-0G0LfGbo,2022-11-21,13:00,6:2,3:0,3:2,1.38,4.65,10.2,0.0,True,England,Iran
-jsidfnm5,2022-11-21,16:00,0:2,0:2,0:0,3.71,3.14,2.24,2.0,True,Qatar,Ecuador
-KM8vMQMm,2022-06-15,18:00,1:0,1:0,0:0,2.12,2.73,4.58,0.0,True,Costa Rica,New Zealand 
-SY0cFZ4t,2022-06-14,18:00,1:0 pen.,"0:0, 0:0, 0:0",5:4,4.58,3.09,1.95,1.0,True,Australia,Peru 
-djl8DuNn,2022-06-08,18:00,1:2,0:0,1:2,5.34,3.39,1.75,2.0,True,United Arab Emirates,Australia 
-fTlfHD91,2022-06-06,16:00,1:0,1:0,0:0,2.62,3.04,2.99,0.0,True,Wales,Ukraine
-AkdcDYKb,2022-06-02,18:45,1:3,0:1,1:2,2.45,3.02,3.22,2.0,True,Scotland,Ukraine
-6gP08abG,2022-03-31,01:05,2:0,0:0,2:0,4.45,3.39,1.87,0.0,True,Costa Rica,USA
-pvyhALT3,2022-03-31,01:05,2:1,2:1,0:0,2.0,3.26,4.0,0.0,True,Jamaica,Honduras
-OUZe9uqA,2022-03-31,01:05,2:0,2:0,0:0,1.14,7.81,21.58,0.0,True,Mexico,El Salvador
-j3MlB1Ec,2022-03-31,01:05,1:0,0:0,1:0,4.08,3.42,1.94,0.0,True,Panama,Canada
-EPBNCEnO,2022-03-31,17:00,0:5,0:2,0:3,15.25,6.69,1.16,2.0,True,Solomon Islands,New Zealand
-b5HMJSs4,2022-03-30,23:30,0:4,0:2,0:2,6.17,4.16,1.53,2.0,True,Bolivia,Brazil
-tU6RIncA,2022-03-30,23:30,0:2,0:0,0:2,2.27,3.19,3.33,2.0,True,Chile,Uruguay
-KK5VH6CG,2022-03-30,23:30,1:1,0:1,1:0,3.48,3.14,2.24,1.0,True,Ecuador,Argentina
-h8EELlDi,2022-03-30,23:30,2:0,2:0,0:0,1.54,3.91,6.74,0.0,True,Peru,Paraguay
-nVDIK8Sc,2022-03-30,23:30,0:1,0:1,0:0,5.34,3.73,1.67,2.0,True,Venezuela,Colombia
-zuKd2yw1,2022-03-30,19:30,1:2 ET,"0:1, 0:0",1:1,1.98,3.0,4.43,2.0,True,Algeria,Cameroon 
-SEGl4c8l,2022-03-30,19:30,4:1,2:0,2:1,1.45,3.98,8.31,0.0,True,Morocco,D.R. Congo 
-df850F7D,2022-03-30,19:30,0:0,0:0,0:0,2.48,2.72,3.41,1.0,True,Tunisia,Mali 
-hMmMJtpn,2022-03-30,18:45,2:0,0:0,2:0,2.3,3.02,3.6,0.0,True,Poland,Sweden
-fwQDNqnD,2022-03-30,18:45,2:0,1:0,1:0,1.17,7.71,17.56,0.0,True,Portugal,North Macedonia
-88E6h9G7,2022-03-30,18:00,1:0,0:0,1:0,2.33,3.13,3.22,0.0,True,Saudi Arabia,Australia
-MZOG7WEt,2022-03-30,17:00,1:1,1:1,0:0,1.85,2.94,5.55,1.0,True,Nigeria,Ghana 
-pfDP9JpR,2022-03-30,17:00,2:0 pen.,"1:0, 0:0, 0:0",3:1,1.95,2.87,4.97,0.0,True,Senegal,Egypt 
-ADhkHhg8,2022-03-30,16:00,2:0,1:0,1:0,1.88,3.26,4.52,0.0,True,Oman,China
-CKmlhoKu,2022-03-29,13:45,1:1,1:1,0:0,4.57,3.02,1.97,1.0,True,Syria,Iraq
-zaCrX1lU,2022-03-29,13:45,1:0,0:0,1:0,6.42,3.92,1.55,0.0,True,United Arab Emirates,South Korea
-OO8vYsZN,2022-03-29,11:30,2:0,1:0,1:0,1.21,5.9,16.34,0.0,True,Iran,Lebanon
-f5A2gk11,2022-03-29,10:35,1:1,0:1,1:0,1.11,8.74,24.66,1.0,True,Japan,Vietnam
-d4ublv7p,2022-03-28,23:05,0:1,0:0,0:1,14.86,5.73,1.23,2.0,True,Honduras,Mexico 
-CCNpCsai,2022-03-28,23:00,5:1,4:0,1:1,1.45,4.29,7.36,0.0,True,USA,Panama
-A7q2mbMj,2022-03-28,21:05,1:2,1:2,0:0,4.19,3.07,2.03,2.0,True,El Salvador,Costa Rica
-vPhWhKbT,2022-03-28,20:05,4:0,2:0,2:0,1.18,6.73,16.85,0.0,True,Canada,Jamaica
-hthHjcYk,2022-03-28,17:30,1:0,0:0,1:0,1.07,10.77,20.98,0.0,True,New Zealand,Tahiti
-WWjLkHmd,2022-03-27,14:00,3:2,1:1,2:1,2.16,3.52,3.04,0.0,True,Solomon Islands,Papua New Guinea
-EHFAMUco,2022-03-26,23:30,3:0,1:0,2:0,1.18,7.11,15.78,0.0,True,Argentina,Venezuela
-63ELAaVK,2022-03-26,19:30,1:0,1:0,0:0,2.37,2.63,3.77,0.0,True,Egypt,Senegal 
-pA1mPbpE,2022-03-26,19:30,0:0,0:0,0:0,2.85,2.67,2.94,1.0,True,Ghana,Nigeria 
-MyGh3HNf,2022-03-26,17:00,0:1,0:1,0:0,2.55,2.81,3.14,2.0,True,Cameroon,Algeria 
-I3911eh7,2022-03-26,17:00,0:1,0:1,0:0,2.3,2.78,3.75,2.0,True,Mali,Tunisia 
-lOHp5wgr,2022-03-25,15:00,1:1,1:0,0:1,4.74,2.84,2.01,1.0,True,D.R. Congo,Morocco 
-Aq1Fd2a4,2022-03-25,02:05,1:0,1:0,0:0,3.1,2.96,2.5,0.0,True,Costa Rica,Canada
-0YgSg0qN,2022-03-25,02:00,0:0,0:0,0:0,1.79,3.36,4.94,1.0,True,Mexico,USA
-460JeMEA,2022-03-25,01:05,1:1,1:0,0:1,1.46,4.2,7.51,1.0,True,Panama,Honduras
-4pNdWpAC,2022-03-25,23:30,3:0,1:0,2:0,1.14,8.69,17.55,0.0,True,Colombia,Bolivia
-jsJhXQf6,2022-03-25,23:30,1:0,1:0,0:0,1.53,3.78,7.34,0.0,True,Uruguay,Peru
-b7M0V4PI,2022-03-25,23:30,4:0,2:0,2:0,1.33,5.08,10.25,0.0,True,Brazil,Chile
-zXqUDxfo,2022-03-25,23:30,3:1,2:0,1:1,3.2,2.89,2.52,0.0,True,Paraguay,Ecuador
-rcaNftUG,2022-03-25,23:05,1:1,0:1,1:0,2.07,3.11,3.93,1.0,True,Jamaica,El Salvador 
-zFlq4Uso,2022-03-25,19:45,0:1,0:0,0:1,1.2,6.79,15.64,2.0,True,Italy,North Macedonia
-Y52H8AZT,2022-03-25,19:45,3:1,2:0,1:1,1.3,5.75,9.97,0.0,True,Portugal,Turkey
-vq3D9jKN,2022-03-25,19:45,1:0 ET,"0:0, 0:0",1:0,2.14,3.06,3.98,1.0,True,Sweden,Czech Republic
-4QA0Chz5,2022-03-25,19:45,2:1,1:0,1:1,2.67,2.92,3.04,0.0,True,Wales,Austria
-bVvtFTvc,2022-03-25,17:00,1:2,1:1,0:1,2.07,3.5,3.23,2.0,True,Fiji,Papua New Guinea
-MDecjp2d,2022-03-25,17:00,7:1,3:1,4:0,1.08,9.05,24.71,0.0,True,New Zealand,New Caledonia
-29KVZ34B,2022-03-25,17:00,1:0,0:0,1:0,2.71,2.94,2.88,0.0,True,Iraq,United Arab Emirates
-MiCfeBWl,2022-03-24,15:00,1:1,0:1,1:0,7.37,3.8,1.52,1.0,True,China,Saudi Arabia
-G8tDBfY4,2022-03-24,14:00,3:1,1:1,2:0,2.93,3.3,2.3,0.0,True,Solomon Islands,Tahiti
-t0JZYNJH,2022-03-24,12:00,0:3,0:3,0:0,2.3,2.98,3.49,2.0,True,Lebanon,Syria
-0rBbfVoe,2022-03-24,12:00,0:1,0:0,0:1,3.31,3.23,2.23,2.0,True,Vietnam,Oman
-YZFRzpk5,2022-03-24,11:00,2:0,1:0,1:0,2.12,2.95,4.03,0.0,True,South Korea,Iran
-ttecdiHr,2022-03-24,09:10,0:2,0:0,0:2,2.87,2.94,2.71,2.0,True,Australia,Japan
-l0ckh6Xq,2022-03-22,17:00,4:0,1:0,3:0,1.12,7.55,20.92,0.0,True,New Zealand,Fiji
-rNdgiQnj,2022-03-21,14:00,1:0,1:0,0:0,2.49,3.03,2.85,0.0,True,Papua New Guinea,New Caledonia
-xOUL9Y2H,2022-03-19,17:00,1:2,0:1,1:1,2.36,3.2,2.93,2.0,True,New Caledonia,Fiji
-fauHAEmB,2022-03-18,14:00,0:1,0:0,0:1,30.28,10.41,1.06,2.0,True,Papua New Guinea,New Zealand
-rsT5DG3h,2022-03-18,17:00,canc.,,,1.61,3.81,4.92,,True,Tahiti,Vanuatu
-Gp86bOUi,2022-02-03,03:00,1:0,0:0,1:0,1.37,4.63,8.86,0.0,True,Mexico,Panama
-lvGKzLxo,2022-02-03,02:00,0:2,0:0,0:2,5.68,3.46,1.69,2.0,True,El Salvador,Canada
-xf92a4Fo,2022-02-03,00:30,3:0,2:0,1:0,1.17,7.02,16.7,0.0,True,USA,Honduras
-b9cBcrpb,2022-02-03,00:00,0:1,0:0,0:1,2.73,2.93,2.84,2.0,True,Jamaica,Costa Rica
-rBWyy9es,2022-02-02,02:00,1:1,0:1,1:0,2.42,2.89,3.38,1.0,True,Peru,Ecuador
-M1VuzTAm,2022-02-02,00:30,4:0,1:0,3:0,1.26,5.26,14.15,0.0,True,Brazil,Paraguay
-8ITmY6u0,2022-02-02,23:30,1:0,1:0,0:0,1.98,3.18,4.36,0.0,True,Argentina,Colombia
-xUg9ukmQ,2022-02-02,23:00,4:1,3:0,1:1,1.41,4.58,8.1,0.0,True,Uruguay,Venezuela
-URUqZnQg,2022-02-02,20:00,2:3,1:1,1:2,2.53,3.29,2.81,2.0,True,Bolivia,Chile
-pA9R1DgL,2022-02-02,16:00,2:2,0:1,2:1,9.12,4.53,1.38,1.0,True,Oman,Australia 
-bHNEwn5n,2022-02-01,14:30,1:0,1:0,0:0,1.33,4.68,10.69,0.0,True,Iran,United Arab Emirates 
-CKRIx6Kh,2022-02-01,14:00,0:2,0:0,0:2,8.47,4.07,1.44,2.0,True,Syria,South Korea
-fqHNyQZb,2022-02-01,12:00,1:1,1:1,0:0,2.74,2.73,3.04,1.0,True,Lebanon,Iraq
-vX8V0X8R,2022-02-01,12:00,3:1,2:0,1:1,4.19,3.54,1.87,0.0,True,Vietnam,China
-W65N2gvF,2022-02-01,10:10,2:0,1:0,1:0,1.58,3.47,7.32,0.0,True,Japan,Saudi Arabia
-Gnarf9w6,2022-01-31,00:05,0:2,0:1,0:1,2.08,3.09,3.9,2.0,True,Honduras,El Salvador
-Uk3ngThC,2022-01-31,23:00,0:0,0:0,0:0,1.29,5.17,10.92,1.0,True,Mexico,Costa Rica 
-CEhihm8I,2022-01-31,22:05,3:2,1:1,2:1,2.03,3.09,4.11,0.0,True,Panama,Jamaica 
-MPavekOa,2022-01-31,20:05,2:0,1:0,1:0,2.83,2.77,2.9,0.0,True,Canada,USA
-Ee8EJ7Q6,2022-01-29,22:00,4:1,2:1,2:0,1.72,4.0,4.54,0.0,True,Venezuela,Bolivia
-z59AKmB0,2022-01-29,21:00,0:1,0:0,0:1,1.58,3.58,7.04,2.0,True,Colombia,Peru
-2NqwcBgm,2022-01-28,02:05,1:0,0:0,1:0,2.46,2.98,3.12,0.0,True,Costa Rica,Panama
-6ib72XVP,2022-01-28,01:05,0:2,0:1,0:1,3.62,3.27,2.09,2.0,True,Honduras,Canada
-AN1NHoeJ,2022-01-28,00:15,1:2,1:2,0:0,3.21,3.06,2.4,2.0,True,Chile,Argentina
-OWpZcivs,2022-01-28,00:00,1:0,0:0,1:0,1.14,7.85,19.25,0.0,True,USA,El Salvador
-rZ0zdV8g,2022-01-28,00:00,1:2,0:0,1:2,5.25,3.28,1.77,2.0,True,Jamaica,Mexico
-WW2JIRuD,2022-01-28,23:00,0:1,0:0,0:1,3.27,3.15,2.32,2.0,True,Paraguay,Uruguay
-OQk5tVXJ,2022-01-28,21:00,1:1,0:1,1:0,3.52,2.95,2.34,1.0,True,Ecuador,Brazil
-lrGI3ZO8,2022-01-28,17:15,1:0,0:0,1:0,1.52,3.85,6.72,0.0,True,Saudi Arabia,Oman
-4fOAvSkt,2022-01-27,15:00,2:0,1:0,1:0,2.22,3.13,3.45,0.0,True,United Arab Emirates,Syria
-EFUAzGwP,2022-01-27,14:30,1:0,0:0,1:0,1.29,4.88,13.06,0.0,True,Iran,Iraq
-2oxqq8sP,2022-01-27,12:00,0:1,0:1,0:0,7.38,3.6,1.55,2.0,True,Lebanon,South Korea
-MyOWuWW1,2022-01-27,10:01,2:0,1:0,1:0,1.32,5.37,8.9,0.0,True,Japan,China
-AiHE4F92,2022-01-27,09:10,4:0,2:0,2:0,1.13,8.05,21.25,0.0,True,Australia,Vietnam
-rJCCtj96,2021-11-17,02:05,2:1,1:0,1:1,2.4,3.09,3.11,0.0,True,Canada,Mexico
-ChHGuAOC,2021-11-17,01:05,2:1,1:1,1:0,2.03,3.05,4.17,0.0,True,Costa Rica,Honduras
-jqGKvUwJ,2021-11-17,01:05,2:1,0:1,2:0,1.61,3.51,6.49,0.0,True,Panama,El Salvador
-trA6LTef,2021-11-17,00:15,0:2,0:1,0:1,1.85,3.23,4.84,2.0,True,Chile,Ecuador
-rci3M9tl,2021-11-17,23:30,0:0,0:0,0:0,2.39,2.93,3.44,1.0,True,Argentina,Brazil
-UkBSSB3K,2021-11-17,23:00,0:0,0:0,0:0,1.45,4.04,8.31,1.0,True,Colombia,Paraguay
-hlf33DGJ,2021-11-17,22:00,1:1,1:1,0:0,4.12,3.2,1.98,1.0,True,Jamaica,USA
-bPFWRVIQ,2021-11-17,21:00,1:2,0:1,1:1,3.2,2.99,2.44,2.0,True,Venezuela,Peru
-0Y1bNkRs,2021-11-17,20:00,3:0,2:0,1:0,2.81,3.15,2.6,0.0,True,Bolivia,Uruguay
-l6GLIInn,2021-11-17,19:45,0:2,0:0,0:2,5.14,4.25,1.62,2.0,True,Bosnia & Herzegovina,Ukraine
-GYe0UFob,2021-11-17,19:45,2:0,0:0,2:0,1.14,8.38,19.87,0.0,True,Czech Republic,Estonia
-xSn30yXH,2021-11-17,19:45,0:2,0:0,0:2,6.86,4.29,1.5,2.0,True,Finland,France
-xzFwBcAd,2021-11-17,19:45,1:3,1:1,0:2,7.31,4.3,1.48,2.0,True,Gibraltar,Latvia
-Wb1jMNIc,2021-11-17,19:45,1:2,1:1,0:1,4.12,3.57,1.9,2.0,True,Montenegro,Turkey
-G4tY7Xcm,2021-11-17,19:45,2:0,0:0,2:0,1.47,4.33,7.53,0.0,True,Netherlands,Norway 
-lnf8SgGA,2021-11-17,19:45,1:1,1:1,0:0,3.68,3.31,2.11,1.0,True,Wales,Belgium
-6uMxkw0j,2021-11-17,19:00,1:0,1:0,0:0,2.44,2.89,3.13,0.0,True,Cameroon,Ivory Coast
-pYLpWOgB,2021-11-17,19:00,1:1,1:0,0:1,3.9,3.03,2.06,1.0,True,Mauritania,Equatorial Guinea
-Cvh7J0Se,2021-11-17,19:00,3:0,2:0,1:0,1.33,4.67,9.41,0.0,True,Morocco,Guinea
-6sNtX4v5,2021-11-17,19:00,3:1,3:0,0:1,1.34,4.5,9.99,0.0,True,Tunisia,Zambia
-nZoRxzBQ,2021-11-17,16:00,2:2,1:1,1:1,1.29,4.8,11.48,1.0,True,Algeria,Burkina Faso
-ERhzst8T,2021-11-17,16:00,3:1,2:0,1:1,2.92,2.83,2.64,0.0,True,Liberia,Central Africa
-zyfWsMhN,2021-11-17,16:00,1:1,1:1,0:0,1.44,4.01,7.73,1.0,True,Nigeria,Cape Verde
-0MZNsh2k,2021-11-17,16:00,0:1,0:0,0:1,7.17,3.87,1.5,2.0,True,Oman,Japan
-t2W2xx9C,2021-11-17,16:00,0:3,0:2,0:1,8.03,3.8,1.48,2.0,True,Syria,Iran
-2yHKrYnq,2021-11-16,15:00,1:1,0:1,1:0,5.61,4.02,1.58,1.0,True,China,Australia
-SbSbwIg6,2021-11-16,15:00,0:3,0:1,0:2,7.0,3.69,1.54,2.0,True,Iraq,South Korea 
-Gj5J3cWt,2021-11-16,13:00,2:1,1:0,1:1,1.39,4.13,9.16,0.0,True,Egypt,Gabon
-fs4N2Hom,2021-11-16,13:00,1:1,0:0,1:1,3.23,2.83,2.44,1.0,True,Libya,Angola
-pWKtlcFd,2021-11-16,13:00,1:0,0:0,1:0,3.0,2.83,2.59,0.0,True,Mozambique,Malawi
-zPV6ydOI,2021-11-16,12:00,0:1,0:0,0:1,2.83,2.9,2.74,2.0,True,Lebanon,United Arab Emirates 
-roPStCHe,2021-11-16,12:00,0:1,0:1,0:0,7.05,4.07,1.48,2.0,True,Vietnam,Saudi Arabia
-rgVFXWvO,2021-11-16,19:45,1:0,0:0,1:0,1.26,5.79,12.01,0.0,True,Albania,Andorra
-MDgKfCa3,2021-11-16,19:45,4:1,2:0,2:1,1.06,12.95,43.49,0.0,True,Austria,Moldova
-AyBdyObr,2021-11-16,19:45,3:2,1:0,2:2,1.32,5.57,9.18,0.0,True,Israel,Faroe Islands
-nLMpnoC7,2021-11-16,19:45,0:0,0:0,0:0,13.12,5.81,1.25,1.0,True,Northern Ireland,Italy
-8GziwyBn,2021-11-16,19:45,1:2,0:1,1:1,1.58,3.86,6.45,2.0,True,Poland,Hungary
-vH2DXub7,2021-11-16,19:45,2:0,1:0,1:0,3.06,2.94,2.63,0.0,True,Scotland,Denmark
-IqH9f94R,2021-11-16,19:45,4:0,0:0,4:0,1.08,10.92,30.49,0.0,True,Switzerland,Bulgaria
-jVjBIKs2,2021-11-16,16:00,0:0,0:0,0:0,2.16,3.07,3.5,1.0,True,Guinea Bissau,Sudan
-lrYhYgJs,2021-11-16,16:00,7:2,2:1,5:1,1.13,7.58,19.56,0.0,True,Niger,Djibouti
-EPN78nI8,2021-11-15,13:00,2:1,2:0,0:1,1.93,2.96,4.52,0.0,True,Kenya,Rwanda
-ADAeOkEN,2021-11-15,13:00,0:1,0:0,0:1,2.64,2.86,2.89,2.0,True,Namibia,Togo
-b1HRw22j,2021-11-15,19:45,1:1,1:0,0:1,1.68,3.67,5.67,1.0,True,Greece,Kosovo
-AHdlQrYj,2021-11-15,19:45,0:3,0:0,0:3,4.96,3.56,1.8,2.0,True,Luxembourg,Ireland
-ptfcpAOT,2021-11-15,19:45,1:2,1:1,0:1,1.54,4.35,6.04,2.0,True,Portugal,Serbia
-4pRN0V8A,2021-11-15,19:45,1:0,0:0,1:0,1.38,4.94,8.58,0.0,True,Spain,Sweden
-Oxp2EEpa,2021-11-15,19:00,1:0,1:0,0:0,1.88,3.1,4.59,0.0,True,Ghana,South Africa
-WMBiPVbH,2021-11-15,19:00,2:0,2:0,0:0,1.23,5.46,13.1,0.0,True,Senegal,Congo
-vesGRbDQ,2021-11-15,17:00,1:4,0:2,1:2,17.0,8.97,1.14,2.0,True,Armenia,Germany
-AqLbJzL6,2021-11-15,17:00,0:2,0:1,0:1,30.15,11.9,1.08,2.0,True,Liechtenstein,Romania
-SKF3IfzD,2021-11-15,17:00,3:1,1:0,2:1,1.66,3.83,5.55,0.0,True,North Macedonia,Iceland
-zZO39S22,2021-11-15,16:00,1:0,1:0,0:0,1.91,3.0,4.63,0.0,True,Mali,Uganda
-vugMZtmc,2021-11-14,14:00,1:0,0:0,1:0,1.58,4.21,5.75,0.0,True,Croatia,Russia
-tnWnrQdE,2021-11-14,14:00,0:6,0:3,0:3,8.28,4.37,1.44,2.0,True,Malta,Slovakia
-vaH3nKW2,2021-11-14,14:00,2:1,0:0,2:1,1.35,4.82,10.26,0.0,True,Slovenia,Cyprus
-QHzTgs48,2021-11-14,13:00,2:0,1:0,1:0,1.83,3.13,4.81,0.0,True,D.R. Congo,Benin 
-48ZWh1JE,2021-11-14,13:00,1:1,0:1,1:0,2.22,3.04,3.39,1.0,True,Madagascar,Tanzania
-2Tr6DYa5,2021-11-14,13:00,1:1,1:0,0:1,2.25,2.97,3.41,1.0,True,Zimbabwe,Ethiopia
-670kCYVT,2021-11-14,19:45,3:1,1:0,2:1,1.04,17.4,41.68,0.0,True,Belgium,Estonia
-zsPAN7YD,2021-11-14,19:45,8:0,3:0,5:0,1.02,19.89,60.1,0.0,True,France,Kazakhstan
-KKXX3t3T,2021-11-14,19:45,2:2,0:1,2:1,14.21,7.18,1.2,1.0,True,Montenegro,Netherlands
-dWuaWyHo,2021-11-14,19:45,5:1,2:0,3:1,1.25,6.06,12.96,0.0,True,Wales,Belarus
-x6HYkJpp,2021-11-14,19:00,3:0,1:0,2:0,1.2,5.95,15.65,0.0,True,Ivory Coast,Mozambique
-prw99pZi,2021-11-14,17:00,0:0,0:0,0:0,1.17,7.33,19.27,1.0,True,Norway,Latvia
-6iv5AQJo,2021-11-14,17:00,6:0,3:0,3:0,1.01,30.04,83.5,0.0,True,Turkey,Gibraltar
-61kSr2wH,2021-11-14,16:00,2:1,0:1,2:0,1.5,3.78,7.22,0.0,True,Cape Verde,Central Africa
-KQOYYQ9h,2021-11-14,16:00,1:0,0:0,1:0,4.58,3.13,1.87,0.0,True,Equatorial Guinea,Tunisia
-SAjOqrOA,2021-11-14,16:00,0:2,0:1,0:1,15.41,5.37,1.23,2.0,True,Liberia,Nigeria
-f3JTGdHb,2021-11-13,14:00,1:3,0:1,1:2,2.02,3.32,4.02,2.0,True,Bosnia & Herzegovina,Finland
-zcV6faxT,2021-11-13,13:00,0:4,0:2,0:2,10.44,4.18,1.36,2.0,True,Malawi,Cameroon
-bHNxYpPb,2021-11-13,13:00,4:0,3:0,1:0,1.66,3.35,5.81,0.0,True,Zambia,Mauritania
-Ue6dpY9s,2021-11-13,02:05,1:0,0:0,1:0,1.38,4.51,8.7,0.0,True,Canada,Costa Rica
-M3O3rCvf,2021-11-13,02:00,1:1,0:0,1:1,3.21,2.81,2.55,1.0,True,El Salvador,Jamaica
-4SD8sWg0,2021-11-13,02:00,2:0,0:0,2:0,2.74,2.96,2.8,0.0,True,USA,Mexico
-OI50qhPm,2021-11-13,01:05,2:3,1:0,1:3,2.25,3.1,3.43,2.0,True,Honduras,Panama
-2wWT7ARf,2021-11-13,23:00,0:1,0:1,0:0,4.05,3.03,2.1,2.0,True,Uruguay,Argentina
-2H4hoj9N,2021-11-13,19:45,1:4,1:3,0:1,42.51,11.38,1.07,2.0,True,Andorra,Poland
-GG6YW87d,2021-11-13,19:45,4:2,0:1,4:1,1.51,4.71,5.89,0.0,True,Austria,Israel
-IuRcwBUS,2021-11-13,19:45,3:1,1:0,2:1,1.04,16.57,61.01,0.0,True,Denmark,Faroe Islands
-zT5xKDAO,2021-11-13,19:45,5:0,5:0,0:0,1.17,7.37,20.29,0.0,True,England,Albania
-lWVBYCPH,2021-11-13,19:45,4:0,2:0,2:0,1.01,26.2,80.24,0.0,True,Hungary,San Marino
-8I96h7Gj,2021-11-13,19:45,1:1,1:1,0:0,1.61,3.89,6.11,1.0,True,Italy,Switzerland
-04KYlmSl,2021-11-13,19:45,1:0,1:0,0:0,1.43,4.29,8.8,0.0,True,Northern Ireland,Lithuania
-p8Em9J8J,2021-11-13,19:00,2:2,2:1,0:1,5.34,3.22,1.73,1.0,True,Angola,Egypt
-4ElaLMcq,2021-11-13,19:00,0:3,0:1,0:2,15.3,6.13,1.18,2.0,True,Sudan,Morocco
-bXcmpJsD,2021-11-13,17:00,0:2,0:1,0:1,13.09,5.55,1.28,2.0,True,Moldova,Scotland
-ObDi8wOP,2021-11-13,16:00,1:0,0:0,1:0,2.02,3.07,4.01,0.0,True,Gabon,Libya
-r5m3KtDk,2021-11-13,16:00,0:0,0:0,0:0,1.52,4.08,5.99,1.0,True,Guinea,Guinea Bissau
-IasNwGeK,2021-11-12,13:00,1:1,0:1,1:0,1.07,10.64,26.18,1.0,True,Burkina Faso,Niger
-v9rJvdtE,2021-11-12,13:00,0:4,0:3,0:1,47.9,20.65,1.01,2.0,True,Djibouti,Algeria
-tUUX6Ut1,2021-11-12,02:00,3:0,3:0,0:0,1.38,4.86,8.35,0.0,True,Peru,Bolivia
-ziUy6ld7,2021-11-12,00:30,1:0,0:0,1:0,1.41,4.31,8.77,0.0,True,Brazil,Colombia
-lfYu58BD,2021-11-12,23:00,0:1,0:0,0:1,2.45,3.1,3.1,2.0,True,Paraguay,Chile
-jaCOTilE,2021-11-12,21:00,1:0,1:0,0:0,1.34,4.88,9.82,0.0,True,Ecuador,Venezuela
-EFURetNr,2021-11-12,19:45,9:0,4:0,5:0,1.01,29.36,98.98,0.0,True,Germany,Liechtenstein
-fTpGpYz3,2021-11-12,19:45,0:1,0:1,0:0,6.99,4.28,1.51,2.0,True,Greece,Spain
-l4manZlg,2021-11-12,19:45,0:0,0:0,0:0,8.44,4.48,1.42,1.0,True,Ireland,Portugal
-6Flexz9e,2021-11-12,19:45,1:7,1:4,0:3,23.79,9.38,1.12,2.0,True,Malta,Croatia
-MuYZgKie,2021-11-12,19:45,0:0,0:0,0:0,1.62,4.08,5.63,1.0,True,Romania,Iceland
-KflsVI1S,2021-11-12,19:45,2:2,0:1,2:1,2.31,3.07,3.48,1.0,True,Slovakia,Slovenia
-f3ubFfVh,2021-11-12,19:00,1:0,1:0,0:0,1.32,4.75,9.85,0.0,True,South Africa,Zimbabwe
-p6DqRiU4,2021-11-12,19:00,1:1,1:0,0:1,6.61,3.74,1.53,1.0,True,Togo,Senegal
-Wl6guIsQ,2021-11-12,17:00,0:5,0:2,0:3,2.83,3.34,2.56,2.0,True,Armenia,North Macedonia
-2BqzlnQc,2021-11-12,17:00,1:3,0:0,1:3,2.77,3.0,2.84,2.0,True,Azerbaijan,Luxembourg
-O8xXtjzS,2021-11-12,17:00,2:0,0:0,2:0,6.53,3.94,1.57,0.0,True,Georgia,Sweden
-Y1UHOGvd,2021-11-12,17:00,6:0,1:0,5:0,1.14,8.02,22.47,0.0,True,Russia,Cyprus
-6qvjuvPg,2021-11-12,17:00,1:1,0:0,1:1,2.64,2.88,2.96,1.0,True,Iraq,Syria
-x2soVcR7,2021-11-12,16:00,2:0,1:0,1:0,1.64,3.34,6.01,0.0,True,Benin,Madagascar
-OdCmQBqB,2021-11-12,16:00,1:1,0:1,1:0,2.32,3.03,3.15,1.0,True,Congo,Namibia
-rRMIoPAe,2021-11-12,16:00,0:3,0:2,0:1,6.42,3.31,1.61,2.0,True,Rwanda,Mali
-65VllfPL,2021-11-11,15:00,1:1,1:0,0:1,2.58,3.25,2.73,1.0,True,China,Oman
-GCtfGzGn,2021-11-11,13:00,1:1,0:1,1:0,12.34,4.67,1.29,1.0,True,Ethiopia,Ghana
-bBrsWwC1,2021-11-11,13:00,0:3,0:1,0:2,2.92,2.79,2.67,2.0,True,Tanzania,D.R. Congo
-MHLMpqQ1,2021-11-11,13:00,1:1,0:0,1:1,1.58,3.39,6.86,1.0,True,Uganda,Kenya
-pzwfvbv0,2021-11-11,12:00,1:2,1:0,0:2,9.63,4.15,1.41,2.0,True,Lebanon,Iran 
-pdUhmEvS,2021-11-11,12:00,0:1,0:1,0:0,11.97,5.66,1.25,2.0,True,Vietnam,Japan
-xAZotK9m,2021-11-11,11:00,1:0,1:0,0:0,1.27,5.41,11.1,0.0,True,South Korea,United Arab Emirates
-lUzpkzAF,2021-11-11,09:10,0:0,0:0,0:0,1.66,3.71,5.28,1.0,True,Australia,Saudi Arabia
-ChPdFhZK,2021-10-15,00:30,4:1,2:0,2:1,1.5,3.98,7.69,0.0,True,Brazil,Uruguay
-MREW8jCl,2021-10-15,00:00,3:0,2:0,1:0,1.43,4.35,8.11,0.0,True,Chile,Venezuela
-ryGS9Wdr,2021-10-15,23:30,1:0,1:0,0:0,1.18,6.71,16.86,0.0,True,Argentina,Peru
-UTZiGYJE,2021-10-15,21:00,0:0,0:0,0:0,1.61,3.82,5.99,1.0,True,Colombia,Ecuador
-QeT0EClR,2021-10-15,20:00,4:0,1:0,3:0,2.46,3.1,3.09,0.0,True,Bolivia,Paraguay
-ABPPkfnK,2021-10-14,02:05,0:2,0:1,0:1,9.44,4.35,1.38,2.0,True,El Salvador,Mexico
-WKQLjzXD,2021-10-14,00:05,0:2,0:1,0:1,1.91,3.14,4.57,2.0,True,Honduras,Jamaica
-IHxvSjfD,2021-10-14,23:30,4:1,1:1,3:0,1.51,3.84,7.23,0.0,True,Canada,Panama
-SnKUlE1Q,2021-10-14,23:00,2:1,1:1,1:0,1.39,4.44,8.54,0.0,True,USA,Costa Rica
-r1uAsDEo,2021-10-13,19:00,1:4,1:2,0:2,8.12,3.83,1.45,2.0,True,Guinea,Morocco
-OQ5lnWgH,2021-10-13,18:45,0:1,0:0,0:1,4.21,3.21,2.01,2.0,True,Albania,Poland
-hbqC26dl,2021-10-13,18:45,2:1,0:1,2:0,2.68,2.94,2.95,0.0,True,Bulgaria,Northern Ireland
-dx7YKgeI,2021-10-13,18:45,1:1,1:1,0:0,1.11,9.08,25.18,1.0,True,England,Hungary
-WARjoaS6,2021-10-13,18:45,0:1,0:0,0:1,15.64,5.71,1.23,2.0,True,Faroe Islands,Scotland
-lS90zrEl,2021-10-13,18:45,2:1,1:0,1:1,1.12,8.82,22.66,0.0,True,Israel,Moldova
-0lWAZ7S1,2021-10-13,18:45,1:2,1:1,0:1,2.12,3.14,3.86,2.0,True,Kosovo,Georgia
-tOu83nsr,2021-10-13,18:45,0:4,0:3,0:1,15.81,6.8,1.19,2.0,True,Lithuania,Switzerland
-URA2gm1p,2021-10-13,18:45,0:3,0:1,0:2,6.35,3.12,1.75,2.0,True,San Marino,Andorra
-hSxkUiZO,2021-10-13,18:45,3:1,1:1,2:0,1.13,8.47,23.08,0.0,True,Serbia,Azerbaijan
-63tip4PM,2021-10-13,18:45,2:0,0:0,2:0,1.83,3.25,5.19,0.0,True,Sweden,Greece
-Ussq5aIn,2021-10-13,18:45,1:1,1:0,0:1,1.74,3.65,5.04,1.0,True,Ukraine,Bosnia & Herzegovina
-8j949air,2021-10-13,18:45,1:0,0:0,1:0,1.6,3.81,6.23,0.0,True,Denmark,Austria
-OnoYXZZa,2021-10-13,18:45,5:0,3:0,2:0,1.05,13.93,38.91,0.0,True,Portugal,Luxembourg
-GGxxidu3,2021-10-13,17:00,3:2,2:0,1:2,1.55,3.76,6.6,0.0,True,Saudi Arabia,China
-hxbFotnQ,2021-10-13,16:45,2:2,1:0,1:2,2.41,2.96,3.22,1.0,True,United Arab Emirates,Iraq
-2sOvSXEb,2021-10-13,16:00,1:2,0:1,1:1,2.39,2.79,3.44,2.0,True,Congo,Togo
-O00WGhl7,2021-10-13,16:00,0:4,0:2,0:2,19.77,7.64,1.13,2.0,True,Niger,Algeria
-YmikHG0t,2021-10-13,16:00,1:0,1:0,0:0,1.38,4.43,8.66,0.0,True,South Africa,Ethiopia
-AwxtjGf9,2021-10-13,16:00,3:1,1:1,2:0,1.61,3.83,5.69,0.0,True,Oman,Vietnam
-bJzrs0fs,2021-10-13,16:00,2:3,1:2,1:1,1.87,3.24,4.58,2.0,True,Syria,Lebanon
-xS8YFGW4,2021-10-12,14:00,0:2,0:1,0:1,4.8,3.33,1.85,,True,Kazakhstan,Finland
-t2fBnMWJ,2021-10-12,13:30,1:1,0:0,1:1,2.27,2.98,3.49,1.0,True,Iran,South Korea
-lvKzTDah,2021-10-12,13:00,1:3,1:1,0:2,8.56,4.28,1.39,2.0,True,Namibia,Senegal
-dSaNLdhP,2021-10-12,13:00,0:1,0:1,0:0,4.73,3.01,1.92,2.0,True,Zimbabwe,Ghana
-2DYXixQd,2021-10-12,10:14,2:1,1:0,1:1,1.95,3.29,4.09,0.0,True,Japan,Australia
-WSW0oGGC,2021-10-12,19:00,0:3,0:2,0:1,4.74,3.02,1.9,2.0,True,Libya,Egypt
-fwzwrZFc,2021-10-12,18:45,0:2,0:1,0:1,10.41,5.53,1.29,2.0,True,Belarus,Czech Republic 
-zoLbgYrf,2021-10-12,18:45,2:2,1:2,1:0,1.37,4.79,9.13,1.0,True,Croatia,Slovakia
-dhHZrF0i,2021-10-12,18:45,0:1,0:1,0:0,7.79,3.84,1.51,2.0,True,Estonia,Wales
-ns888J6l,2021-10-12,18:45,4:0,2:0,2:0,1.1,9.66,28.37,0.0,True,Iceland,Liechtenstein
-bLXnLsY3,2021-10-12,18:45,1:2,0:0,1:2,7.5,4.53,1.44,2.0,True,Latvia,Turkey
-WUsCSvbK,2021-10-12,18:45,0:4,0:0,0:4,13.17,6.88,1.21,2.0,True,North Macedonia,Germany
-fyDjefEs,2021-10-12,18:45,2:0,1:0,1:0,1.47,4.21,7.56,0.0,True,Norway,Montenegro
-WAFQGsa8,2021-10-12,18:45,1:0,1:0,0:0,1.62,3.98,5.52,0.0,True,Romania,Armenia
-8faGQcRt,2021-10-12,18:45,1:2,1:2,0:0,2.62,3.05,2.96,2.0,True,Slovenia,Russia
-0E5Cpb1F,2021-10-12,16:00,2:2,1:0,1:2,1.98,3.07,4.57,1.0,True,Cyprus,Malta
-x44zGC3D,2021-10-12,16:00,2:0,1:0,1:0,1.01,18.01,48.1,0.0,True,Burkina Faso,Djibouti
-hYu2euNM,2021-10-12,16:00,2:1,1:1,1:0,1.33,4.67,9.45,0.0,True,Ivory Coast,Malawi
-r3z5pzWI,2021-10-11,13:00,2:0,0:0,2:0,2.11,3.02,3.79,0.0,True,Gabon,Angola
-vVybdL7G,2021-10-11,13:00,0:1,0:0,0:1,8.67,3.85,1.44,2.0,True,Mozambique,Cameroon
-6kqth7Vu,2021-10-11,00:00,2:0,0:0,2:0,1.84,3.29,4.9,0.0,True,Chile,Paraguay 
-rujsXNaU,2021-10-11,23:30,3:0,2:0,1:0,1.61,3.59,6.5,0.0,True,Argentina,Uruguay 
-rapRUhAf,2021-10-11,23:00,3:0,1:0,2:0,1.15,7.66,16.71,0.0,True,Mexico,Honduras
-MkqVTCP0,2021-10-11,22:00,2:1,0:1,2:0,1.67,3.29,6.3,0.0,True,Costa Rica,El Salvador
-zZpNVYfl,2021-10-11,22:00,0:0,0:0,0:0,5.12,3.14,1.82,1.0,True,Jamaica,Canada
-4EYZSWv7,2021-10-11,22:00,1:0,0:0,1:0,3.89,3.13,2.07,0.0,True,Panama,USA
-dOmVZPFB,2021-10-11,21:00,0:0,0:0,0:0,4.41,3.1,1.99,1.0,True,Colombia,Brazil 
-ARiZYqVH,2021-10-11,20:30,2:1,1:1,1:0,3.94,3.07,2.11,0.0,True,Venezuela,Ecuador 
-4liwY3pO,2021-10-11,20:00,1:0,0:0,1:0,2.5,3.12,3.0,0.0,True,Bolivia,Peru 
-ObVPzmut,2021-10-11,19:00,0:0,0:0,0:0,10.21,4.37,1.35,1.0,True,Mauritania,Tunisia
-pn1JpO84,2021-10-11,16:00,1:0,0:0,1:0,1.47,3.84,7.53,0.0,True,Cape Verde,Liberia
-2qkYXask,2021-10-11,16:00,1:0,1:0,0:0,4.53,3.16,1.88,0.0,True,Madagascar,D.R. Congo
-x2ZTZ6fn,2021-10-11,16:00,1:1,0:0,1:1,1.71,3.41,5.19,1.0,True,Zambia,Equatorial Guinea
-GngxXJde,2021-10-10,13:00,0:1,0:1,0:0,1.59,3.48,6.56,2.0,True,Benin,Tanzania
-n1rGo4gb,2021-10-10,13:00,0:2,0:2,0:0,13.4,5.29,1.24,2.0,True,Central Africa,Nigeria
-naT9motq,2021-10-10,13:00,0:1,0:0,0:1,4.97,3.28,1.78,2.0,True,Kenya,Mali
-02XDn5ek,2021-10-10,13:00,1:0,1:0,0:0,1.56,3.41,7.57,0.0,True,Uganda,Rwanda
-CtXQwVDA,2021-10-10,19:00,0:3,0:2,0:1,19.23,7.14,1.14,2.0,True,Guinea Bissau,Morocco
-GQLSUZUu,2021-10-10,19:00,4:1,2:0,2:1,1.16,6.4,21.6,0.0,True,Senegal,Namibia
-OMH5ekkL,2021-10-10,18:45,2:0,1:0,1:0,1.35,4.77,10.26,0.0,True,Switzerland,Northern Ireland
-8z3xkY9b,2021-10-10,18:45,0:5,0:2,0:3,57.18,23.63,1.01,2.0,True,Andorra,England
-pfPvl1rl,2021-10-10,18:45,0:2,0:1,0:1,14.28,6.19,1.22,2.0,True,Faroe Islands,Austria
-QZDBjWSC,2021-10-10,18:45,0:1,0:0,0:1,2.33,2.93,3.59,2.0,True,Hungary,Albania 
-IquGrilI,2021-10-10,18:45,0:1,0:0,0:1,9.13,5.05,1.35,2.0,True,Luxembourg,Serbia
-Wnq4f35K,2021-10-10,18:45,0:4,0:4,0:0,31.87,10.01,1.09,2.0,True,Moldova,Denmark
-OKpWlSAi,2021-10-10,16:00,0:3,0:2,0:1,3.79,2.97,2.23,2.0,True,Azerbaijan,Ireland
-AFHHJbXu,2021-10-10,16:00,1:2,1:2,0:0,3.41,3.05,2.35,2.0,True,Finland,Ukraine
-vZs2yUck,2021-10-10,16:00,0:2,0:0,0:2,3.89,3.01,2.18,2.0,True,Georgia,Greece
-r91H6cy1,2021-10-10,16:00,3:2,1:2,2:0,1.79,3.59,4.75,0.0,True,Scotland,Israel
-jyINvrmp,2021-10-10,16:00,3:0,1:0,2:0,1.36,4.83,9.58,0.0,True,Sweden,Kosovo
-4YCybg0I,2021-10-10,16:00,3:1,1:0,2:1,1.33,4.57,10.05,0.0,True,Ghana,Zimbabwe
-fHKWTgpn,2021-10-10,16:00,1:1,0:1,1:0,2.58,2.98,2.89,1.0,True,Togo,Congo
-GI7xFznB,2021-10-09,13:00,0:2,0:1,0:1,4.58,3.56,1.81,2.0,True,Kazakhstan,Bosnia & Herzegovina
-QBsK0pR0,2021-10-09,13:00,3:1,1:0,2:1,3.58,3.12,2.25,0.0,True,Lithuania,Bulgaria
-rPBucDFO,2021-10-09,13:00,1:3,0:1,1:2,3.18,2.73,2.59,2.0,True,Ethiopia,South Africa
-OGzVxkTG,2021-10-09,13:00,2:2,0:0,2:2,1.74,3.46,4.91,1.0,True,Guinea,Sudan
-jm2OIEJf,2021-10-09,19:00,6:1,1:0,5:1,1.07,10.62,26.69,0.0,True,Algeria,Niger
-Uw1SHYY0,2021-10-09,19:00,0:4,0:1,0:3,36.56,16.42,1.02,2.0,True,Djibouti,Burkina Faso
-bFYhmxn0,2021-10-09,19:00,1:0,0:0,1:0,1.58,3.49,6.92,0.0,True,Egypt,Libya
-SOkiwGgk,2021-10-09,18:45,0:3,0:1,0:2,14.69,6.36,1.21,2.0,True,Cyprus,Croatia
-GdvmLB8p,2021-10-09,18:45,2:2,1:1,1:1,1.78,3.37,5.34,1.0,True,Czech Republic,Wales
-SjYptDpA,2021-10-09,18:45,2:0,0:0,2:0,2.64,3.04,2.98,0.0,True,Estonia,Belarus
-IT0cEZKJ,2021-10-09,18:45,2:1,0:1,2:0,1.11,10.76,21.33,0.0,True,Germany,Romania
-bqGZBwej,2021-10-09,18:45,0:3,0:2,0:1,19.46,8.44,1.14,2.0,True,Gibraltar,Montenegro
-jBMxEuqR,2021-10-09,18:45,1:1,0:1,1:0,2.34,3.22,3.23,1.0,True,Iceland,Armenia
-Q1A0a0Bp,2021-10-09,18:45,0:1,0:1,0:0,31.84,12.4,1.07,2.0,True,Latvia,Netherlands
-xWrMzxjs,2021-10-09,18:45,0:4,0:1,0:3,22.35,7.65,1.14,2.0,True,Liechtenstein,North Macedonia
-xziXMFQ5,2021-10-09,18:45,0:4,0:1,0:3,6.52,3.45,1.65,2.0,True,Malta,Slovenia
-0xlayfO1,2021-10-09,18:45,1:0,1:0,0:0,1.9,3.38,4.42,0.0,True,Russia,Slovakia
-bmYl4kcC,2021-10-09,18:45,1:1,1:1,0:0,2.45,3.35,3.01,1.0,True,Turkey,Norway
-x6Xdnd16,2021-10-09,16:00,3:1,1:0,2:1,2.7,2.7,3.04,0.0,True,Angola,Gabon
-6Hwjbsw4,2021-10-09,16:00,3:1,1:0,2:1,1.3,4.86,10.44,0.0,True,Cameroon,Mozambique
-p8xfc1hA,2021-10-08,13:00,0:3,0:1,0:2,6.99,3.57,1.55,2.0,True,Malawi,Ivory Coast
-j19jyeXQ,2021-10-08,02:05,1:0,1:0,0:0,2.96,2.77,2.75,0.0,True,El Salvador,Panama
-ry6rwH2E,2021-10-08,01:40,1:1,1:1,0:0,1.55,3.97,6.1,1.0,True,Mexico,Canada
-t8gcfice,2021-10-08,01:00,2:0,1:0,1:0,2.69,3.05,2.83,0.0,True,Peru,Chile
-jwylHE48,2021-10-08,00:30,3:0,3:0,0:0,1.18,6.86,16.64,0.0,True,Ecuador,Bolivia
-xb5nxyIK,2021-10-08,00:05,0:0,0:0,0:0,2.48,2.86,3.24,1.0,True,Honduras,Costa Rica
-drnJWEur,2021-10-08,23:45,2:0,0:0,2:0,1.32,4.96,9.7,0.0,True,USA,Jamaica
-OWr2gBC1,2021-10-08,23:30,1:3,1:0,0:3,11.35,4.88,1.31,2.0,True,Venezuela,Brazil
-2Ns6hVR7,2021-10-08,23:00,0:0,0:0,0:0,6.41,3.56,1.63,1.0,True,Paraguay,Argentina
-UXkgeXsk,2021-10-08,23:00,0:0,0:0,0:0,2.02,3.04,4.37,1.0,True,Uruguay,Colombia
-jTsvg7IL,2021-10-08,19:00,5:0,4:0,1:0,1.62,3.32,6.61,0.0,True,Mali,Kenya
-YVJETVXC,2021-10-08,19:00,3:0,2:0,1:0,1.21,5.97,13.49,0.0,True,Tunisia,Mauritania
-EidsVEIq,2021-10-08,18:30,3:1,1:1,2:0,1.34,4.68,10.2,0.0,True,Australia,Oman 
-08fkThmd,2021-10-08,17:00,3:2,0:0,3:2,1.64,3.71,5.48,0.0,True,China,Vietnam 
-MHeoUYXk,2021-10-08,17:00,1:0,0:0,1:0,4.44,3.29,1.88,0.0,True,Saudi Arabia,Japan
-l87POIvD,2021-10-08,16:45,0:1,0:0,0:1,5.6,3.55,1.66,2.0,True,United Arab Emirates,Iran
-CMIISkmJ,2021-10-08,16:00,2:0,1:0,1:0,3.04,2.8,2.6,0.0,True,Equatorial Guinea,Zambia
-Emp8mQOo,2021-10-08,16:00,0:1,0:0,0:1,1.09,9.03,22.71,2.0,True,Nigeria,Central Africa
-UJtrhRXR,2021-10-08,16:00,0:1,0:1,0:0,3.19,2.51,2.8,2.0,True,Rwanda,Uganda
-Sb6TNxfJ,2021-10-07,14:30,0:0,0:0,0:0,1.65,3.52,6.71,1.0,True,Iraq,Lebanon 
-6D32wMJR,2021-10-07,13:00,2:0,1:0,1:0,1.47,3.8,7.63,0.0,True,D.R. Congo,Madagascar
-hvqCnpvh,2021-10-07,13:00,1:2,1:0,0:2,3.96,2.97,2.08,2.0,True,Liberia,Cape Verde
-8MkUYuSr,2021-10-07,13:00,0:1,0:0,0:1,2.84,2.8,2.78,2.0,True,Tanzania,Benin
-WWCKPbP6,2021-10-07,11:00,2:1,0:0,2:1,1.3,4.96,10.87,0.0,True,South Korea,Syria
-vTYIuiqb,2021-10-07,19:00,5:0,2:0,3:0,1.13,7.93,17.92,0.0,True,Morocco,Guinea Bissau
-IJXMvBb4,2021-10-07,16:00,1:1,0:0,1:1,5.72,3.35,1.68,1.0,True,Sudan,Guinea
-GQ9I1Z4L,2021-09-10,00:30,2:0,2:0,0:0,1.31,5.08,11.02,0.0,True,Brazil,Peru
-zBjkdDSr,2021-09-10,23:30,3:0,1:0,2:0,1.05,13.24,32.38,0.0,True,Argentina,Bolivia
-xzBE2FkF,2021-09-10,23:00,3:1,2:0,1:1,1.97,3.08,4.52,0.0,True,Colombia,Chile
-Y14N0gKR,2021-09-10,22:30,2:1,1:0,1:1,1.71,3.48,5.46,0.0,True,Paraguay,Venezuela
-rDBA3ez9,2021-09-10,22:30,1:0,0:0,1:0,1.71,3.36,6.02,0.0,True,Uruguay,Ecuador
-lxPiGge1,2021-09-09,02:30,1:4,1:0,0:4,5.34,3.28,1.75,2.0,True,Honduras,USA
-4p7vvcm8,2021-09-09,01:00,1:1,1:0,0:1,1.56,3.63,6.89,1.0,True,Costa Rica,Jamaica
-SSNeFDA7,2021-09-09,00:05,1:1,1:0,0:1,6.18,3.49,1.63,1.0,True,Panama,Mexico
-fFPmHZue,2021-09-09,23:30,3:0,2:0,1:0,1.53,3.79,6.98,0.0,True,Canada,El Salvador
-MqUJWjfU,2021-09-09,18:45,5:0,1:0,4:0,1.02,19.39,66.01,0.0,True,Albania,San Marino
-pEmHQXpN,2021-09-09,18:45,0:1,0:1,0:0,21.32,8.68,1.13,2.0,True,Belarus,Belgium 
-pIwTsWKL,2021-09-09,18:45,2:1,0:0,2:1,3.23,2.96,2.51,0.0,True,Greece,Sweden
-xdS7ZhAB,2021-09-09,18:45,2:1,2:0,0:1,1.13,8.78,20.85,0.0,True,Hungary,Andorra
-hvq8TKrE,2021-09-09,18:45,0:4,0:2,0:2,16.3,8.09,1.16,2.0,True,Iceland,Germany
-AJD1dVZE,2021-09-09,18:45,5:0,4:0,1:0,1.04,16.7,47.77,0.0,True,Italy,Lithuania
-StqOrC5F,2021-09-09,18:45,0:2,0:1,0:1,15.7,6.84,1.19,2.0,True,Kosovo,Spain
-xWMjLdjf,2021-09-09,18:45,0:0,0:0,0:0,2.52,3.15,3.0,1.0,True,North Macedonia,Romania
-dj4y98JK,2021-09-09,18:45,0:0,0:0,0:0,5.86,3.79,1.63,1.0,True,Northern Ireland,Switzerland
-MJ0QizQu,2021-09-09,18:45,1:1,0:0,1:1,6.04,3.53,1.68,1.0,True,Poland,England
-zNv3VeWi,2021-09-09,18:45,0:0,0:0,0:0,1.24,6.07,12.91,1.0,True,Wales,Estonia
-xEsU8Drs,2021-09-09,16:00,1:1,1:0,0:1,1.1,9.49,27.69,1.0,True,Armenia,Liechtenstein
-tvvllIWg,2021-09-08,19:00,0:1,0:1,0:0,2.03,3.01,4.1,2.0,True,Angola,Libya
-pzXNKzkr,2021-09-08,19:00,1:1,0:1,1:0,8.19,3.86,1.45,1.0,True,Burkina Faso,Algeria
-MivEtXTi,2021-09-08,19:00,2:4,0:3,2:1,2.04,3.01,4.01,2.0,True,Sudan,Guinea Bissau
-xQ7UXlhj,2021-09-08,18:45,0:1,0:1,0:0,1.84,3.4,4.8,2.0,True,Austria,Scotland
-t0gf2c25,2021-09-08,18:45,2:2,0:0,2:2,1.26,5.85,12.4,1.0,True,Bosnia & Herzegovina,Kazakhstan
-jFdQY023,2021-09-08,18:45,3:0,1:0,2:0,1.67,3.56,5.93,0.0,True,Croatia,Slovenia
-OIRgviFM,2021-09-08,18:45,5:0,3:0,2:0,1.32,5.28,10.1,0.0,True,Denmark,Israel
-6345Z1Tf,2021-09-08,18:45,2:1,0:0,2:1,2.12,3.03,4.08,0.0,True,Faroe Islands,Moldova
-rmxPa4t7,2021-09-08,18:45,2:0,1:0,1:0,1.18,7.05,20.21,0.0,True,France,Finland
-vgtCqXYB,2021-09-08,18:45,1:1,0:1,1:0,3.87,3.24,2.08,1.0,True,Ireland,Serbia
-jutH7O34,2021-09-08,18:45,0:0,0:0,0:0,1.52,3.97,7.17,1.0,True,Montenegro,Latvia
-hSQOaz6Q,2021-09-08,18:45,6:1,3:0,3:1,1.3,5.8,9.65,0.0,True,Netherlands,Turkey
-v5xD84lb,2021-09-08,18:45,5:1,3:1,2:0,1.01,25.64,76.25,0.0,True,Norway,Gibraltar
-ChTLNzf2,2021-09-08,18:45,2:0,1:0,1:0,1.13,8.98,19.93,0.0,True,Russia,Malta
-xzy9QxAq,2021-09-08,18:45,2:0,0:0,2:0,1.41,4.54,9.06,0.0,True,Slovakia,Cyprus
-pGA8S0ul,2021-09-08,18:00,0:3,0:1,0:2,6.73,3.35,1.63,2.0,True,Iraq,Iran 
-AJy8pDJ5,2021-09-08,16:00,0:3,0:2,0:1,21.82,8.18,1.14,2.0,True,Azerbaijan,Portugal
-GfP9UBI6,2021-09-08,16:00,1:0,0:0,1:0,2.39,2.79,3.39,0.0,True,Equatorial Guinea,Mauritania
-f3q9mNYA,2021-09-08,16:00,0:1,0:1,0:0,3.39,3.0,2.3,2.0,True,Oman,Saudi Arabia
-bJECRKff,2021-09-08,16:00,1:1,0:1,1:0,3.43,3.08,2.24,1.0,True,Syria,United Arab Emirates
-zNEcTMwU,2021-09-08,16:00,1:2,1:1,0:1,3.52,2.93,2.24,2.0,True,Cape Verde,Nigeria
-x0jIAWqO,2021-09-08,16:00,1:3,1:1,0:2,6.38,3.37,1.63,2.0,True,Congo,Senegal
-t0u5l3J4,2021-09-07,15:00,0:1,0:1,0:0,7.84,4.6,1.4,2.0,True,China,Japan 
-OMevaZpC,2021-09-07,13:00,1:0,0:0,1:0,2.47,2.81,3.26,0.0,True,Ethiopia,Zimbabwe
-Q5MhaNNc,2021-09-07,13:00,1:0,1:0,0:0,3.25,2.58,2.68,0.0,True,Malawi,Mozambique
-viX5v24L,2021-09-07,13:00,3:2,2:2,1:0,2.1,2.98,3.89,0.0,True,Tanzania,Madagascar
-x4Q5Vi30,2021-09-07,13:00,0:2,0:1,0:1,4.32,2.88,2.05,2.0,True,Zambia,Tunisia
-xSYDnslH,2021-09-07,12:00,0:1,0:1,0:0,10.01,5.82,1.27,2.0,True,Vietnam,Australia 
-htEGQvA0,2021-09-07,11:00,1:0,0:0,1:0,1.23,5.73,14.79,0.0,True,South Korea,Lebanon 
-nFNl038i,2021-09-07,19:00,2:1,2:0,0:1,2.2,2.88,3.76,0.0,True,Ivory Coast,Cameroon
-xW0POtno,2021-09-07,16:00,0:1,0:0,0:1,3.49,2.62,2.48,2.0,True,Central Africa,Liberia 
-pWdz0FV5,2021-09-07,16:00,1:0,0:0,1:0,2.9,2.67,2.85,0.0,True,South Africa,Ghana
-00Y1urkF,2021-09-06,13:00,1:1,1:1,0:0,2.46,2.71,3.39,1.0,True,Benin,D.R. Congo
-f1lVfTm9,2021-09-06,13:00,0:0,0:0,0:0,3.7,2.61,2.4,1.0,True,Uganda,Mali
-v3sljo0h,2021-09-06,01:00,1:0,1:0,0:0,1.64,3.76,5.5,0.0,True,Peru,Venezuela 
-UXu9OHmL,2021-09-06,00:00,1:1,0:0,1:1,1.61,3.69,5.68,1.0,True,USA,Canada
-0GWvJeBr,2021-09-06,23:00,0:1,0:1,0:0,6.45,3.62,1.58,2.0,True,Costa Rica,Mexico
-b7pDNy3R,2021-09-06,23:00,0:0,0:0,0:0,2.98,2.85,2.62,1.0,True,El Salvador,Honduras
-zVzclPU4,2021-09-06,22:00,1:1,1:0,0:1,3.43,3.0,2.33,1.0,True,Paraguay,Colombia 
-ptrpiRpn,2021-09-06,22:00,4:2,2:0,2:2,1.16,7.27,17.88,0.0,True,Uruguay,Bolivia
-ruMqIFQl,2021-09-06,22:00,0:3,0:2,0:1,1.91,3.26,4.25,2.0,True,Jamaica,Panama
-ELZ0mqpB,2021-09-06,21:00,0:0,0:0,0:0,1.82,3.56,4.44,1.0,True,Ecuador,Chile 
-2mupkbHm,2021-09-06,19:00,1:1,0:0,1:1,5.41,3.16,1.76,1.0,True,Gabon,Egypt
-phCtEf1H,2021-09-06,18:45,3:0,2:0,1:0,1.45,4.68,7.07,0.0,True,Belgium,Czech Republic
-dvj1ElwA,2021-09-06,18:45,6:0,4:0,2:0,1.07,12.68,26.4,0.0,True,Germany,Armenia
-McX6zlDe,2021-09-06,18:45,1:1,0:1,1:0,3.55,3.05,2.29,1.0,True,Kosovo,Greece
-hQ3ZELTK,2021-09-06,18:45,2:0,2:0,0:0,1.04,16.36,40.12,0.0,True,Romania,Liechtenstein
-M1oPuUWp,2021-09-06,18:45,1:7,0:4,1:3,87.22,29.4,1.01,2.0,True,San Marino,Poland
-bwwqnQfA,2021-09-06,18:45,4:0,3:0,1:0,1.11,9.37,25.86,0.0,True,Spain,Georgia
-YHItmRd1,2021-09-06,18:45,0:0,0:0,0:0,4.57,3.45,1.87,1.0,True,Switzerland,Italy
-z5Z64D9o,2021-09-06,16:00,1:0,0:0,1:0,3.0,2.87,2.74,0.0,True,Albania,Hungary
-veJxl7se,2021-09-06,16:00,1:0,0:0,1:0,1.53,3.92,7.28,0.0,True,Bulgaria,Lithuania
-lWgKrcmP,2021-09-06,16:00,4:0,1:0,3:0,1.01,28.94,73.4,0.0,True,England,Andorra
-WW41DgzQ,2021-09-06,16:00,2:2,0:1,2:1,2.68,2.99,2.95,1.0,True,Iceland,North Macedonia
-GjkM9jaU,2021-09-06,16:00,0:1,0:0,0:1,2.39,2.79,3.43,2.0,True,Togo,Namibia
-fmwiKVNj,2021-09-05,13:00,2:3,2:1,0:2,7.55,3.8,1.54,2.0,True,Belarus,Wales 
-YimZgm3F,2021-09-05,13:00,1:1,1:1,0:0,2.64,2.7,3.11,1.0,True,Rwanda,Kenya
-hdp0eqjE,2021-09-05,18:45,0:1,0:0,0:1,25.33,9.77,1.11,2.0,True,Faroe Islands,Denmark
-xCWjK1mA,2021-09-05,18:45,0:3,0:0,0:3,65.99,20.51,1.02,2.0,True,Gibraltar,Turkey
-2VZZlsTs,2021-09-05,18:45,5:2,3:1,2:1,3.7,3.35,2.1,0.0,True,Israel,Austria
-OUux7iDg,2021-09-05,18:45,4:0,1:0,3:0,1.15,8.27,18.45,0.0,True,Netherlands,Montenegro
-IumThjUF,2021-09-05,18:45,1:0,1:0,0:0,1.15,7.69,25.1,0.0,True,Scotland,Moldova
-EH9GqIGL,2021-09-05,18:45,0:1,0:0,0:1,3.91,3.27,2.07,2.0,True,Slovakia,Croatia
-OOra1HHB,2021-09-05,18:45,1:1,1:0,0:1,5.72,3.85,1.65,1.0,True,Ukraine,France
-nobKPHtm,2021-09-05,16:00,0:2,0:1,0:1,8.77,4.58,1.4,2.0,True,Cyprus,Russia
-vVcPhyCP,2021-09-05,16:00,1:1,0:1,1:0,1.53,3.77,7.64,1.0,True,Ireland,Azerbaijan
-pxzaIuIM,2021-09-05,16:00,0:2,0:1,0:1,11.86,5.83,1.27,2.0,True,Latvia,Norway
-EyvoVXJI,2021-09-05,16:00,4:1,2:0,2:1,1.23,6.3,13.88,0.0,True,Serbia,Luxembourg
-IkG7ovn9,2021-09-05,16:00,1:0,1:0,0:0,1.25,6.04,13.41,0.0,True,Slovenia,Malta
-29fj3wma,2021-09-04,13:00,1:0,0:0,1:0,1.38,4.54,9.78,0.0,True,Finland,Kazakhstan
-K8V2x0Gp,2021-09-04,19:00,2:0,2:0,0:0,1.25,5.03,14.55,0.0,True,Cameroon,Malawi
-x6gS1y1g,2021-09-04,19:00,1:0,1:0,0:0,1.17,6.51,18.17,0.0,True,Ghana,Ethiopia
-W6NcXDYm,2021-09-04,19:00,3:0,0:0,3:0,1.21,5.77,15.27,0.0,True,Tunisia,Equatorial Guinea
-rsR1WXmf,2021-09-04,16:00,1:2,0:1,1:1,3.02,2.69,2.76,2.0,True,Mauritania,Zambia
-SdBkVr9H,2021-09-04,16:00,2:0,2:0,0:0,1.16,7.05,16.97,0.0,True,Nigeria,Liberia
-YBZ6yKVj,2021-09-03,13:00,0:0,0:0,0:0,7.71,3.61,1.51,1.0,True,Mozambique,Ivory Coast
-j9cW0eGa,2021-09-03,13:00,0:0,0:0,0:0,3.77,3.07,2.1,1.0,True,Zimbabwe,South Africa
-fFmdRJ32,2021-09-03,02:05,0:0,0:0,0:0,9.2,4.83,1.34,1.0,True,El Salvador,USA
-jss5PcYE,2021-09-03,02:00,2:1,0:0,2:1,1.22,6.11,13.37,0.0,True,Mexico,Jamaica
-8Ii0QwJ8,2021-09-03,01:05,0:0,0:0,0:0,2.35,3.01,3.28,1.0,True,Panama,Costa Rica
-S4TNuhr2,2021-09-03,01:00,0:1,0:0,0:1,5.41,3.4,1.77,2.0,True,Chile,Brazil
-GnHCrfbq,2021-09-03,01:00,1:1,1:1,0:0,3.31,3.04,2.38,1.0,True,Peru,Uruguay
-tCaE2zR1,2021-09-03,00:05,1:1,0:1,1:0,1.52,3.87,6.93,1.0,True,Canada,Honduras
-fwGGsEDk,2021-09-03,00:00,1:3,0:1,1:2,8.79,4.67,1.38,2.0,True,Venezuela,Argentina
-U9764yL2,2021-09-03,21:00,2:0,0:0,2:0,1.63,3.76,5.77,0.0,True,Ecuador,Paraguay
-lEUJtYSe,2021-09-03,20:00,1:1,0:0,1:1,3.75,3.28,2.08,1.0,True,Bolivia,Colombia
-EithQdRK,2021-09-03,19:00,8:0,4:0,4:0,1.02,19.95,32.91,0.0,True,Algeria,Djibouti 
-hx00N9TT,2021-09-03,19:00,2:0,1:0,1:0,1.2,5.86,14.87,0.0,True,Morocco,Sudan 
-4QCFkjrJ,2021-09-03,18:45,2:0,2:0,0:0,1.55,3.59,8.11,0.0,True,Andorra,San Marino
-A1EUF1EE,2021-09-03,18:45,1:0,1:0,0:0,1.18,6.93,17.2,0.0,True,Czech Republic,Belarus
-O4nLPi0T,2021-09-03,18:45,2:5,1:2,1:3,28.86,12.16,1.07,2.0,True,Estonia,Belgium
-0AaUjfun,2021-09-03,18:45,0:4,0:0,0:4,8.53,4.37,1.43,2.0,True,Hungary,England
-OSInMxyl,2021-09-03,18:45,0:2,0:0,0:2,2.65,3.15,2.86,2.0,True,Iceland,Romania
-SfOdcBK8,2021-09-03,18:45,1:1,1:1,0:0,1.08,11.34,30.05,1.0,True,Italy,Bulgaria
-t4TsNILs,2021-09-03,18:45,0:2,0:1,0:1,68.66,30.92,1.01,2.0,True,Liechtenstein,Germany
-nLrG1QBf,2021-09-03,18:45,1:4,0:1,1:3,4.37,3.19,1.98,2.0,True,Lithuania,Northern Ireland 
-4I2D7wMf,2021-09-03,18:45,0:0,0:0,0:0,1.75,3.57,5.18,1.0,True,North Macedonia,Armenia
-n7ZfxeQh,2021-09-03,18:45,4:1,2:1,2:0,1.58,3.81,6.71,0.0,True,Poland,Albania
-tQtCoELd,2021-09-03,18:45,2:1,1:1,1:0,5.07,3.52,1.78,0.0,True,Sweden,Spain
-8nscjPlh,2021-09-03,18:00,3:0,2:0,1:0,1.87,3.53,4.12,0.0,True,Australia,China 
-nwt1kq4b,2021-09-03,18:00,3:1,0:1,3:0,1.24,6.02,11.63,0.0,True,Saudi Arabia,Vietnam
-2iL3TtQs,2021-09-03,16:45,0:0,0:0,0:0,1.23,5.85,12.89,1.0,True,United Arab Emirates,Lebanon
-xhGVxMHd,2021-09-03,16:00,0:1,0:1,0:0,2.11,3.02,4.16,2.0,True,Georgia,Kosovo
-6wZctOZ8,2021-09-03,16:00,0:1,0:1,0:0,2.14,2.92,3.81,2.0,True,Madagascar,Benin
-rwiEBCUH,2021-09-03,16:00,1:1,1:0,0:1,2.93,2.71,2.78,1.0,True,Namibia,Congo
-SfpdPGtR,2021-09-03,16:00,0:2,0:0,0:2,6.91,3.36,1.59,2.0,True,Niger,Burkina Faso
-hIZXY22K,2021-09-03,16:00,1:0,0:0,1:0,1.31,4.91,10.64,0.0,True,Iran,Syria 
-hzVgs4K2,2021-09-02,13:00,1:1,1:1,0:0,1.51,3.76,7.12,1.0,True,D.R. Congo,Tanzania
-0vkRe9Y2,2021-09-02,13:00,0:0,0:0,0:0,2.34,2.79,3.49,1.0,True,Kenya,Uganda
-0rZyYMHQ,2021-09-02,11:00,0:0,0:0,0:0,1.42,4.19,8.65,1.0,True,South Korea,Iraq 
-jBnhi5Zo,2021-09-02,10:14,0:1,0:0,0:1,1.15,7.34,17.9,2.0,True,Japan,Oman
-dlDC76XE,2021-09-02,19:00,1:0,1:0,0:0,1.47,3.62,8.65,0.0,True,Egypt,Angola
-8Qutjv2s,2021-09-02,19:00,2:1,1:1,1:0,2.44,2.84,3.25,0.0,True,Libya,Gabon
-l4oNdkJd,2021-09-02,19:00,1:0,1:0,0:0,1.69,3.29,5.74,0.0,True,Mali,Rwanda
-pSSkuXaG,2021-09-02,18:45,2:0,2:0,0:0,1.48,4.13,7.57,0.0,True,Denmark,Scotland
-xOdiqwcJ,2021-09-02,18:45,0:4,0:2,0:2,8.38,4.5,1.42,2.0,True,Faroe Islands,Israel
-MwyTbOeD,2021-09-02,18:45,1:1,1:1,0:0,1.16,7.99,17.5,1.0,True,France,Bosnia & Herzegovina
-tvpileKt,2021-09-02,18:45,2:1,2:0,0:1,2.13,3.09,3.93,0.0,True,Luxembourg,Azerbaijan
-bcTrmLcf,2021-09-02,18:45,0:2,0:1,0:1,19.99,7.47,1.16,2.0,True,Moldova,Austria
-pdnUYFKg,2021-09-02,18:45,2:1,0:1,2:0,1.17,7.16,19.48,0.0,True,Portugal,Ireland
-x02efETm,2021-09-02,18:45,3:1,0:0,3:1,1.2,6.28,18.21,0.0,True,Latvia,Gibraltar
-GQkyMZuC,2021-09-02,18:45,3:0,1:0,2:0,3.67,3.04,2.25,0.0,True,Malta,Cyprus
-tUYT4MmN,2021-09-02,18:45,1:1,1:1,0:0,4.67,3.72,1.78,1.0,True,Norway,Netherlands
-8v9KrxWR,2021-09-02,18:45,0:0,0:0,0:0,2.78,3.21,2.72,1.0,True,Russia,Croatia
-bN62zEw8,2021-09-02,18:45,1:1,1:1,0:0,2.0,3.12,4.41,1.0,True,Slovenia,Slovakia
-hAXh39CI,2021-09-02,18:45,2:2,2:1,0:1,1.64,3.86,5.55,1.0,True,Turkey,Montenegro
-UciSITyo,2021-09-02,16:00,1:1,0:1,1:0,4.27,3.15,1.93,1.0,True,Guinea Bissau,Guinea
-phYAChFB,2021-09-02,16:00,2:0,0:0,2:0,1.17,6.49,16.59,0.0,True,Senegal,Togo
-rTFPHx2h,2021-09-01,14:00,2:2,0:1,2:1,9.08,4.63,1.39,1.0,True,Kazakhstan,Ukraine
-t0FgU2ON,2021-09-01,13:00,1:1,0:1,1:0,6.89,3.62,1.54,1.0,True,Central Africa,Cape Verde
-bm45OENH,2021-06-16,01:30,2:0,1:0,1:0,1.04,11.62,23.6,0.0,True,El Salvador,Saint Kitts and Nevis 
-pr9PT9ac,2021-06-16,01:00,3:0,0:0,3:0,1.31,4.68,10.1,0.0,True,Canada,Haiti 
-UZQx667j,2021-06-16,23:00,0:0,0:0,0:0,3.68,3.16,2.03,1.0,True,Curacao,Panama 
-nq5rhp29,2021-06-16,19:00,1:2,,,28.6,19.2,1.01,2.0,False,Chinese Taipei,Kuwait 
-vkjxnx1O,2021-06-16,18:00,3:1,1:0,2:1,1.75,3.41,4.92,0.0,True,China,Syria 
-nVBq3kgD,2021-06-16,18:00,3:0,2:0,1:0,1.67,3.53,5.35,0.0,True,Palestine,Yemen 
-8vDu4Vw7,2021-06-16,18:00,3:0,2:0,1:0,2.34,3.09,3.15,0.0,True,Saudi Arabia,Uzbekistan 
-Ao48S5MO,2021-06-16,17:10,0:3,0:1,0:2,32.18,14.15,1.04,2.0,True,Bangladesh,Oman 
-WjkYKuyK,2021-06-16,16:45,0:1,0:0,0:1,1.85,3.68,3.84,2.0,True,Thailand,Malaysia 
-h0jULLLD,2021-06-16,16:45,3:2,2:0,1:2,1.49,3.98,6.64,0.0,True,United Arab Emirates,Vietnam 
-4EGQjL3j,2021-06-16,16:30,4:0,0:0,4:0,1.2,6.2,14.51,0.0,True,Bahrain,Hong Kong 
-QNHMi1lp,2021-06-16,16:30,1:0,1:0,0:0,1.47,3.81,7.97,0.0,True,Iran,Iraq 
-vJ5vgQn3,2021-06-16,16:00,1:0,0:0,1:0,1.52,3.79,6.78,0.0,True,Australia,Jordan 
-xz9uodGU,2021-06-15,15:00,1:1,1:1,0:0,1.19,6.61,13.19,1.0,True,Philippines,Maldives 
-QcvIn97t,2021-06-15,14:00,1:1,0:0,1:1,2.41,2.99,3.12,1.0,True,India,Afghanistan 
-UTJubcC9,2021-06-15,10:28,5:1,3:1,2:0,1.09,10.14,19.38,0.0,True,Japan,Kyrgyzstan 
-rXNqcHRF,2021-06-15,10:28,4:0,1:0,3:0,1.05,12.96,24.43,0.0,True,Tajikistan,Myanmar 
-hSnJUk4o,2021-06-13,06:00,2:1,0:1,2:0,1.14,7.91,16.88,0.0,True,South Korea,Lebanon
-jqSY6nhp,2021-06-13,23:05,2:1,0:0,2:1,1.6,3.65,5.44,0.0,True,Panama,Curacao 
-6iALUkpi,2021-06-13,21:00,0:1,0:1,0:0,6.96,4.1,1.46,2.0,True,Haiti,Canada 
-pp01Pf8B,2021-06-13,20:00,0:4,0:3,0:1,6.09,3.86,1.54,2.0,True,Saint Kitts and Nevis,El Salvador 
-jcPqXrQq,2021-06-12,19:00,0:0,0:0,0:0,2.85,3.01,2.57,1.0,True,Kuwait,Jordan 
-IkKS6Xgl,2021-06-12,18:00,0:3,0:0,0:3,28.73,17.31,1.02,2.0,True,Singapore,Saudi Arabia 
-6FGO7Dvr,2021-06-12,18:00,0:1,0:1,0:0,22.2,10.49,1.07,2.0,True,Yemen,Uzbekistan 
-S28mXT7g,2021-06-12,17:10,1:2,1:1,0:1,15.91,6.07,1.19,2.0,True,Afghanistan,Oman 
-Es5CitXn,2021-06-12,17:00,5:0,2:0,3:0,1.01,20.44,31.25,0.0,True,China,Maldives 
-0hEXGBIl,2021-06-12,16:45,0:5,0:2,0:3,28.8,17.28,1.02,2.0,True,Indonesia,United Arab Emirates 
-U9N1MXfR,2021-06-12,16:45,1:2,0:1,1:1,7.09,3.77,1.5,2.0,True,Malaysia,Vietnam 
-zgwraqdA,2021-06-12,16:30,0:1,0:1,0:0,21.73,9.45,1.08,2.0,True,Hong Kong,Iraq 
-pKOmW2uj,2021-06-12,16:00,0:3,0:2,0:1,34.45,20.84,1.01,2.0,True,Nepal,Australia 
-Eqxnb3BG,2021-06-11,14:30,0:10,0:4,0:6,58.67,22.33,1.01,2.0,True,Cambodia,Iran 
-Sp9Gj0ng,2021-06-11,14:00,3:0,1:0,2:0,1.05,12.23,27.18,0.0,True,Philippines,Guam 
-G6ToxGkj,2021-06-11,07:00,1:8,0:5,1:3,8.11,4.99,1.34,2.0,True,Myanmar,Kyrgyzstan 
-KvI4BS3N,2021-06-09,11:00,0:5,0:3,0:2,36.8,24.6,1.01,2.0,True,Sri Lanka,South Korea
-tlJ0C8lH,2021-06-09,06:00,3:2,0:0,3:2,5.34,3.85,1.6,0.0,True,Turkmenistan,Lebanon
-Moav12EA,2021-06-09,01:30,1:1,0:0,1:1,1.2,6.56,14.59,1.0,True,Chile,Bolivia 
-tpcBD6Y1,2021-06-09,01:05,4:0,1:0,3:0,1.23,6.69,9.28,0.0,True,Canada,Suriname 
-WEwT0Tld,2021-06-09,01:05,3:0,1:0,2:0,1.23,6.19,10.63,0.0,True,El Salvador,Antigua and Barbuda 
-llmUPzOO,2021-06-09,01:05,3:0,1:0,2:0,1.13,8.25,17.23,0.0,True,Panama,Dominican Republic 
-AclQQG8I,2021-06-09,01:00,1:1,0:0,1:1,1.77,3.74,4.25,1.0,True,Barbados,Dominica 
-SOaz2ra4,2021-06-09,00:30,0:2,0:1,0:1,6.49,3.67,1.59,2.0,True,Paraguay,Brazil 
-h4roQqI7,2021-06-09,00:00,0:0,0:0,0:0,1.91,3.6,3.72,1.0,True,Curacao,Guatemala 
-Wd6R34Ui,2021-06-09,23:00,2:2,0:2,2:0,2.87,2.97,2.67,1.0,True,Colombia,Argentina 
-hOvP19Zk,2021-06-09,23:00,1:2,0:0,1:2,3.29,3.62,2.02,2.0,True,Grenada,Montserrat 
-lY0W2Oqb,2021-06-09,22:30,0:0,0:0,0:0,4.64,3.36,1.84,1.0,True,Venezuela,Uruguay 
-zk3r0MTG,2021-06-09,21:00,1:2,0:0,1:2,1.37,4.82,8.22,2.0,True,Ecuador,Peru 
-l8BBxE7U,2021-06-09,21:00,1:0,0:0,1:0,1.5,3.97,6.47,0.0,True,Haiti,Nicaragua 
-bck9oipo,2021-06-09,21:00,2:0,1:0,1:0,1.75,3.43,4.65,0.0,True,Trinidad & Tobago,Saint Kitts and Nevis 
-dl3sjXyU,2021-06-09,20:00,0:2,0:2,0:0,2.09,3.83,3.0,2.0,True,Guyana,Puerto Rico 
-EDqsRP21,2021-06-09,20:00,0:1,0:0,0:1,6.11,4.7,1.44,2.0,True,Saint Vincent and the Grenadines,Cuba 
-j3Iz5BO0,2021-06-08,18:00,5:0,3:0,2:0,1.06,11.28,25.93,0.0,True,Uzbekistan,Singapore 
-IZ1TmbWB,2021-06-08,17:00,2:0,0:0,2:0,1.1,9.35,21.91,0.0,True,China,Philippines 
-EJAaURiC,2021-06-08,17:00,0:1,0:1,0:0,6.99,3.79,1.51,2.0,True,Oman,Qatar 
-t2MuFkm1,2021-06-08,16:45,3:1,2:0,1:1,1.38,4.75,7.24,0.0,True,United Arab Emirates,Thailand 
-EFKmDTHD,2021-06-08,16:45,4:0,0:0,4:0,1.39,4.55,7.55,0.0,True,Vietnam,Indonesia 
-86yjcNQM,2021-06-08,16:30,3:0,0:0,3:0,1.49,3.88,7.2,0.0,True,Iran,Bahrain 
-0S6zf6Xd,2021-06-08,16:00,0:3,0:1,0:2,24.5,11.2,1.07,2.0,True,Nepal,Jordan
-KtufdstT,2021-06-07,14:30,4:1,,,1.01,22.1,44.1,0.0,False,Iraq,Cambodia 
-zTBeV7x6,2021-06-07,14:00,0:2,0:0,0:2,6.25,3.25,1.66,2.0,True,Bangladesh,India 
-dQ0XnIoI,2021-06-07,14:00,0:3,,,42.5,22.5,1.01,2.0,False,Guam,Syria 
-8EVWaJsc,2021-06-07,10:30,4:1,2:1,2:0,1.02,19.63,30.55,0.0,True,Japan,Tajikistan 
-n5Uzawc3,2021-06-07,07:00,0:1,0:1,0:0,1.04,14.07,29.89,2.0,True,Kyrgyzstan,Mongolia 
-SYbLRdgC,2021-06-06,00:00,0:13,,,38.67,19.5,1.01,2.0,False,Anguilla,Panama 
-pI32FS3k,2021-06-06,00:00,0:7,0:3,0:4,40.5,16.5,1.01,2.0,True,Aruba,Canada 
-b1uL2kKq,2021-06-06,23:00,0:7,0:2,0:5,38.17,20.5,1.01,2.0,True,United States Virgin Islands,El Salvador 
-URWpiDMN,2021-06-06,21:00,0:0,0:0,0:0,25.4,14.2,1.02,1.0,True,Bahamas,Trinidad & Tobago 
-rB83vzwI,2021-06-06,19:00,0:10,0:5,0:5,39.25,17.25,1.01,2.0,True,Turks and Caicos Islands,Haiti 
-nR3jQLf9,2021-06-06,18:00,3:0,3:0,0:0,1.05,12.38,32.43,0.0,True,Saudi Arabia,Yemen 
-nkQiEUJ4,2021-06-05,11:00,5:0,2:0,3:0,1.05,11.76,32.76,0.0,True,South Korea,Turkmenistan
-jN8z66Rp,2021-06-05,06:00,3:2,3:1,0:1,1.02,18.73,44.5,0.0,True,Lebanon,Sri Lanka
-4K9auGNB,2021-06-05,01:00,3:0,1:0,2:0,1.1,8.74,20.82,0.0,True,Nicaragua,Belize 
-4ASDpsUT,2021-06-05,00:30,2:0,0:0,2:0,1.31,5.31,9.74,0.0,True,Brazil,Ecuador 
-EVfHSxv6,2021-06-05,23:00,1:1,0:1,1:0,1.41,4.39,7.61,1.0,True,Dominican Republic,Barbados 
-6mtZSoYl,2021-06-05,22:00,10:0,5:0,5:0,1.03,15.64,33.67,0.0,True,Guatemala,Saint Vincent and the Grenadines 
-A9bLkK1a,2021-06-05,16:00,0:4,0:3,0:1,19.85,8.95,1.11,2.0,True,Maldives,Syria 
-Mow9oNEN,2021-06-04,02:00,0:3,0:1,0:2,3.81,3.16,2.11,2.0,True,Peru,Colombia 
-h67N4pFo,2021-06-04,00:00,1:1,1:1,0:0,1.52,4.1,6.61,1.0,True,Argentina,Chile 
-rev5n3aH,2021-06-04,22:00,0:0,0:0,0:0,1.63,3.61,6.09,1.0,True,Uruguay,Paraguay 
-v3Jut1xo,2021-06-04,20:00,3:1,1:1,2:0,1.85,3.48,4.37,0.0,True,Bolivia,Venezuela 
-WCrDx52M,2021-06-04,19:00,3:0,2:0,1:0,1.49,4.02,6.89,0.0,True,Australia,Kuwait 
-QH2fPuAF,2021-06-04,18:00,4:0,3:0,1:0,1.7,3.59,4.95,0.0,True,Palestine,Singapore 
-pvJrY9hm,2021-06-04,17:00,0:1,0:1,0:0,27.01,11.82,1.06,2.0,True,India,Qatar 
-8fZhOgQE,2021-06-04,16:45,2:2,1:1,1:1,1.22,6.42,11.03,1.0,True,Thailand,Indonesia 
-tls70jY7,2021-06-04,16:45,4:0,1:0,3:0,1.26,5.78,10.07,0.0,True,United Arab Emirates,Malaysia 
-IHrw0Pt4,2021-06-04,16:30,8:0,2:0,6:0,1.02,15.41,34.67,0.0,True,Bahrain,Cambodia 
-llwIyPHS,2021-06-04,16:00,2:0,1:0,1:0,2.27,3.07,3.32,0.0,True,Nepal,Chinese Taipei
-vRqZ05Rc,2021-06-03,14:30,3:1,1:0,2:1,1.02,21.44,28.75,0.0,True,Iran,Hong Kong 
-ng0uZkws,2021-06-03,14:00,1:1,0:0,1:1,8.08,3.83,1.46,1.0,True,Bangladesh,Afghanistan 
-OOjUTRIr,2021-06-03,21:30,5:0,1:0,4:0,1.03,14.68,33.29,0.0,True,Cuba,British Virgin Islands 
-vHbl8BdM,2021-06-03,21:00,4:0,1:0,3:0,1.03,15.49,31.5,0.0,True,Montserrat,United States Virgin Islands 
-l0cPlvH5,2021-05-30,11:30,0:7,,,32.75,26.94,1.01,2.0,False,Guam,China 
-WWSF2ivb,2021-04-01,18:45,1:4,0:1,1:3,18.84,6.14,1.2,2.0,True,Andorra,Hungary 
-pf39YLr1,2021-04-01,18:45,0:4,0:0,0:4,3.05,3.18,2.5,2.0,True,Austria,Denmark 
-Wln7aenO,2021-04-01,18:45,0:1,0:0,0:1,8.48,4.62,1.41,2.0,True,Bosnia & Herzegovina,France 
-8bJ6iCD6,2021-04-01,18:45,2:1,1:0,1:1,1.34,5.1,10.04,0.0,True,England,Poland 
-ImicFUN3,2021-04-01,18:45,1:2,0:1,1:1,1.11,10.17,24.66,2.0,True,Germany,North Macedonia 
-bqKWb9wN,2021-04-01,18:45,1:1,0:0,1:1,1.64,3.54,6.61,1.0,True,Greece,Georgia 
-KE2ktbSJ,2021-04-01,18:45,1:4,0:2,1:2,22.61,7.9,1.15,2.0,True,Liechtenstein,Iceland 
-SGaX9l4E,2021-04-01,18:45,0:2,0:0,0:2,24.38,9.32,1.12,2.0,True,Lithuania,Italy 
-jRpZ7MZJ,2021-04-01,18:45,1:4,1:1,0:3,9.92,4.47,1.39,2.0,True,Moldova,Israel 
-OQigGA8c,2021-04-01,18:45,0:0,0:0,0:0,1.8,3.26,5.5,1.0,True,Northern Ireland,Bulgaria 
-xzJzbThT,2021-04-01,18:45,0:2,0:0,0:2,69.64,14.22,1.04,2.0,True,San Marino,Albania 
-4xqPgWE9,2021-04-01,18:45,4:0,1:0,3:0,1.18,6.91,19.46,0.0,True,Scotland,Faroe Islands 
-h0xmopAG,2021-04-01,18:45,3:1,2:0,1:1,1.07,11.81,31.73,0.0,True,Spain,Kosovo 
-8Yum4JXh,2021-04-01,18:45,1:1,1:0,0:1,1.25,5.72,13.62,1.0,True,Ukraine,Kazakhstan 
-WhMfKG50,2021-04-01,16:00,3:2,0:0,3:2,4.1,3.64,1.91,0.0,True,Armenia,Romania 
-zqESLUQL,2021-03-31,00:00,5:0,2:0,3:0,1.18,7.21,10.82,0.0,True,Bermuda,Aruba 
-tId9Ub9g,2021-03-31,23:30,1:0,0:0,1:0,1.04,13.53,30.37,0.0,True,Barbados,Anguilla 
-OrBpDEGN,2021-03-31,18:45,8:0,4:0,4:0,1.13,8.69,24.26,0.0,True,Belgium,Belarus 
-OSfYWvXF,2021-03-31,18:45,3:0,0:0,3:0,1.07,11.95,36.61,0.0,True,Croatia,Malta 
-v5E4bKQj,2021-03-31,18:45,0:7,0:1,0:6,68.67,27.66,1.01,2.0,True,Gibraltar,Netherlands 
-WSx4og4a,2021-03-31,18:45,1:3,1:1,0:2,23.27,9.14,1.12,2.0,True,Luxembourg,Portugal 
-WYVfJL2G,2021-03-31,18:45,0:1,0:1,0:0,4.43,3.52,1.87,2.0,True,Montenegro,Norway 
-t4kwWbnM,2021-03-31,18:45,2:1,1:0,1:1,4.66,3.41,1.87,0.0,True,Slovakia,Russia 
-UZfMosso,2021-03-31,18:45,3:3,2:1,1:2,1.15,8.22,20.07,1.0,True,Turkey,Latvia 
-rTiH7hvo,2021-03-31,18:45,1:0,0:0,1:0,3.28,3.22,2.34,0.0,True,Wales,Czech Republic 
-CCJW5i9f,2021-03-31,17:30,5:0,2:0,3:0,1.38,4.53,8.79,0.0,True,Saudi Arabia,Palestine 
-bsgpROIp,2021-03-31,16:00,1:2,0:1,1:1,9.23,4.59,1.39,2.0,True,Azerbaijan,Serbia 
-rDiTNeBa,2021-03-31,16:00,1:0,1:0,0:0,4.82,3.33,1.87,0.0,True,Cyprus,Slovenia 
-fcSkyz5d,2021-03-30,10:30,0:14,0:5,0:9,65.0,23.61,1.01,2.0,True,Mongolia,Japan 
-6kosAXR9,2021-03-29,22:00,1:1,0:1,1:0,7.31,4.98,1.37,1.0,True,Montserrat,El Salvador 
-ht0bZmeL,2021-03-29,21:00,1:2,1:2,0:0,11.87,6.51,1.21,2.0,True,Cuba,Curacao 
-0nuUfeNb,2021-03-29,21:00,1:1,0:0,1:1,13.07,5.17,1.25,1.0,True,Puerto Rico,Trinidad & Tobago 
-Ot24Vvfm,2021-03-29,20:00,1:2,0:1,1:1,24.26,8.22,1.11,2.0,True,Dominica,Panama 
-rNfGehpc,2021-03-29,18:45,3:1,3:1,0:0,1.08,10.93,30.22,0.0,True,Austria,Faroe Islands 
-lQ0TAUl8,2021-03-29,18:45,0:2,0:1,0:1,14.16,6.21,1.23,2.0,True,Bulgaria,Italy 
-hKSnnuD0,2021-03-29,18:45,1:1,1:0,0:1,2.74,3.16,2.76,1.0,True,Israel,Scotland 
-tlPbxArq,2021-03-29,18:45,0:3,0:2,0:1,5.55,3.71,1.68,2.0,True,Kosovo,Sweden 
-xW0L5Hj7,2021-03-29,18:45,5:0,1:0,4:0,1.08,11.03,33.76,0.0,True,North Macedonia,Liechtenstein 
-GtvayFua,2021-03-29,18:45,3:0,1:0,2:0,1.01,22.39,72.4,0.0,True,Poland,Andorra 
-jZ4P4y6D,2021-03-29,18:45,0:1,0:1,0:0,10.2,5.87,1.3,2.0,True,Romania,Germany 
-ANRJ1Bg4,2021-03-29,18:45,0:3,0:1,0:2,66.8,18.98,1.02,2.0,True,San Marino,Hungary 
-Kh3yjTCr,2021-03-29,18:45,1:0,1:0,0:0,1.07,12.51,36.19,0.0,True,Switzerland,Lithuania 
-nJiv6u3t,2021-03-29,18:45,1:1,0:0,1:1,1.76,3.47,5.39,1.0,True,Ukraine,Finland 
-f1IPYUxp,2021-03-29,16:00,8:0,5:0,3:0,1.1,10.37,25.53,0.0,True,Denmark,Moldova 
-ljpKqhj9,2021-03-29,16:00,1:2,1:0,0:2,16.54,6.8,1.2,2.0,True,Georgia,Spain 
-fXbYkEfh,2021-03-29,16:00,0:2,0:1,0:1,13.85,6.08,1.24,2.0,True,Albania,England 
-6BE7HEkJ,2021-03-29,16:00,2:0,0:0,2:0,3.81,3.17,2.14,0.0,True,Armenia,Iceland 
-AuoBbF1U,2021-03-28,13:00,0:2,0:2,0:0,30.78,10.38,1.09,2.0,True,Kazakhstan,France 
-tpLJNjd9,2021-03-28,00:00,0:6,0:3,0:3,36.17,18.06,1.03,2.0,True,Aruba,Suriname 
-SbnwBDC3,2021-03-28,23:00,0:3,0:3,0:0,17.65,8.61,1.12,2.0,True,United States Virgin Islands,Antigua and Barbuda 
-pj30WKvs,2021-03-28,22:00,0:6,0:3,0:3,32.89,18.3,1.03,2.0,True,Anguilla,Dominican Republic 
-Ek1fzUuF,2021-03-28,22:00,0:3,,,26.0,15.0,1.08,2.0,False,British Virgin Islands,Guatemala 
-0SCrqbOn,2021-03-28,20:30,0:7,,,36.88,17.26,1.01,2.0,False,Turks and Caicos Islands,Nicaragua 
-2kbCRDVG,2021-03-28,19:45,1:1,0:0,1:1,5.46,4.05,1.63,1.0,True,Czech Republic,Belgium 
-EeYA3XOi,2021-03-28,19:45,0:1,0:0,0:1,1.56,3.97,6.6,2.0,True,Ireland,Luxembourg 
-z1qemFZn,2021-03-28,19:45,2:2,0:2,2:0,5.04,3.81,1.72,1.0,True,Serbia,Portugal 
-jwuDPdPk,2021-03-28,19:45,2:2,0:2,2:0,1.21,6.5,15.8,1.0,True,Slovakia,Malta 
-fPf4TZ04,2021-03-28,17:00,4:2,1:1,3:1,1.45,4.53,7.5,0.0,True,Belarus,Estonia 
-pxdUXKH9,2021-03-28,17:00,1:0,1:0,0:0,1.13,8.69,21.98,0.0,True,Croatia,Cyprus 
-2Lvt6BSa,2021-03-28,17:00,2:0,1:0,1:0,1.02,22.05,56.21,0.0,True,Netherlands,Latvia 
-h82nN33i,2021-03-28,17:00,0:3,0:2,0:1,2.17,3.37,3.53,2.0,True,Norway,Turkey 
-Y3VL6rJA,2021-03-27,14:00,4:1,2:1,2:0,1.07,12.17,38.31,0.0,True,Montenegro,Gibraltar 
-U7K2hhb0,2021-03-27,14:00,2:1,2:1,0:0,1.9,3.29,4.76,0.0,True,Russia,Slovenia 
-pzcYBgcc,2021-03-26,02:25,2:0,1:0,1:0,1.18,6.65,14.43,0.0,True,El Salvador,Grenada 
-nNLFOWt3,2021-03-26,00:00,5:1,2:0,3:1,1.02,23.58,30.11,0.0,True,Canada,Bermuda 
-hfuXmmAE,2021-03-26,00:00,1:0,0:0,1:0,1.13,7.83,19.5,0.0,True,Panama,Barbados 
-hMyMdHhn,2021-03-26,23:00,3:0,3:0,0:0,1.58,4.14,5.4,0.0,True,Trinidad & Tobago,Guyana 
-YwpcyAQ8,2021-03-26,22:00,5:0,4:0,1:0,1.04,14.07,28.35,0.0,True,Curacao,Saint Vincent and the Grenadines 
-I3Nwpv9t,2021-03-26,21:00,2:0,0:0,2:0,1.11,8.46,23.04,0.0,True,Haiti,Belize 
-GKURakOG,2021-03-26,19:45,0:1,0:1,0:0,12.07,5.07,1.3,2.0,True,Andorra,Albania 
-ANmkHjgi,2021-03-26,19:45,3:0,2:0,1:0,1.14,8.95,18.83,0.0,True,Germany,Iceland 
-UkiomCvB,2021-03-26,19:45,3:3,1:0,2:3,4.01,3.25,2.06,1.0,True,Hungary,Poland 
-l4Phbi52,2021-03-26,19:45,2:0,2:0,0:0,1.17,6.94,20.48,0.0,True,Italy,Northern Ireland 
-GMsQZe5m,2021-03-26,19:45,0:1,0:0,0:1,10.88,5.09,1.32,2.0,True,Liechtenstein,Armenia 
-4Ulw7tkQ,2021-03-26,19:45,1:1,1:0,0:1,2.47,2.89,3.37,1.0,True,Moldova,Faroe Islands 
-44Nvgv71,2021-03-26,19:45,3:2,1:0,2:2,2.08,3.2,4.0,0.0,True,Romania,North Macedonia 
-0Mm8gNKQ,2021-03-26,19:45,2:2,0:0,2:2,3.12,3.14,2.49,1.0,True,Scotland,Austria 
-Knvum6u4,2021-03-26,19:45,1:1,1:0,0:1,1.22,6.57,14.69,1.0,True,Spain,Greece 
-lSVeqOvT,2021-03-26,19:45,1:0,1:0,0:0,1.33,5.07,10.88,0.0,True,Sweden,Georgia 
-zs3u8SYQ,2021-03-26,17:00,1:3,0:3,1:0,9.34,4.44,1.41,2.0,True,Bulgaria,Switzerland 
-ji6HWaDD,2021-03-26,17:00,0:2,0:1,0:1,4.87,3.59,1.79,2.0,True,Israel,Denmark 
-Ysvswdzp,2021-03-25,13:00,3:0,1:0,2:0,1.11,9.06,22.06,0.0,True,Tajikistan,Mongolia 
-fmogxjB2,2021-03-25,00:00,1:0,0:0,1:0,1.16,7.06,17.87,0.0,True,Guatemala,Cuba 
-f9MTlTf8,2021-03-25,23:00,1:0,0:0,1:0,1.3,4.81,11.97,0.0,True,Dominican Republic,Dominica 
-WWhUCZsi,2021-03-25,22:00,2:2,2:2,0:0,2.3,3.42,3.04,1.0,True,Antigua and Barbuda,Montserrat 
-8WMBPCRd,2021-03-25,22:00,3:0,,,1.07,9.0,27.0,0.0,False,Suriname,Cayman Islands 
-EVxIccwt,2021-03-25,20:00,1:0,1:0,0:0,1.79,3.79,4.11,0.0,True,Saint Kitts and Nevis,Puerto Rico 
-reMrhbM7,2021-03-25,19:45,3:1,2:1,1:0,1.36,4.99,9.59,0.0,True,Belgium,Wales 
-l0ZtsgV3,2021-03-25,19:45,2:6,1:4,1:2,34.82,14.05,1.06,2.0,True,Estonia,Czech Republic 
-8xUVf0xk,2021-03-25,19:45,2:2,0:0,2:2,2.82,3.17,2.69,1.0,True,Finland,Bosnia & Herzegovina 
-xj7bD8hG,2021-03-25,19:45,1:1,1:0,0:1,1.29,5.64,11.55,1.0,True,France,Ukraine 
-U9mPOydg,2021-03-25,19:45,1:3,0:2,1:1,27.35,9.54,1.11,2.0,True,Malta,Russia 
-6BzwXgk6,2021-03-25,19:45,1:0,1:0,0:0,1.03,16.1,46.79,0.0,True,Portugal,Azerbaijan 
-KEvsWD4C,2021-03-25,19:45,3:2,1:1,2:1,1.92,3.23,4.75,0.0,True,Serbia,Ireland 
-2eXrq6s8,2021-03-25,19:45,0:0,0:0,0:0,4.7,3.38,1.87,1.0,True,Cyprus,Slovakia 
-S0P3HaXS,2021-03-25,19:45,0:3,0:2,0:1,63.26,23.96,1.01,2.0,True,Gibraltar,Norway 
-U9BVCJup,2021-03-25,19:45,1:2,1:1,0:1,6.04,3.32,1.73,2.0,True,Latvia,Montenegro 
-Amenvdvq,2021-03-25,19:45,1:0,1:0,0:0,5.03,3.48,1.8,0.0,True,Slovenia,Croatia 
-CfUP52YG,2021-03-25,17:00,4:2,2:0,2:2,5.18,3.79,1.71,0.0,True,Turkey,Netherlands 
-6g7iWmNa,2020-12-05,16:00,5:0,,,1.01,17.17,38.17,0.0,False,Qatar,Bangladesh
-SrdEw8Gn,2020-11-18,00:30,0:2,0:2,0:0,5.88,3.84,1.64,2.0,True,Peru,Argentina 
-z9aMynoa,2020-11-18,23:00,2:2,1:2,1:0,1.34,5.06,9.76,1.0,True,Paraguay,Bolivia 
-pK69vl1t,2020-11-18,23:00,0:2,0:2,0:0,4.56,3.34,1.92,2.0,True,Uruguay,Brazil 
-EabQz605,2020-11-18,21:00,6:1,4:1,2:0,2.76,3.22,2.68,0.0,True,Ecuador,Colombia 
-6ZfIxSVh,2020-11-18,21:00,2:1,1:1,1:0,3.54,3.25,2.18,0.0,True,Venezuela,Chile 
-EoJiM6oC,2020-11-14,00:30,1:0,0:0,1:0,1.21,6.6,13.68,0.0,True,Brazil,Venezuela 
-OG0rqUhP,2020-11-14,23:00,2:0,2:0,0:0,1.93,3.38,4.31,0.0,True,Chile,Peru 
-zeKmNnW5,2020-11-14,20:30,0:3,0:1,0:2,1.96,3.4,4.12,2.0,True,Colombia,Uruguay 
-ADC0KpGO,2020-11-13,00:00,1:1,1:1,0:0,1.37,4.77,9.11,1.0,True,Argentina,Paraguay 
-WMDdLQ0I,2020-11-13,20:00,2:3,1:0,1:3,4.78,3.55,1.79,2.0,True,Bolivia,Ecuador 
-SUGuP81g,2020-10-14,00:30,2:2,2:1,0:1,3.18,3.15,2.4,1.0,True,Chile,Colombia 
-zXu5VAOP,2020-10-14,00:00,2:4,1:1,1:3,8.12,4.75,1.41,2.0,True,Peru,Brazil 
-6FSWQUWt,2020-10-14,22:00,0:1,0:0,0:1,2.48,3.04,3.15,2.0,True,Venezuela,Paraguay 
-tYKqOSGa,2020-10-14,21:00,4:2,2:0,2:2,2.73,3.13,2.75,0.0,True,Ecuador,Uruguay 
-p6RzQlnm,2020-10-14,20:00,1:2,1:1,0:1,5.94,4.34,1.55,2.0,True,Bolivia,Argentina 
-tYbE8mHC,2020-10-10,00:30,5:0,2:0,3:0,1.03,18.44,57.65,0.0,True,Brazil,Bolivia 
-nBaA9T16,2020-10-10,23:30,3:0,3:0,0:0,1.38,4.68,9.14,0.0,True,Colombia,Venezuela 
-dts1Wj9J,2020-10-09,00:30,1:0,1:0,0:0,1.25,6.08,12.42,0.0,True,Argentina,Ecuador 
-8K06A9n0,2020-10-09,22:45,2:1,1:0,1:1,1.79,3.66,4.31,0.0,True,Uruguay,Chile 
-fy3I77WI,2020-10-09,22:30,2:2,0:0,2:2,2.31,3.13,3.33,1.0,True,Paraguay,Peru 
-EySqGjkh,2019-11-20,17:00,0:0,0:0,0:0,1.63,3.65,5.44,1.0,True,Lebanon,North Korea
-bap5vRX9,2019-11-20,16:00,5:0,3:0,2:0,1.01,18.15,42.7,0.0,True,Jordan,Chinese Taipei
-jNE9vCFJ,2019-11-19,15:00,1:0,1:0,0:0,1.21,5.95,12.43,0.0,True,Oman,India
-IianR1u3,2019-11-19,15:00,1:2,0:1,1:1,2.19,3.09,3.45,2.0,True,Yemen,Singapore
-UDDDwWUP,2019-11-19,14:00,0:1,0:0,0:1,13.91,7.21,1.16,2.0,True,Afghanistan,Qatar 
-W0tR2Rdo,2019-11-19,14:00,0:0,0:0,0:0,2.01,2.99,4.19,1.0,True,Iraq,Bahrain 
-lhD5dpy5,2019-11-19,14:00,1:1,0:1,1:0,1.62,3.73,5.32,1.0,True,Kyrgyzstan,Tajikistan
-reruAlmE,2019-11-19,14:00,1:0,1:0,0:0,1.26,5.59,10.41,0.0,True,Syria,Philippines
-lYSc4YYr,2019-11-19,13:00,0:0,0:0,0:0,2.08,3.17,3.67,1.0,True,Vietnam,Thailand
-MoR52C3e,2019-11-19,12:45,2:0,1:0,1:0,1.3,5.17,9.74,0.0,True,Malaysia,Indonesia
-p4pV1oCi,2019-11-19,12:00,2:0,1:0,1:0,1.43,4.29,7.18,0.0,True,Hong Kong,Cambodia
-v10rSsQd,2019-11-19,12:00,2:0,1:0,1:0,1.34,4.67,8.95,0.0,True,Uzbekistan,Palestine
-KK58hMHt,2019-11-19,11:00,3:1,2:0,1:1,1.21,5.94,11.91,0.0,True,Maldives,Guam
-hSQmFA4b,2019-11-19,11:00,2:0,1:0,1:0,1.03,14.8,39.81,0.0,True,Turkmenistan,Sri Lanka
-SrC9e4jB,2019-11-19,10:30,1:0,1:0,0:0,1.4,4.71,6.98,0.0,True,Myanmar,Mongolia
-hMq9womG,2019-11-19,09:00,0:1,0:1,0:0,21.69,8.25,1.11,2.0,True,Nepal,Kuwait
-40idtm3c,2019-11-15,16:00,0:1,0:1,0:0,4.99,3.54,1.71,2.0,True,Jordan,Australia
-nPt1u7I3,2019-11-15,16:00,9:0,2:0,7:0,1.05,10.97,32.33,0.0,True,Kuwait,Chinese Taipei
-zFWMG8NC,2019-11-14,15:00,4:1,0:0,4:1,1.04,12.49,31.39,0.0,True,Oman,Bangladesh
-xdMa3bmd,2019-11-14,15:00,1:0,0:0,1:0,3.98,3.42,1.9,0.0,True,Yemen,Palestine
-E5VQFSxJ,2019-11-14,14:00,1:1,1:0,0:1,2.47,3.29,2.76,1.0,True,Afghanistan,India
-QJTIbFpU,2019-11-14,14:00,2:1,1:1,1:0,6.02,3.19,1.69,0.0,True,Iraq,Iran
-4Cw0noe7,2019-11-14,14:00,2:1,1:1,1:0,3.34,3.15,2.2,0.0,True,Syria,China
-jcmNAzdF,2019-11-14,13:00,1:0,1:0,0:0,2.52,3.03,2.91,0.0,True,Vietnam,United Arab Emirates
-I9YzICKu,2019-11-14,13:00,0:0,0:0,0:0,6.99,3.98,1.49,1.0,True,Lebanon,South Korea
-UmnR9fBL,2019-11-14,12:45,2:1,1:1,1:0,3.35,3.43,2.08,0.0,True,Malaysia,Thailand
-SSFpfZho,2019-11-14,12:00,0:0,0:0,0:0,9.36,4.82,1.31,1.0,True,Hong Kong,Bahrain
-OhIe4vYk,2019-11-14,12:00,2:3,1:1,1:2,1.87,3.24,4.42,2.0,True,Uzbekistan,Saudi Arabia
-hQJdb66h,2019-11-14,11:15,0:2,0:1,0:1,13.35,6.27,1.19,2.0,True,Kyrgyzstan,Japan
-r3x4o5AD,2019-11-14,11:00,1:2,0:0,1:2,7.11,4.21,1.45,2.0,True,Maldives,Philippines
-d0XvHWZo,2019-11-14,11:00,3:1,1:0,2:1,2.81,3.09,2.57,0.0,True,Turkmenistan,North Korea
-WGI0cQLb,2019-11-14,10:30,4:3,2:1,2:2,7.03,4.18,1.44,0.0,True,Myanmar,Tajikistan
-v3VA0yGH,2019-10-16,16:30,1:0,,,8.42,3.83,1.45,0.0,False,Bahrain,Iran
-thXIHl86,2019-10-16,16:30,2:1,,,1.5,3.88,6.72,0.0,False,Qatar,Oman
-Q9hhsTmi,2019-10-16,16:00,3:0,,,1.02,15.61,44.43,0.0,False,Jordan,Nepal
-SlTEIUh0,2019-10-15,14:00,1:1,,,1.21,5.82,13.43,1.0,False,India,Bangladesh
-6XLT9FSI,2019-10-15,14:00,0:3,,,17.52,7.83,1.12,2.0,False,Sri Lanka,Lebanon
-AkvdmRu1,2019-10-15,14:00,4:0,,,1.01,16.31,38.01,0.0,False,Syria,Guam
-SMWP90AS,2019-10-15,13:00,0:0,,,3.94,3.38,1.9,1.0,False,Palestine,Saudi Arabia
-nTGl0Syt,2019-10-15,12:15,0:3,,,23.35,8.62,1.09,2.0,False,Tajikistan,Japan
-dnzhl7Qf,2019-10-15,12:00,0:0,,,14.48,7.26,1.15,1.0,False,Philippines,China
-rXqFCdR2,2019-10-15,12:00,2:1,,,3.22,3.2,2.25,0.0,False,Thailand,United Arab Emirates
-UVIi5KIq,2019-10-15,11:45,1:3,,,11.6,5.17,1.25,2.0,False,Singapore,Uzbekistan
-xfaAIqBj,2019-10-15,11:40,1:7,,,52.63,16.9,1.01,2.0,False,Chinese Taipei,Australia
-IgUEaeVN,2019-10-15,11:30,0:4,,,25.86,13.39,1.04,2.0,False,Cambodia,Iraq
-MNrJBGt9,2019-10-15,11:30,1:3,,,5.45,3.79,1.61,2.0,False,Indonesia,Vietnam
-hUHPAeDC,2019-10-15,08:30,0:0,0:0,0:0,6.8,3.75,1.52,1.0,True,North Korea,South Korea 
-b3Khanin,2019-10-15,08:00,1:2,0:2,1:0,14.27,7.27,1.15,2.0,True,Mongolia,Kyrgyzstan
-M91PBMuG,2019-10-11,17:00,3:0,1:0,2:0,1.09,9.23,22.32,0.0,True,Saudi Arabia,Singapore
-dvt61H0B,2019-10-11,16:00,2:0,1:0,1:0,1.04,12.23,37.37,0.0,True,Iraq,Hong Kong
-b306JPep,2019-10-11,16:00,0:0,0:0,0:0,1.67,3.55,5.15,1.0,True,Jordan,Kuwait
-A5SKByb6,2019-10-11,16:00,2:1,1:0,1:1,1.68,3.53,5.2,0.0,True,Lebanon,Turkmenistan
-Ui2SlgZe,2019-10-11,16:00,5:0,1:0,4:0,1.07,9.9,31.22,0.0,True,United Arab Emirates,Indonesia
-pQwAJAwf,2019-10-10,15:00,3:0,2:0,1:0,1.06,11.05,28.65,0.0,True,Oman,Afghanistan
-M5kruq6U,2019-10-10,14:30,7:0,5:0,2:0,1.26,5.32,10.86,0.0,True,Kyrgyzstan,Myanmar
-ENpmkmBl,2019-10-10,14:00,2:1,1:0,1:1,1.05,12.52,27.88,0.0,True,Syria,Maldives
-ryx22co5,2019-10-10,13:30,14:0,7:0,7:0,1.01,19.75,48.83,0.0,True,Iran,Cambodia
-6Zv6KjOm,2019-10-10,13:00,0:2,0:1,0:1,38.92,18.51,1.01,2.0,True,Bangladesh,Qatar
-tS5WmDl2,2019-10-10,13:00,1:0,1:0,0:0,1.58,3.7,5.91,0.0,True,Vietnam,Malaysia
-zXoqjTer,2019-10-10,12:00,7:0,6:0,1:0,1.01,21.88,43.17,0.0,True,China,Guam
-000TAteM,2019-10-10,12:00,5:0,2:0,3:0,1.14,7.31,17.0,0.0,True,Uzbekistan,Yemen
-hMNwO5mT,2019-10-10,09:00,5:0,3:0,2:0,1.01,22.57,48.71,0.0,True,Australia,Nepal
-S8c87tkb,2019-09-11,17:00,2:0,1:0,1:0,1.14,6.96,19.08,0.0,True,Namibia,Eritrea 
-ro7jKJY3,2019-09-11,17:00,0:0,,,1.47,3.83,7.01,1.0,False,Sudan,Chad 
-fPUacdRj,2019-09-11,16:30,2:1,0:1,2:0,1.15,6.83,18.04,0.0,True,Guinea Bissau,Sao Tome and Principe 
-b9u2LW8s,2019-09-11,16:30,0:0,,,1.05,11.65,30.86,1.0,False,Qatar,India
-dlBfJwlA,2019-09-11,16:00,7:0,4:0,3:0,1.07,10.21,26.49,0.0,True,Rwanda,Seychelles 
-0MHoLaJc,2019-09-11,16:00,2:0,1:0,1:0,1.39,3.98,8.69,0.0,True,Togo,Comoros 
-EqbHDrB3,2019-09-11,16:00,2:2,2:1,0:1,16.01,6.18,1.19,1.0,True,Yemen,Saudi Arabia 
-pdKVPRIG,2019-09-10,15:30,0:3,0:3,0:0,7.59,4.25,1.43,2.0,True,Kuwait,Australia
-dlkP3blN,2019-09-10,15:00,2:1,1:0,1:1,1.91,2.99,4.62,0.0,True,Angola,Gambia 
-4leDekYK,2019-09-10,15:00,0:5,,,36.12,13.03,1.04,2.0,False,Maldives,China
-GYVebxCp,2019-09-10,14:00,2:0,1:0,1:0,1.37,4.25,8.76,0.0,True,Mozambique,Mauritius 
-d0gzQC0Q,2019-09-10,14:00,1:0,1:0,0:0,1.52,4.13,5.9,0.0,True,Afghanistan,Bangladesh
-OlUCDcTg,2019-09-10,14:00,0:1,,,28.57,12.18,1.05,2.0,False,Sri Lanka,North Korea
-pbV8EwEm,2019-09-10,14:00,0:2,0:1,0:1,12.39,6.93,1.18,2.0,True,Turkmenistan,South Korea
-OziH5KJA,2019-09-10,13:00,0:0,0:0,0:0,1.15,6.82,19.43,1.0,True,Eswatini,Djibouti 
-Yob48MZi,2019-09-10,13:00,3:1,0:0,3:1,1.1,7.64,25.21,0.0,True,Zimbabwe,Somalia 
-dv4KjF4q,2019-09-10,12:45,1:2,1:1,0:1,5.09,4.09,1.59,2.0,True,Malaysia,United Arab Emirates
-zV2OkZJk,2019-09-10,12:30,0:3,0:0,0:3,4.05,3.74,1.8,2.0,True,Indonesia,Thailand
-zkmWsoMB,2019-09-10,12:20,0:2,,,33.02,13.71,1.03,2.0,False,Myanmar,Japan
-2RkL4vZG,2019-09-10,12:00,1:0,0:0,1:0,1.98,3.08,4.02,0.0,True,Malawi,Botswana 
-ANwf4JGh,2019-09-10,12:00,0:2,0:1,0:1,30.86,11.21,1.06,2.0,True,Hong Kong,Iran
-Sn2LC2Q9,2019-09-10,11:45,2:1,2:1,0:0,5.07,3.87,1.63,0.0,True,Singapore,Palestine
-lExb3wWb,2019-09-10,11:30,0:1,0:0,0:1,13.43,7.39,1.16,2.0,True,Cambodia,Bahrain
-vJJZOoYM,2019-09-10,11:10,0:2,0:1,0:1,1.49,4.07,6.44,2.0,True,Chinese Taipei,Nepal
-Eunzs5yI,2019-09-10,09:00,0:1,0:0,0:1,12.25,5.96,1.22,2.0,True,Mongolia,Tajikistan
-rufHf9mR,2019-09-10,05:30,1:4,0:2,1:2,9.44,4.97,1.31,2.0,True,Guam,Philippines
-AigT2I3T,2019-09-09,16:30,1:0,,,1.96,3.26,3.96,0.0,False,Sierra Leone,Liberia 
-MVIsMu4i,2019-09-09,16:00,1:0,,,1.27,5.07,10.58,0.0,False,Equatorial Guinea,South Sudan 
-MBf092Ko,2019-09-08,13:00,1:1,,,2.04,3.0,3.97,1.0,False,Lesotho,Ethiopia 
-6adC6044,2019-09-08,13:00,2:1 pen.,,,2.09,3.05,3.72,1.0,False,Tanzania,Burundi 
-EV2Ueqjn,2019-09-07,14:00,0:0,,,2.11,2.92,3.9,1.0,False,Botswana,Malawi 
-thZQf35h,2019-09-07,17:00,0:1,,,2.51,2.8,3.14,2.0,False,Gambia,Angola 
-lOPojuKN,2019-09-06,12:00,1:1,,,3.12,2.87,2.44,1.0,False,Comoros,Togo 
-65LRQ73A,2019-09-06,17:00,7:0,2:0,5:0,1.07,9.68,33.43,0.0,True,Kuwait,Nepal
-Eepo6unt,2019-09-06,16:30,1:1,1:0,0:1,3.03,2.92,2.48,1.0,True,Bahrain,Iraq
-Ey4VQhoK,2019-09-06,16:30,6:0,4:0,2:0,1.06,11.27,25.45,0.0,True,Qatar,Afghanistan
-SzbAjlE6,2019-09-05,15:00,1:0,0:0,1:0,13.44,5.29,1.21,0.0,True,Somalia,Zimbabwe 
-IcUkkaZT,2019-09-05,14:30,1:3,0:1,1:2,3.04,2.99,2.28,2.0,True,Chad,Sudan 
-0YaRRYVD,2019-09-05,14:00,1:2,1:0,0:2,5.12,3.58,1.67,2.0,True,India,Oman
-hU98F4ti,2019-09-05,14:00,2:0,0:0,2:0,4.45,3.34,1.83,0.0,True,Palestine,Uzbekistan
-2Zu4FJbs,2019-09-05,14:00,0:2,0:1,0:1,12.71,6.4,1.19,2.0,True,Sri Lanka,Turkmenistan
-69eFoTMn,2019-09-05,14:00,1:0,1:0,0:0,2.38,3.11,3.0,0.0,True,Tajikistan,Kyrgyzstan
-GpMieedS,2019-09-05,12:30,2:3,2:1,0:2,1.8,3.54,4.28,2.0,True,Indonesia,Malaysia
-K6GHpJso,2019-09-05,12:00,0:3,0:2,0:1,7.11,4.18,1.4,2.0,True,Seychelles,Rwanda 
-xfNmdysM,2019-09-05,12:00,0:0,0:0,0:0,2.1,3.24,3.55,1.0,True,Thailand,Vietnam
-WK8CEOec,2019-09-05,11:45,2:2,1:2,1:0,2.62,2.94,2.85,1.0,True,Singapore,Yemen
-hnqk5a1n,2019-09-05,11:30,1:1,1:1,0:0,4.06,3.63,1.82,1.0,True,Cambodia,Hong Kong
-Ak24cB38,2019-09-05,11:30,2:5,1:2,1:3,5.96,4.14,1.51,2.0,True,Philippines,Syria
-vqkVRml4,2019-09-05,11:10,1:2,0:2,1:0,16.88,6.47,1.16,2.0,True,Chinese Taipei,Jordan
-vNgNq7ia,2019-09-05,09:00,1:0,1:0,0:0,4.78,4.02,1.63,0.0,True,Mongolia,Myanmar
-QDlxKajQ,2019-09-05,08:30,2:0,1:0,1:0,2.12,3.3,3.31,0.0,True,North Korea,Lebanon
-MP58dVIE,2019-09-05,05:30,0:1,0:1,0:0,2.05,3.43,3.41,2.0,True,Guam,Maldives
-KrYUgNKb,2019-09-05,18:00,3:1,,,1.66,3.35,5.55,0.0,False,Liberia,Sierra Leone 
-S8ywh1kB,2019-09-04,15:30,0:1,0:0,0:1,6.33,4.42,1.4,2.0,True,Sao Tome and Principe,Guinea Bissau 
-zu4QdPzt,2019-09-04,15:00,2:1,1:0,1:1,6.33,4.5,1.4,0.0,True,Djibouti,Eswatini 
-E5XYhsz5,2019-09-04,14:30,0:1,0:1,0:0,4.18,3.35,1.83,2.0,True,Mauritius,Mozambique 
-AXQsiL4H,2019-09-04,14:00,1:1,0:1,1:0,6.19,3.71,1.53,1.0,True,South Sudan,Equatorial Guinea 
-O2iJlSrJ,2019-09-04,13:00,1:1,0:0,1:1,1.87,3.18,4.43,1.0,True,Burundi,Tanzania 
-AamFk8TC,2019-09-04,13:00,1:2,0:0,1:2,4.93,3.95,1.55,2.0,True,Eritrea,Namibia 
-lpa6iUb0,2019-09-04,13:00,0:0,0:0,0:0,1.82,3.18,4.65,1.0,True,Ethiopia,Lesotho 
+xeid,date,time,score,h1,h2,win,tie,los,result,usable,team1,team2,h11,h12,h21,h22,t1,t2
+rBfk6fO7,2022-12-18,15:00,4:3 pen.,2:0,0:2,2.7,3.15,2.91,1.0,True,Argentina,France,2.0,0.0,0.0,2.0,2.0,2.0
+U7jo7z91,2022-12-17,15:00,2:1,2:1,0:0,2.3,3.55,3.12,0.0,True,Croatia,Morocco,2.0,1.0,0.0,0.0,2.0,1.0
+M9g47WCj,2022-12-15,19:00,2:0,1:0,1:0,1.6,3.88,6.5,0.0,True,France,Morocco,1.0,0.0,1.0,0.0,2.0,0.0
+QXChy9gE,2022-12-14,19:00,3:0,2:0,1:0,2.01,3.11,4.66,0.0,True,Argentina,Croatia,2.0,0.0,1.0,0.0,3.0,0.0
+2g49AZK4,2022-12-11,19:00,1:2,0:1,1:1,2.9,3.1,2.73,2.0,True,England,France,0.0,1.0,1.0,1.0,1.0,2.0
+hdEvqxcM,2022-12-10,15:00,1:0,1:0,0:0,6.33,3.83,1.61,0.0,True,Morocco,Portugal,1.0,0.0,0.0,0.0,1.0,0.0
+G0rn6WE5,2022-12-10,19:00,2:3 pen.,0:1,2:1,3.67,3.09,2.26,1.0,True,Netherlands,Argentina,0.0,1.0,2.0,1.0,2.0,2.0
+lGiFEPmp,2022-12-09,15:00,2:1 pen.,0:0,0:0,8.67,4.79,1.4,1.0,True,Croatia,Brazil,0.0,0.0,0.0,0.0,0.0,0.0
+GpbM6Hem,2022-12-07,19:00,6:1,2:0,4:1,1.94,3.56,4.2,0.0,True,Portugal,Switzerland,2.0,0.0,4.0,1.0,6.0,1.0
+4fxmve4a,2022-12-06,15:00,1:0 pen.,0:0,0:0,6.14,3.83,1.63,1.0,True,Morocco,Spain,0.0,0.0,0.0,0.0,0.0,0.0
+A7cQ5yBg,2022-12-06,19:00,4:1,4:0,0:1,1.23,6.53,13.89,0.0,True,Brazil,South Korea,4.0,0.0,0.0,1.0,4.0,1.0
+MVnruykg,2022-12-05,15:00,1:2 pen.,1:0,0:1,3.84,3.27,2.11,1.0,True,Japan,Croatia,1.0,0.0,0.0,1.0,1.0,1.0
+bswGq3oQ,2022-12-05,19:00,3:0,2:0,1:0,1.61,3.74,6.65,0.0,True,England,Senegal,2.0,0.0,1.0,0.0,3.0,0.0
+Cj8sxDv9,2022-12-04,15:00,3:1,1:0,2:1,1.39,4.95,9.03,0.0,True,France,Poland,1.0,0.0,2.0,1.0,3.0,1.0
+Ya9wwgP2,2022-12-04,19:00,2:1,1:0,1:1,1.29,6.17,9.9,0.0,True,Argentina,Australia,1.0,0.0,1.0,1.0,2.0,1.0
+ClJjw1Og,2022-12-03,15:00,3:1,2:0,1:1,1.91,3.4,4.58,0.0,True,Netherlands,USA,2.0,0.0,1.0,1.0,3.0,1.0
+2LCUbMel,2022-12-03,19:00,1:0,0:0,1:0,8.93,5.32,1.36,0.0,True,Cameroon,Brazil,0.0,0.0,1.0,0.0,1.0,0.0
+drCYctBf,2022-12-03,19:00,2:3,2:2,0:1,2.58,3.36,2.85,2.0,True,Serbia,Switzerland,2.0,2.0,0.0,1.0,2.0,3.0
+468UH12Q,2022-12-02,15:00,0:2,0:2,0:0,4.49,3.82,1.79,2.0,True,Ghana,Uruguay,0.0,2.0,0.0,0.0,0.0,2.0
+MsJPIsmK,2022-12-02,15:00,2:1,1:1,1:0,4.26,3.84,1.85,0.0,True,South Korea,Portugal,1.0,1.0,1.0,0.0,2.0,1.0
+I5Sd8Axs,2022-12-02,19:00,2:4,0:1,2:3,23.79,11.17,1.1,2.0,True,Costa Rica,Germany,0.0,1.0,2.0,3.0,2.0,4.0
+js7KjP3R,2022-12-02,19:00,2:1,0:1,2:0,7.04,4.49,1.49,0.0,True,Japan,Spain,0.0,1.0,2.0,0.0,2.0,1.0
+dKTo7pl8,2022-12-01,15:00,1:2,1:2,0:0,4.78,3.49,1.84,2.0,True,Canada,Morocco,1.0,2.0,0.0,0.0,1.0,2.0
+fFk3r1B7,2022-12-01,15:00,0:0,0:0,0:0,3.02,3.41,2.44,1.0,True,Croatia,Belgium,0.0,0.0,0.0,0.0,0.0,0.0
+nVNDXqck,2022-12-01,19:00,0:2,0:0,0:2,8.2,4.57,1.44,2.0,True,Poland,Argentina,0.0,0.0,0.0,2.0,0.0,2.0
+UgDIW3Ce,2022-12-01,19:00,1:2,0:0,1:2,5.35,4.28,1.62,2.0,True,Saudi Arabia,Mexico,0.0,0.0,1.0,2.0,1.0,2.0
+xMN9a6FL,2022-11-30,15:00,1:0,0:0,1:0,7.38,4.89,1.43,0.0,True,Australia,Denmark,0.0,0.0,1.0,0.0,1.0,0.0
+0hE7gRJ8,2022-11-30,15:00,1:0,0:0,1:0,6.01,3.92,1.62,0.0,True,Tunisia,France,0.0,0.0,1.0,0.0,1.0,0.0
+6D3ThfTc,2022-11-30,19:00,0:1,0:1,0:0,4.18,3.49,1.95,2.0,True,Iran,USA,0.0,1.0,0.0,0.0,0.0,1.0
+rytnS5cE,2022-11-30,19:00,0:3,0:0,0:3,8.81,4.45,1.43,2.0,True,Wales,England,0.0,0.0,0.0,3.0,0.0,3.0
+drzunOfo,2022-11-29,15:00,1:2,0:1,1:1,2.48,3.08,3.23,2.0,True,Ecuador,Senegal,0.0,1.0,1.0,1.0,1.0,2.0
+fZmDj4nU,2022-11-29,15:00,2:0,1:0,1:0,1.21,7.0,14.51,0.0,True,Netherlands,Qatar,1.0,0.0,1.0,0.0,2.0,0.0
+fyRweveD,2022-11-29,19:00,2:0,0:0,2:0,1.93,3.35,4.49,0.0,True,Portugal,Uruguay,0.0,0.0,2.0,0.0,2.0,0.0
+ryWc4rYQ,2022-11-29,16:00,1:0,0:0,1:0,1.5,4.28,7.6,0.0,True,Brazil,Switzerland,0.0,0.0,1.0,0.0,1.0,0.0
+8vFLJNXD,2022-11-28,13:00,2:3,0:2,2:1,2.76,3.13,2.8,2.0,True,South Korea,Ghana,0.0,2.0,2.0,1.0,2.0,3.0
+lI8Qa2tr,2022-11-28,10:00,3:3,1:2,2:1,5.3,3.77,1.71,1.0,True,Cameroon,Serbia,1.0,2.0,2.0,1.0,3.0,3.0
+dK7Gi5lL,2022-11-28,19:00,1:1,0:0,1:1,2.54,3.42,2.84,1.0,True,Spain,Germany,0.0,0.0,1.0,1.0,1.0,1.0
+runaqsd1,2022-11-28,16:00,4:1,2:1,2:0,2.23,3.27,3.55,0.0,True,Croatia,Canada,2.0,1.0,2.0,0.0,4.0,1.0
+lInepNte,2022-11-27,13:00,0:2,0:0,0:2,1.9,3.45,4.52,2.0,True,Belgium,Morocco,0.0,0.0,0.0,2.0,0.0,2.0
+COkUCjUP,2022-11-27,10:00,0:1,0:0,0:1,1.49,4.32,7.47,2.0,True,Japan,Costa Rica,0.0,0.0,0.0,1.0,0.0,1.0
+tWetjhDG,2022-11-27,19:00,2:0,0:0,2:0,1.55,3.95,7.12,0.0,True,Argentina,Mexico,0.0,0.0,2.0,0.0,2.0,0.0
+M1F3f742,2022-11-27,16:00,2:1,0:0,2:1,1.82,3.6,4.84,0.0,True,France,Denmark,0.0,0.0,2.0,1.0,2.0,1.0
+YRJ9YPsq,2022-11-26,13:00,2:0,1:0,1:0,1.73,3.64,5.43,0.0,True,Poland,Saudi Arabia,1.0,0.0,1.0,0.0,2.0,0.0
+bVO50n0F,2022-11-26,10:00,0:1,0:1,0:0,2.21,3.32,3.52,2.0,True,Tunisia,Australia,0.0,1.0,0.0,0.0,0.0,1.0
+Cj4PgzEi,2022-11-26,19:00,0:0,0:0,0:0,1.48,4.26,7.96,1.0,True,England,USA,0.0,0.0,0.0,0.0,0.0,0.0
+Qaq9ipXN,2022-11-26,16:00,1:1,1:0,0:1,1.83,3.44,4.99,1.0,True,Netherlands,Ecuador,1.0,0.0,0.0,1.0,1.0,1.0
+n9p5hQHH,2022-11-25,13:00,1:3,0:1,1:2,5.5,3.6,1.73,2.0,True,Qatar,Senegal,0.0,1.0,1.0,2.0,1.0,3.0
+4psrTor8,2022-11-25,10:00,0:2,0:0,0:2,2.14,3.18,3.87,2.0,True,Wales,Iran,0.0,0.0,0.0,2.0,0.0,2.0
+zBSk643E,2022-11-25,19:00,2:0,0:0,2:0,1.47,4.57,7.23,0.0,True,Brazil,Serbia,0.0,0.0,2.0,0.0,2.0,0.0
+zZAxc0Q0,2022-11-25,16:00,3:2,0:0,3:2,1.32,5.49,10.21,0.0,True,Portugal,Ghana,0.0,0.0,3.0,2.0,3.0,2.0
+GpSZeKu7,2022-11-24,13:00,0:0,0:0,0:0,1.78,3.55,5.1,1.0,True,Uruguay,South Korea,0.0,0.0,0.0,0.0,0.0,0.0
+4pXg5OIK,2022-11-24,10:00,1:0,0:0,1:0,1.81,3.45,5.02,0.0,True,Switzerland,Cameroon,0.0,0.0,1.0,0.0,1.0,0.0
+hjgnnqCr,2022-11-24,19:00,1:0,1:0,0:0,1.58,4.21,5.92,0.0,True,Belgium,Canada,1.0,0.0,0.0,0.0,1.0,0.0
+YXjQDWEJ,2022-11-24,16:00,7:0,3:0,4:0,1.16,8.42,17.43,0.0,True,Spain,Costa Rica,3.0,0.0,4.0,0.0,7.0,0.0
+rH3ChoZE,2022-11-23,13:00,1:2,1:0,0:2,1.45,4.85,7.28,2.0,True,Germany,Japan,1.0,0.0,0.0,2.0,1.0,2.0
+ARmio3Rl,2022-11-23,10:00,0:0,0:0,0:0,3.57,3.28,2.21,1.0,True,Morocco,Croatia,0.0,0.0,0.0,0.0,0.0,0.0
+IJ781Sp9,2022-11-23,19:00,4:1,2:1,2:0,1.22,6.8,13.86,0.0,True,France,Australia,2.0,1.0,2.0,0.0,4.0,1.0
+2ucxiYcA,2022-11-23,16:00,0:0,0:0,0:0,2.51,3.13,3.14,1.0,True,Mexico,Poland,0.0,0.0,0.0,0.0,0.0,0.0
+8pCMVNR1,2022-11-22,13:00,0:0,0:0,0:0,1.58,3.92,6.57,1.0,True,Denmark,Tunisia,0.0,0.0,0.0,0.0,0.0,0.0
+p42XiEr4,2022-11-22,10:00,1:2,1:0,0:2,1.12,9.21,25.52,2.0,True,Argentina,Saudi Arabia,1.0,0.0,0.0,2.0,1.0,2.0
+GUm04257,2022-11-22,19:00,1:1,1:0,0:1,2.47,3.09,3.22,1.0,True,USA,Wales,1.0,0.0,0.0,1.0,1.0,1.0
+4pe0g62B,2022-11-22,16:00,0:2,0:0,0:2,6.1,3.67,1.66,2.0,True,Senegal,Netherlands,0.0,0.0,0.0,2.0,0.0,2.0
+0G0LfGbo,2022-11-21,13:00,6:2,3:0,3:2,1.38,4.65,10.2,0.0,True,England,Iran,3.0,0.0,3.0,2.0,6.0,2.0
+jsidfnm5,2022-11-21,16:00,0:2,0:2,0:0,3.71,3.14,2.24,2.0,True,Qatar,Ecuador,0.0,2.0,0.0,0.0,0.0,2.0
+KM8vMQMm,2022-06-15,18:00,1:0,1:0,0:0,2.12,2.73,4.58,0.0,True,Costa Rica,New Zealand ,1.0,0.0,0.0,0.0,1.0,0.0
+SY0cFZ4t,2022-06-14,18:00,1:0 pen.,0:0,0:0,4.58,3.09,1.95,1.0,True,Australia,Peru ,0.0,0.0,0.0,0.0,0.0,0.0
+djl8DuNn,2022-06-08,18:00,1:2,0:0,1:2,5.34,3.39,1.75,2.0,True,United Arab Emirates,Australia ,0.0,0.0,1.0,2.0,1.0,2.0
+fTlfHD91,2022-06-06,16:00,1:0,1:0,0:0,2.62,3.04,2.99,0.0,True,Wales,Ukraine,1.0,0.0,0.0,0.0,1.0,0.0
+AkdcDYKb,2022-06-02,18:45,1:3,0:1,1:2,2.45,3.02,3.22,2.0,True,Scotland,Ukraine,0.0,1.0,1.0,2.0,1.0,3.0
+6gP08abG,2022-03-31,01:05,2:0,0:0,2:0,4.45,3.39,1.87,0.0,True,Costa Rica,USA,0.0,0.0,2.0,0.0,2.0,0.0
+pvyhALT3,2022-03-31,01:05,2:1,2:1,0:0,2.0,3.26,4.0,0.0,True,Jamaica,Honduras,2.0,1.0,0.0,0.0,2.0,1.0
+OUZe9uqA,2022-03-31,01:05,2:0,2:0,0:0,1.14,7.81,21.58,0.0,True,Mexico,El Salvador,2.0,0.0,0.0,0.0,2.0,0.0
+j3MlB1Ec,2022-03-31,01:05,1:0,0:0,1:0,4.08,3.42,1.94,0.0,True,Panama,Canada,0.0,0.0,1.0,0.0,1.0,0.0
+EPBNCEnO,2022-03-31,17:00,0:5,0:2,0:3,15.25,6.69,1.16,2.0,True,Solomon Islands,New Zealand,0.0,2.0,0.0,3.0,0.0,5.0
+b5HMJSs4,2022-03-30,23:30,0:4,0:2,0:2,6.17,4.16,1.53,2.0,True,Bolivia,Brazil,0.0,2.0,0.0,2.0,0.0,4.0
+tU6RIncA,2022-03-30,23:30,0:2,0:0,0:2,2.27,3.19,3.33,2.0,True,Chile,Uruguay,0.0,0.0,0.0,2.0,0.0,2.0
+KK5VH6CG,2022-03-30,23:30,1:1,0:1,1:0,3.48,3.14,2.24,1.0,True,Ecuador,Argentina,0.0,1.0,1.0,0.0,1.0,1.0
+h8EELlDi,2022-03-30,23:30,2:0,2:0,0:0,1.54,3.91,6.74,0.0,True,Peru,Paraguay,2.0,0.0,0.0,0.0,2.0,0.0
+nVDIK8Sc,2022-03-30,23:30,0:1,0:1,0:0,5.34,3.73,1.67,2.0,True,Venezuela,Colombia,0.0,1.0,0.0,0.0,0.0,1.0
+zuKd2yw1,2022-03-30,19:30,1:2 ET,0:1,0:0,1.98,3.0,4.43,2.0,True,Algeria,Cameroon ,0.0,1.0,0.0,0.0,0.0,1.0
+SEGl4c8l,2022-03-30,19:30,4:1,2:0,2:1,1.45,3.98,8.31,0.0,True,Morocco,D.R. Congo ,2.0,0.0,2.0,1.0,4.0,1.0
+df850F7D,2022-03-30,19:30,0:0,0:0,0:0,2.48,2.72,3.41,1.0,True,Tunisia,Mali ,0.0,0.0,0.0,0.0,0.0,0.0
+hMmMJtpn,2022-03-30,18:45,2:0,0:0,2:0,2.3,3.02,3.6,0.0,True,Poland,Sweden,0.0,0.0,2.0,0.0,2.0,0.0
+fwQDNqnD,2022-03-30,18:45,2:0,1:0,1:0,1.17,7.71,17.56,0.0,True,Portugal,North Macedonia,1.0,0.0,1.0,0.0,2.0,0.0
+88E6h9G7,2022-03-30,18:00,1:0,0:0,1:0,2.33,3.13,3.22,0.0,True,Saudi Arabia,Australia,0.0,0.0,1.0,0.0,1.0,0.0
+MZOG7WEt,2022-03-30,17:00,1:1,1:1,0:0,1.85,2.94,5.55,1.0,True,Nigeria,Ghana ,1.0,1.0,0.0,0.0,1.0,1.0
+pfDP9JpR,2022-03-30,17:00,2:0 pen.,1:0,0:0,1.95,2.87,4.97,0.0,True,Senegal,Egypt ,1.0,0.0,0.0,0.0,1.0,0.0
+ADhkHhg8,2022-03-30,16:00,2:0,1:0,1:0,1.88,3.26,4.52,0.0,True,Oman,China,1.0,0.0,1.0,0.0,2.0,0.0
+CKmlhoKu,2022-03-29,13:45,1:1,1:1,0:0,4.57,3.02,1.97,1.0,True,Syria,Iraq,1.0,1.0,0.0,0.0,1.0,1.0
+zaCrX1lU,2022-03-29,13:45,1:0,0:0,1:0,6.42,3.92,1.55,0.0,True,United Arab Emirates,South Korea,0.0,0.0,1.0,0.0,1.0,0.0
+OO8vYsZN,2022-03-29,11:30,2:0,1:0,1:0,1.21,5.9,16.34,0.0,True,Iran,Lebanon,1.0,0.0,1.0,0.0,2.0,0.0
+f5A2gk11,2022-03-29,10:35,1:1,0:1,1:0,1.11,8.74,24.66,1.0,True,Japan,Vietnam,0.0,1.0,1.0,0.0,1.0,1.0
+d4ublv7p,2022-03-28,23:05,0:1,0:0,0:1,14.86,5.73,1.23,2.0,True,Honduras,Mexico ,0.0,0.0,0.0,1.0,0.0,1.0
+CCNpCsai,2022-03-28,23:00,5:1,4:0,1:1,1.45,4.29,7.36,0.0,True,USA,Panama,4.0,0.0,1.0,1.0,5.0,1.0
+A7q2mbMj,2022-03-28,21:05,1:2,1:2,0:0,4.19,3.07,2.03,2.0,True,El Salvador,Costa Rica,1.0,2.0,0.0,0.0,1.0,2.0
+vPhWhKbT,2022-03-28,20:05,4:0,2:0,2:0,1.18,6.73,16.85,0.0,True,Canada,Jamaica,2.0,0.0,2.0,0.0,4.0,0.0
+hthHjcYk,2022-03-28,17:30,1:0,0:0,1:0,1.07,10.77,20.98,0.0,True,New Zealand,Tahiti,0.0,0.0,1.0,0.0,1.0,0.0
+WWjLkHmd,2022-03-27,14:00,3:2,1:1,2:1,2.16,3.52,3.04,0.0,True,Solomon Islands,Papua New Guinea,1.0,1.0,2.0,1.0,3.0,2.0
+EHFAMUco,2022-03-26,23:30,3:0,1:0,2:0,1.18,7.11,15.78,0.0,True,Argentina,Venezuela,1.0,0.0,2.0,0.0,3.0,0.0
+63ELAaVK,2022-03-26,19:30,1:0,1:0,0:0,2.37,2.63,3.77,0.0,True,Egypt,Senegal ,1.0,0.0,0.0,0.0,1.0,0.0
+pA1mPbpE,2022-03-26,19:30,0:0,0:0,0:0,2.85,2.67,2.94,1.0,True,Ghana,Nigeria ,0.0,0.0,0.0,0.0,0.0,0.0
+MyGh3HNf,2022-03-26,17:00,0:1,0:1,0:0,2.55,2.81,3.14,2.0,True,Cameroon,Algeria ,0.0,1.0,0.0,0.0,0.0,1.0
+I3911eh7,2022-03-26,17:00,0:1,0:1,0:0,2.3,2.78,3.75,2.0,True,Mali,Tunisia ,0.0,1.0,0.0,0.0,0.0,1.0
+lOHp5wgr,2022-03-25,15:00,1:1,1:0,0:1,4.74,2.84,2.01,1.0,True,D.R. Congo,Morocco ,1.0,0.0,0.0,1.0,1.0,1.0
+Aq1Fd2a4,2022-03-25,02:05,1:0,1:0,0:0,3.1,2.96,2.5,0.0,True,Costa Rica,Canada,1.0,0.0,0.0,0.0,1.0,0.0
+0YgSg0qN,2022-03-25,02:00,0:0,0:0,0:0,1.79,3.36,4.94,1.0,True,Mexico,USA,0.0,0.0,0.0,0.0,0.0,0.0
+460JeMEA,2022-03-25,01:05,1:1,1:0,0:1,1.46,4.2,7.51,1.0,True,Panama,Honduras,1.0,0.0,0.0,1.0,1.0,1.0
+b7M0V4PI,2022-03-25,23:30,4:0,2:0,2:0,1.33,5.08,10.25,0.0,True,Brazil,Chile,2.0,0.0,2.0,0.0,4.0,0.0
+4pNdWpAC,2022-03-25,23:30,3:0,1:0,2:0,1.14,8.69,17.55,0.0,True,Colombia,Bolivia,1.0,0.0,2.0,0.0,3.0,0.0
+zXqUDxfo,2022-03-25,23:30,3:1,2:0,1:1,3.2,2.89,2.52,0.0,True,Paraguay,Ecuador,2.0,0.0,1.0,1.0,3.0,1.0
+jsJhXQf6,2022-03-25,23:30,1:0,1:0,0:0,1.53,3.78,7.34,0.0,True,Uruguay,Peru,1.0,0.0,0.0,0.0,1.0,0.0
+rcaNftUG,2022-03-25,23:05,1:1,0:1,1:0,2.07,3.11,3.93,1.0,True,Jamaica,El Salvador ,0.0,1.0,1.0,0.0,1.0,1.0
+zFlq4Uso,2022-03-25,19:45,0:1,0:0,0:1,1.2,6.79,15.64,2.0,True,Italy,North Macedonia,0.0,0.0,0.0,1.0,0.0,1.0
+Y52H8AZT,2022-03-25,19:45,3:1,2:0,1:1,1.3,5.75,9.97,0.0,True,Portugal,Turkey,2.0,0.0,1.0,1.0,3.0,1.0
+vq3D9jKN,2022-03-25,19:45,1:0 ET,0:0,0:0,2.14,3.06,3.98,1.0,True,Sweden,Czech Republic,0.0,0.0,0.0,0.0,0.0,0.0
+4QA0Chz5,2022-03-25,19:45,2:1,1:0,1:1,2.67,2.92,3.04,0.0,True,Wales,Austria,1.0,0.0,1.0,1.0,2.0,1.0
+bVvtFTvc,2022-03-25,17:00,1:2,1:1,0:1,2.07,3.5,3.23,2.0,True,Fiji,Papua New Guinea,1.0,1.0,0.0,1.0,1.0,2.0
+MDecjp2d,2022-03-25,17:00,7:1,3:1,4:0,1.08,9.05,24.71,0.0,True,New Zealand,New Caledonia,3.0,1.0,4.0,0.0,7.0,1.0
+29KVZ34B,2022-03-25,17:00,1:0,0:0,1:0,2.71,2.94,2.88,0.0,True,Iraq,United Arab Emirates,0.0,0.0,1.0,0.0,1.0,0.0
+MiCfeBWl,2022-03-24,15:00,1:1,0:1,1:0,7.37,3.8,1.52,1.0,True,China,Saudi Arabia,0.0,1.0,1.0,0.0,1.0,1.0
+G8tDBfY4,2022-03-24,14:00,3:1,1:1,2:0,2.93,3.3,2.3,0.0,True,Solomon Islands,Tahiti,1.0,1.0,2.0,0.0,3.0,1.0
+t0JZYNJH,2022-03-24,12:00,0:3,0:3,0:0,2.3,2.98,3.49,2.0,True,Lebanon,Syria,0.0,3.0,0.0,0.0,0.0,3.0
+0rBbfVoe,2022-03-24,12:00,0:1,0:0,0:1,3.31,3.23,2.23,2.0,True,Vietnam,Oman,0.0,0.0,0.0,1.0,0.0,1.0
+YZFRzpk5,2022-03-24,11:00,2:0,1:0,1:0,2.12,2.95,4.03,0.0,True,South Korea,Iran,1.0,0.0,1.0,0.0,2.0,0.0
+ttecdiHr,2022-03-24,09:10,0:2,0:0,0:2,2.87,2.94,2.71,2.0,True,Australia,Japan,0.0,0.0,0.0,2.0,0.0,2.0
+l0ckh6Xq,2022-03-22,17:00,4:0,1:0,3:0,1.12,7.55,20.92,0.0,True,New Zealand,Fiji,1.0,0.0,3.0,0.0,4.0,0.0
+rNdgiQnj,2022-03-21,14:00,1:0,1:0,0:0,2.49,3.03,2.85,0.0,True,Papua New Guinea,New Caledonia,1.0,0.0,0.0,0.0,1.0,0.0
+xOUL9Y2H,2022-03-19,17:00,1:2,0:1,1:1,2.36,3.2,2.93,2.0,True,New Caledonia,Fiji,0.0,1.0,1.0,1.0,1.0,2.0
+fauHAEmB,2022-03-18,14:00,0:1,0:0,0:1,30.28,10.41,1.06,2.0,True,Papua New Guinea,New Zealand,0.0,0.0,0.0,1.0,0.0,1.0
+rsT5DG3h,2022-03-18,17:00,canc.,,,1.61,3.81,4.92,,False,Tahiti,Vanuatu,,,,,,
+Gp86bOUi,2022-02-03,03:00,1:0,0:0,1:0,1.37,4.63,8.86,0.0,True,Mexico,Panama,0.0,0.0,1.0,0.0,1.0,0.0
+lvGKzLxo,2022-02-03,02:00,0:2,0:0,0:2,5.68,3.46,1.69,2.0,True,El Salvador,Canada,0.0,0.0,0.0,2.0,0.0,2.0
+xf92a4Fo,2022-02-03,00:30,3:0,2:0,1:0,1.17,7.02,16.7,0.0,True,USA,Honduras,2.0,0.0,1.0,0.0,3.0,0.0
+b9cBcrpb,2022-02-03,00:00,0:1,0:0,0:1,2.73,2.93,2.84,2.0,True,Jamaica,Costa Rica,0.0,0.0,0.0,1.0,0.0,1.0
+rBWyy9es,2022-02-02,02:00,1:1,0:1,1:0,2.42,2.89,3.38,1.0,True,Peru,Ecuador,0.0,1.0,1.0,0.0,1.0,1.0
+M1VuzTAm,2022-02-02,00:30,4:0,1:0,3:0,1.26,5.26,14.15,0.0,True,Brazil,Paraguay,1.0,0.0,3.0,0.0,4.0,0.0
+8ITmY6u0,2022-02-02,23:30,1:0,1:0,0:0,1.98,3.18,4.36,0.0,True,Argentina,Colombia,1.0,0.0,0.0,0.0,1.0,0.0
+xUg9ukmQ,2022-02-02,23:00,4:1,3:0,1:1,1.41,4.58,8.1,0.0,True,Uruguay,Venezuela,3.0,0.0,1.0,1.0,4.0,1.0
+URUqZnQg,2022-02-02,20:00,2:3,1:1,1:2,2.53,3.29,2.81,2.0,True,Bolivia,Chile,1.0,1.0,1.0,2.0,2.0,3.0
+pA9R1DgL,2022-02-02,16:00,2:2,0:1,2:1,9.12,4.53,1.38,1.0,True,Oman,Australia ,0.0,1.0,2.0,1.0,2.0,2.0
+bHNEwn5n,2022-02-01,14:30,1:0,1:0,0:0,1.33,4.68,10.69,0.0,True,Iran,United Arab Emirates ,1.0,0.0,0.0,0.0,1.0,0.0
+CKRIx6Kh,2022-02-01,14:00,0:2,0:0,0:2,8.47,4.07,1.44,2.0,True,Syria,South Korea,0.0,0.0,0.0,2.0,0.0,2.0
+fqHNyQZb,2022-02-01,12:00,1:1,1:1,0:0,2.74,2.73,3.04,1.0,True,Lebanon,Iraq,1.0,1.0,0.0,0.0,1.0,1.0
+vX8V0X8R,2022-02-01,12:00,3:1,2:0,1:1,4.19,3.54,1.87,0.0,True,Vietnam,China,2.0,0.0,1.0,1.0,3.0,1.0
+W65N2gvF,2022-02-01,10:10,2:0,1:0,1:0,1.58,3.47,7.32,0.0,True,Japan,Saudi Arabia,1.0,0.0,1.0,0.0,2.0,0.0
+Gnarf9w6,2022-01-31,00:05,0:2,0:1,0:1,2.08,3.09,3.9,2.0,True,Honduras,El Salvador,0.0,1.0,0.0,1.0,0.0,2.0
+Uk3ngThC,2022-01-31,23:00,0:0,0:0,0:0,1.29,5.17,10.92,1.0,True,Mexico,Costa Rica ,0.0,0.0,0.0,0.0,0.0,0.0
+CEhihm8I,2022-01-31,22:05,3:2,1:1,2:1,2.03,3.09,4.11,0.0,True,Panama,Jamaica ,1.0,1.0,2.0,1.0,3.0,2.0
+MPavekOa,2022-01-31,20:05,2:0,1:0,1:0,2.83,2.77,2.9,0.0,True,Canada,USA,1.0,0.0,1.0,0.0,2.0,0.0
+Ee8EJ7Q6,2022-01-29,22:00,4:1,2:1,2:0,1.72,4.0,4.54,0.0,True,Venezuela,Bolivia,2.0,1.0,2.0,0.0,4.0,1.0
+z59AKmB0,2022-01-29,21:00,0:1,0:0,0:1,1.58,3.58,7.04,2.0,True,Colombia,Peru,0.0,0.0,0.0,1.0,0.0,1.0
+2NqwcBgm,2022-01-28,02:05,1:0,0:0,1:0,2.46,2.98,3.12,0.0,True,Costa Rica,Panama,0.0,0.0,1.0,0.0,1.0,0.0
+6ib72XVP,2022-01-28,01:05,0:2,0:1,0:1,3.62,3.27,2.09,2.0,True,Honduras,Canada,0.0,1.0,0.0,1.0,0.0,2.0
+AN1NHoeJ,2022-01-28,00:15,1:2,1:2,0:0,3.21,3.06,2.4,2.0,True,Chile,Argentina,1.0,2.0,0.0,0.0,1.0,2.0
+rZ0zdV8g,2022-01-28,00:00,1:2,0:0,1:2,5.25,3.28,1.77,2.0,True,Jamaica,Mexico,0.0,0.0,1.0,2.0,1.0,2.0
+OWpZcivs,2022-01-28,00:00,1:0,0:0,1:0,1.14,7.85,19.25,0.0,True,USA,El Salvador,0.0,0.0,1.0,0.0,1.0,0.0
+WW2JIRuD,2022-01-28,23:00,0:1,0:0,0:1,3.27,3.15,2.32,2.0,True,Paraguay,Uruguay,0.0,0.0,0.0,1.0,0.0,1.0
+OQk5tVXJ,2022-01-28,21:00,1:1,0:1,1:0,3.52,2.95,2.34,1.0,True,Ecuador,Brazil,0.0,1.0,1.0,0.0,1.0,1.0
+lrGI3ZO8,2022-01-28,17:15,1:0,0:0,1:0,1.52,3.85,6.72,0.0,True,Saudi Arabia,Oman,0.0,0.0,1.0,0.0,1.0,0.0
+4fOAvSkt,2022-01-27,15:00,2:0,1:0,1:0,2.22,3.13,3.45,0.0,True,United Arab Emirates,Syria,1.0,0.0,1.0,0.0,2.0,0.0
+EFUAzGwP,2022-01-27,14:30,1:0,0:0,1:0,1.29,4.88,13.06,0.0,True,Iran,Iraq,0.0,0.0,1.0,0.0,1.0,0.0
+2oxqq8sP,2022-01-27,12:00,0:1,0:1,0:0,7.38,3.6,1.55,2.0,True,Lebanon,South Korea,0.0,1.0,0.0,0.0,0.0,1.0
+MyOWuWW1,2022-01-27,10:01,2:0,1:0,1:0,1.32,5.37,8.9,0.0,True,Japan,China,1.0,0.0,1.0,0.0,2.0,0.0
+AiHE4F92,2022-01-27,09:10,4:0,2:0,2:0,1.13,8.05,21.25,0.0,True,Australia,Vietnam,2.0,0.0,2.0,0.0,4.0,0.0
+rJCCtj96,2021-11-17,02:05,2:1,1:0,1:1,2.4,3.09,3.11,0.0,True,Canada,Mexico,1.0,0.0,1.0,1.0,2.0,1.0
+ChHGuAOC,2021-11-17,01:05,2:1,1:1,1:0,2.03,3.05,4.17,0.0,True,Costa Rica,Honduras,1.0,1.0,1.0,0.0,2.0,1.0
+jqGKvUwJ,2021-11-17,01:05,2:1,0:1,2:0,1.61,3.51,6.49,0.0,True,Panama,El Salvador,0.0,1.0,2.0,0.0,2.0,1.0
+trA6LTef,2021-11-17,00:15,0:2,0:1,0:1,1.85,3.23,4.84,2.0,True,Chile,Ecuador,0.0,1.0,0.0,1.0,0.0,2.0
+rci3M9tl,2021-11-17,23:30,0:0,0:0,0:0,2.39,2.93,3.44,1.0,True,Argentina,Brazil,0.0,0.0,0.0,0.0,0.0,0.0
+UkBSSB3K,2021-11-17,23:00,0:0,0:0,0:0,1.45,4.04,8.31,1.0,True,Colombia,Paraguay,0.0,0.0,0.0,0.0,0.0,0.0
+hlf33DGJ,2021-11-17,22:00,1:1,1:1,0:0,4.12,3.2,1.98,1.0,True,Jamaica,USA,1.0,1.0,0.0,0.0,1.0,1.0
+bPFWRVIQ,2021-11-17,21:00,1:2,0:1,1:1,3.2,2.99,2.44,2.0,True,Venezuela,Peru,0.0,1.0,1.0,1.0,1.0,2.0
+0Y1bNkRs,2021-11-17,20:00,3:0,2:0,1:0,2.81,3.15,2.6,0.0,True,Bolivia,Uruguay,2.0,0.0,1.0,0.0,3.0,0.0
+l6GLIInn,2021-11-17,19:45,0:2,0:0,0:2,5.14,4.25,1.62,2.0,True,Bosnia & Herzegovina,Ukraine,0.0,0.0,0.0,2.0,0.0,2.0
+GYe0UFob,2021-11-17,19:45,2:0,0:0,2:0,1.14,8.38,19.87,0.0,True,Czech Republic,Estonia,0.0,0.0,2.0,0.0,2.0,0.0
+xSn30yXH,2021-11-17,19:45,0:2,0:0,0:2,6.86,4.29,1.5,2.0,True,Finland,France,0.0,0.0,0.0,2.0,0.0,2.0
+xzFwBcAd,2021-11-17,19:45,1:3,1:1,0:2,7.31,4.3,1.48,2.0,True,Gibraltar,Latvia,1.0,1.0,0.0,2.0,1.0,3.0
+Wb1jMNIc,2021-11-17,19:45,1:2,1:1,0:1,4.12,3.57,1.9,2.0,True,Montenegro,Turkey,1.0,1.0,0.0,1.0,1.0,2.0
+G4tY7Xcm,2021-11-17,19:45,2:0,0:0,2:0,1.47,4.33,7.53,0.0,True,Netherlands,Norway ,0.0,0.0,2.0,0.0,2.0,0.0
+lnf8SgGA,2021-11-17,19:45,1:1,1:1,0:0,3.68,3.31,2.11,1.0,True,Wales,Belgium,1.0,1.0,0.0,0.0,1.0,1.0
+6uMxkw0j,2021-11-17,19:00,1:0,1:0,0:0,2.44,2.89,3.13,0.0,True,Cameroon,Ivory Coast,1.0,0.0,0.0,0.0,1.0,0.0
+pYLpWOgB,2021-11-17,19:00,1:1,1:0,0:1,3.9,3.03,2.06,1.0,True,Mauritania,Equatorial Guinea,1.0,0.0,0.0,1.0,1.0,1.0
+Cvh7J0Se,2021-11-17,19:00,3:0,2:0,1:0,1.33,4.67,9.41,0.0,True,Morocco,Guinea,2.0,0.0,1.0,0.0,3.0,0.0
+6sNtX4v5,2021-11-17,19:00,3:1,3:0,0:1,1.34,4.5,9.99,0.0,True,Tunisia,Zambia,3.0,0.0,0.0,1.0,3.0,1.0
+nZoRxzBQ,2021-11-17,16:00,2:2,1:1,1:1,1.29,4.8,11.48,1.0,True,Algeria,Burkina Faso,1.0,1.0,1.0,1.0,2.0,2.0
+ERhzst8T,2021-11-17,16:00,3:1,2:0,1:1,2.92,2.83,2.64,0.0,True,Liberia,Central Africa,2.0,0.0,1.0,1.0,3.0,1.0
+zyfWsMhN,2021-11-17,16:00,1:1,1:1,0:0,1.44,4.01,7.73,1.0,True,Nigeria,Cape Verde,1.0,1.0,0.0,0.0,1.0,1.0
+0MZNsh2k,2021-11-17,16:00,0:1,0:0,0:1,7.17,3.87,1.5,2.0,True,Oman,Japan,0.0,0.0,0.0,1.0,0.0,1.0
+t2W2xx9C,2021-11-17,16:00,0:3,0:2,0:1,8.03,3.8,1.48,2.0,True,Syria,Iran,0.0,2.0,0.0,1.0,0.0,3.0
+2yHKrYnq,2021-11-16,15:00,1:1,0:1,1:0,5.61,4.02,1.58,1.0,True,China,Australia,0.0,1.0,1.0,0.0,1.0,1.0
+SbSbwIg6,2021-11-16,15:00,0:3,0:1,0:2,7.0,3.69,1.54,2.0,True,Iraq,South Korea ,0.0,1.0,0.0,2.0,0.0,3.0
+Gj5J3cWt,2021-11-16,13:00,2:1,1:0,1:1,1.39,4.13,9.16,0.0,True,Egypt,Gabon,1.0,0.0,1.0,1.0,2.0,1.0
+fs4N2Hom,2021-11-16,13:00,1:1,0:0,1:1,3.23,2.83,2.44,1.0,True,Libya,Angola,0.0,0.0,1.0,1.0,1.0,1.0
+pWKtlcFd,2021-11-16,13:00,1:0,0:0,1:0,3.0,2.83,2.59,0.0,True,Mozambique,Malawi,0.0,0.0,1.0,0.0,1.0,0.0
+zPV6ydOI,2021-11-16,12:00,0:1,0:0,0:1,2.83,2.9,2.74,2.0,True,Lebanon,United Arab Emirates ,0.0,0.0,0.0,1.0,0.0,1.0
+roPStCHe,2021-11-16,12:00,0:1,0:1,0:0,7.05,4.07,1.48,2.0,True,Vietnam,Saudi Arabia,0.0,1.0,0.0,0.0,0.0,1.0
+rgVFXWvO,2021-11-16,19:45,1:0,0:0,1:0,1.26,5.79,12.01,0.0,True,Albania,Andorra,0.0,0.0,1.0,0.0,1.0,0.0
+MDgKfCa3,2021-11-16,19:45,4:1,2:0,2:1,1.06,12.95,43.49,0.0,True,Austria,Moldova,2.0,0.0,2.0,1.0,4.0,1.0
+AyBdyObr,2021-11-16,19:45,3:2,1:0,2:2,1.32,5.57,9.18,0.0,True,Israel,Faroe Islands,1.0,0.0,2.0,2.0,3.0,2.0
+nLMpnoC7,2021-11-16,19:45,0:0,0:0,0:0,13.12,5.81,1.25,1.0,True,Northern Ireland,Italy,0.0,0.0,0.0,0.0,0.0,0.0
+8GziwyBn,2021-11-16,19:45,1:2,0:1,1:1,1.58,3.86,6.45,2.0,True,Poland,Hungary,0.0,1.0,1.0,1.0,1.0,2.0
+vH2DXub7,2021-11-16,19:45,2:0,1:0,1:0,3.06,2.94,2.63,0.0,True,Scotland,Denmark,1.0,0.0,1.0,0.0,2.0,0.0
+IqH9f94R,2021-11-16,19:45,4:0,0:0,4:0,1.08,10.92,30.49,0.0,True,Switzerland,Bulgaria,0.0,0.0,4.0,0.0,4.0,0.0
+jVjBIKs2,2021-11-16,16:00,0:0,0:0,0:0,2.16,3.07,3.5,1.0,True,Guinea Bissau,Sudan,0.0,0.0,0.0,0.0,0.0,0.0
+lrYhYgJs,2021-11-16,16:00,7:2,2:1,5:1,1.13,7.58,19.56,0.0,True,Niger,Djibouti,2.0,1.0,5.0,1.0,7.0,2.0
+EPN78nI8,2021-11-15,13:00,2:1,2:0,0:1,1.93,2.96,4.52,0.0,True,Kenya,Rwanda,2.0,0.0,0.0,1.0,2.0,1.0
+ADAeOkEN,2021-11-15,13:00,0:1,0:0,0:1,2.64,2.86,2.89,2.0,True,Namibia,Togo,0.0,0.0,0.0,1.0,0.0,1.0
+b1HRw22j,2021-11-15,19:45,1:1,1:0,0:1,1.68,3.67,5.67,1.0,True,Greece,Kosovo,1.0,0.0,0.0,1.0,1.0,1.0
+AHdlQrYj,2021-11-15,19:45,0:3,0:0,0:3,4.96,3.56,1.8,2.0,True,Luxembourg,Ireland,0.0,0.0,0.0,3.0,0.0,3.0
+ptfcpAOT,2021-11-15,19:45,1:2,1:1,0:1,1.54,4.35,6.04,2.0,True,Portugal,Serbia,1.0,1.0,0.0,1.0,1.0,2.0
+4pRN0V8A,2021-11-15,19:45,1:0,0:0,1:0,1.38,4.94,8.58,0.0,True,Spain,Sweden,0.0,0.0,1.0,0.0,1.0,0.0
+Oxp2EEpa,2021-11-15,19:00,1:0,1:0,0:0,1.88,3.1,4.59,0.0,True,Ghana,South Africa,1.0,0.0,0.0,0.0,1.0,0.0
+WMBiPVbH,2021-11-15,19:00,2:0,2:0,0:0,1.23,5.46,13.1,0.0,True,Senegal,Congo,2.0,0.0,0.0,0.0,2.0,0.0
+vesGRbDQ,2021-11-15,17:00,1:4,0:2,1:2,17.0,8.97,1.14,2.0,True,Armenia,Germany,0.0,2.0,1.0,2.0,1.0,4.0
+AqLbJzL6,2021-11-15,17:00,0:2,0:1,0:1,30.15,11.9,1.08,2.0,True,Liechtenstein,Romania,0.0,1.0,0.0,1.0,0.0,2.0
+SKF3IfzD,2021-11-15,17:00,3:1,1:0,2:1,1.66,3.83,5.55,0.0,True,North Macedonia,Iceland,1.0,0.0,2.0,1.0,3.0,1.0
+zZO39S22,2021-11-15,16:00,1:0,1:0,0:0,1.91,3.0,4.63,0.0,True,Mali,Uganda,1.0,0.0,0.0,0.0,1.0,0.0
+vugMZtmc,2021-11-14,14:00,1:0,0:0,1:0,1.58,4.21,5.75,0.0,True,Croatia,Russia,0.0,0.0,1.0,0.0,1.0,0.0
+tnWnrQdE,2021-11-14,14:00,0:6,0:3,0:3,8.28,4.37,1.44,2.0,True,Malta,Slovakia,0.0,3.0,0.0,3.0,0.0,6.0
+vaH3nKW2,2021-11-14,14:00,2:1,0:0,2:1,1.35,4.82,10.26,0.0,True,Slovenia,Cyprus,0.0,0.0,2.0,1.0,2.0,1.0
+QHzTgs48,2021-11-14,13:00,2:0,1:0,1:0,1.83,3.13,4.81,0.0,True,D.R. Congo,Benin ,1.0,0.0,1.0,0.0,2.0,0.0
+48ZWh1JE,2021-11-14,13:00,1:1,0:1,1:0,2.22,3.04,3.39,1.0,True,Madagascar,Tanzania,0.0,1.0,1.0,0.0,1.0,1.0
+2Tr6DYa5,2021-11-14,13:00,1:1,1:0,0:1,2.25,2.97,3.41,1.0,True,Zimbabwe,Ethiopia,1.0,0.0,0.0,1.0,1.0,1.0
+670kCYVT,2021-11-14,19:45,3:1,1:0,2:1,1.04,17.4,41.68,0.0,True,Belgium,Estonia,1.0,0.0,2.0,1.0,3.0,1.0
+zsPAN7YD,2021-11-14,19:45,8:0,3:0,5:0,1.02,19.89,60.1,0.0,True,France,Kazakhstan,3.0,0.0,5.0,0.0,8.0,0.0
+KKXX3t3T,2021-11-14,19:45,2:2,0:1,2:1,14.21,7.18,1.2,1.0,True,Montenegro,Netherlands,0.0,1.0,2.0,1.0,2.0,2.0
+dWuaWyHo,2021-11-14,19:45,5:1,2:0,3:1,1.25,6.06,12.96,0.0,True,Wales,Belarus,2.0,0.0,3.0,1.0,5.0,1.0
+x6HYkJpp,2021-11-14,19:00,3:0,1:0,2:0,1.2,5.95,15.65,0.0,True,Ivory Coast,Mozambique,1.0,0.0,2.0,0.0,3.0,0.0
+prw99pZi,2021-11-14,17:00,0:0,0:0,0:0,1.17,7.33,19.27,1.0,True,Norway,Latvia,0.0,0.0,0.0,0.0,0.0,0.0
+6iv5AQJo,2021-11-14,17:00,6:0,3:0,3:0,1.01,30.04,83.5,0.0,True,Turkey,Gibraltar,3.0,0.0,3.0,0.0,6.0,0.0
+61kSr2wH,2021-11-14,16:00,2:1,0:1,2:0,1.5,3.78,7.22,0.0,True,Cape Verde,Central Africa,0.0,1.0,2.0,0.0,2.0,1.0
+KQOYYQ9h,2021-11-14,16:00,1:0,0:0,1:0,4.58,3.13,1.87,0.0,True,Equatorial Guinea,Tunisia,0.0,0.0,1.0,0.0,1.0,0.0
+SAjOqrOA,2021-11-14,16:00,0:2,0:1,0:1,15.41,5.37,1.23,2.0,True,Liberia,Nigeria,0.0,1.0,0.0,1.0,0.0,2.0
+f3JTGdHb,2021-11-13,14:00,1:3,0:1,1:2,2.02,3.32,4.02,2.0,True,Bosnia & Herzegovina,Finland,0.0,1.0,1.0,2.0,1.0,3.0
+zcV6faxT,2021-11-13,13:00,0:4,0:2,0:2,10.44,4.18,1.36,2.0,True,Malawi,Cameroon,0.0,2.0,0.0,2.0,0.0,4.0
+bHNxYpPb,2021-11-13,13:00,4:0,3:0,1:0,1.66,3.35,5.81,0.0,True,Zambia,Mauritania,3.0,0.0,1.0,0.0,4.0,0.0
+Ue6dpY9s,2021-11-13,02:05,1:0,0:0,1:0,1.38,4.51,8.7,0.0,True,Canada,Costa Rica,0.0,0.0,1.0,0.0,1.0,0.0
+M3O3rCvf,2021-11-13,02:00,1:1,0:0,1:1,3.21,2.81,2.55,1.0,True,El Salvador,Jamaica,0.0,0.0,1.0,1.0,1.0,1.0
+4SD8sWg0,2021-11-13,02:00,2:0,0:0,2:0,2.74,2.96,2.8,0.0,True,USA,Mexico,0.0,0.0,2.0,0.0,2.0,0.0
+OI50qhPm,2021-11-13,01:05,2:3,1:0,1:3,2.25,3.1,3.43,2.0,True,Honduras,Panama,1.0,0.0,1.0,3.0,2.0,3.0
+2wWT7ARf,2021-11-13,23:00,0:1,0:1,0:0,4.05,3.03,2.1,2.0,True,Uruguay,Argentina,0.0,1.0,0.0,0.0,0.0,1.0
+GG6YW87d,2021-11-13,19:45,4:2,0:1,4:1,1.51,4.71,5.89,0.0,True,Austria,Israel,0.0,1.0,4.0,1.0,4.0,2.0
+IuRcwBUS,2021-11-13,19:45,3:1,1:0,2:1,1.04,16.57,61.01,0.0,True,Denmark,Faroe Islands,1.0,0.0,2.0,1.0,3.0,1.0
+04KYlmSl,2021-11-13,19:45,1:0,1:0,0:0,1.43,4.29,8.8,0.0,True,Northern Ireland,Lithuania,1.0,0.0,0.0,0.0,1.0,0.0
+2H4hoj9N,2021-11-13,19:45,1:4,1:3,0:1,42.51,11.38,1.07,2.0,True,Andorra,Poland,1.0,3.0,0.0,1.0,1.0,4.0
+zT5xKDAO,2021-11-13,19:45,5:0,5:0,0:0,1.17,7.37,20.29,0.0,True,England,Albania,5.0,0.0,0.0,0.0,5.0,0.0
+lWVBYCPH,2021-11-13,19:45,4:0,2:0,2:0,1.01,26.2,80.24,0.0,True,Hungary,San Marino,2.0,0.0,2.0,0.0,4.0,0.0
+8I96h7Gj,2021-11-13,19:45,1:1,1:1,0:0,1.61,3.89,6.11,1.0,True,Italy,Switzerland,1.0,1.0,0.0,0.0,1.0,1.0
+p8Em9J8J,2021-11-13,19:00,2:2,2:1,0:1,5.34,3.22,1.73,1.0,True,Angola,Egypt,2.0,1.0,0.0,1.0,2.0,2.0
+4ElaLMcq,2021-11-13,19:00,0:3,0:1,0:2,15.3,6.13,1.18,2.0,True,Sudan,Morocco,0.0,1.0,0.0,2.0,0.0,3.0
+bXcmpJsD,2021-11-13,17:00,0:2,0:1,0:1,13.09,5.55,1.28,2.0,True,Moldova,Scotland,0.0,1.0,0.0,1.0,0.0,2.0
+ObDi8wOP,2021-11-13,16:00,1:0,0:0,1:0,2.02,3.07,4.01,0.0,True,Gabon,Libya,0.0,0.0,1.0,0.0,1.0,0.0
+r5m3KtDk,2021-11-13,16:00,0:0,0:0,0:0,1.52,4.08,5.99,1.0,True,Guinea,Guinea Bissau,0.0,0.0,0.0,0.0,0.0,0.0
+IasNwGeK,2021-11-12,13:00,1:1,0:1,1:0,1.07,10.64,26.18,1.0,True,Burkina Faso,Niger,0.0,1.0,1.0,0.0,1.0,1.0
+v9rJvdtE,2021-11-12,13:00,0:4,0:3,0:1,47.9,20.65,1.01,2.0,True,Djibouti,Algeria,0.0,3.0,0.0,1.0,0.0,4.0
+tUUX6Ut1,2021-11-12,02:00,3:0,3:0,0:0,1.38,4.86,8.35,0.0,True,Peru,Bolivia,3.0,0.0,0.0,0.0,3.0,0.0
+ziUy6ld7,2021-11-12,00:30,1:0,0:0,1:0,1.41,4.31,8.77,0.0,True,Brazil,Colombia,0.0,0.0,1.0,0.0,1.0,0.0
+lfYu58BD,2021-11-12,23:00,0:1,0:0,0:1,2.45,3.1,3.1,2.0,True,Paraguay,Chile,0.0,0.0,0.0,1.0,0.0,1.0
+jaCOTilE,2021-11-12,21:00,1:0,1:0,0:0,1.34,4.88,9.82,0.0,True,Ecuador,Venezuela,1.0,0.0,0.0,0.0,1.0,0.0
+EFURetNr,2021-11-12,19:45,9:0,4:0,5:0,1.01,29.36,98.98,0.0,True,Germany,Liechtenstein,4.0,0.0,5.0,0.0,9.0,0.0
+fTpGpYz3,2021-11-12,19:45,0:1,0:1,0:0,6.99,4.28,1.51,2.0,True,Greece,Spain,0.0,1.0,0.0,0.0,0.0,1.0
+l4manZlg,2021-11-12,19:45,0:0,0:0,0:0,8.44,4.48,1.42,1.0,True,Ireland,Portugal,0.0,0.0,0.0,0.0,0.0,0.0
+6Flexz9e,2021-11-12,19:45,1:7,1:4,0:3,23.79,9.38,1.12,2.0,True,Malta,Croatia,1.0,4.0,0.0,3.0,1.0,7.0
+MuYZgKie,2021-11-12,19:45,0:0,0:0,0:0,1.62,4.08,5.63,1.0,True,Romania,Iceland,0.0,0.0,0.0,0.0,0.0,0.0
+KflsVI1S,2021-11-12,19:45,2:2,0:1,2:1,2.31,3.07,3.48,1.0,True,Slovakia,Slovenia,0.0,1.0,2.0,1.0,2.0,2.0
+f3ubFfVh,2021-11-12,19:00,1:0,1:0,0:0,1.32,4.75,9.85,0.0,True,South Africa,Zimbabwe,1.0,0.0,0.0,0.0,1.0,0.0
+p6DqRiU4,2021-11-12,19:00,1:1,1:0,0:1,6.61,3.74,1.53,1.0,True,Togo,Senegal,1.0,0.0,0.0,1.0,1.0,1.0
+Wl6guIsQ,2021-11-12,17:00,0:5,0:2,0:3,2.83,3.34,2.56,2.0,True,Armenia,North Macedonia,0.0,2.0,0.0,3.0,0.0,5.0
+2BqzlnQc,2021-11-12,17:00,1:3,0:0,1:3,2.77,3.0,2.84,2.0,True,Azerbaijan,Luxembourg,0.0,0.0,1.0,3.0,1.0,3.0
+O8xXtjzS,2021-11-12,17:00,2:0,0:0,2:0,6.53,3.94,1.57,0.0,True,Georgia,Sweden,0.0,0.0,2.0,0.0,2.0,0.0
+Y1UHOGvd,2021-11-12,17:00,6:0,1:0,5:0,1.14,8.02,22.47,0.0,True,Russia,Cyprus,1.0,0.0,5.0,0.0,6.0,0.0
+6qvjuvPg,2021-11-12,17:00,1:1,0:0,1:1,2.64,2.88,2.96,1.0,True,Iraq,Syria,0.0,0.0,1.0,1.0,1.0,1.0
+x2soVcR7,2021-11-12,16:00,2:0,1:0,1:0,1.64,3.34,6.01,0.0,True,Benin,Madagascar,1.0,0.0,1.0,0.0,2.0,0.0
+OdCmQBqB,2021-11-12,16:00,1:1,0:1,1:0,2.32,3.03,3.15,1.0,True,Congo,Namibia,0.0,1.0,1.0,0.0,1.0,1.0
+rRMIoPAe,2021-11-12,16:00,0:3,0:2,0:1,6.42,3.31,1.61,2.0,True,Rwanda,Mali,0.0,2.0,0.0,1.0,0.0,3.0
+65VllfPL,2021-11-11,15:00,1:1,1:0,0:1,2.58,3.25,2.73,1.0,True,China,Oman,1.0,0.0,0.0,1.0,1.0,1.0
+GCtfGzGn,2021-11-11,13:00,1:1,0:1,1:0,12.34,4.67,1.29,1.0,True,Ethiopia,Ghana,0.0,1.0,1.0,0.0,1.0,1.0
+bBrsWwC1,2021-11-11,13:00,0:3,0:1,0:2,2.92,2.79,2.67,2.0,True,Tanzania,D.R. Congo,0.0,1.0,0.0,2.0,0.0,3.0
+MHLMpqQ1,2021-11-11,13:00,1:1,0:0,1:1,1.58,3.39,6.86,1.0,True,Uganda,Kenya,0.0,0.0,1.0,1.0,1.0,1.0
+pzwfvbv0,2021-11-11,12:00,1:2,1:0,0:2,9.63,4.15,1.41,2.0,True,Lebanon,Iran ,1.0,0.0,0.0,2.0,1.0,2.0
+pdUhmEvS,2021-11-11,12:00,0:1,0:1,0:0,11.97,5.66,1.25,2.0,True,Vietnam,Japan,0.0,1.0,0.0,0.0,0.0,1.0
+xAZotK9m,2021-11-11,11:00,1:0,1:0,0:0,1.27,5.41,11.1,0.0,True,South Korea,United Arab Emirates,1.0,0.0,0.0,0.0,1.0,0.0
+lUzpkzAF,2021-11-11,09:10,0:0,0:0,0:0,1.66,3.71,5.28,1.0,True,Australia,Saudi Arabia,0.0,0.0,0.0,0.0,0.0,0.0
+ChPdFhZK,2021-10-15,00:30,4:1,2:0,2:1,1.5,3.98,7.69,0.0,True,Brazil,Uruguay,2.0,0.0,2.0,1.0,4.0,1.0
+MREW8jCl,2021-10-15,00:00,3:0,2:0,1:0,1.43,4.35,8.11,0.0,True,Chile,Venezuela,2.0,0.0,1.0,0.0,3.0,0.0
+ryGS9Wdr,2021-10-15,23:30,1:0,1:0,0:0,1.18,6.71,16.86,0.0,True,Argentina,Peru,1.0,0.0,0.0,0.0,1.0,0.0
+UTZiGYJE,2021-10-15,21:00,0:0,0:0,0:0,1.61,3.82,5.99,1.0,True,Colombia,Ecuador,0.0,0.0,0.0,0.0,0.0,0.0
+QeT0EClR,2021-10-15,20:00,4:0,1:0,3:0,2.46,3.1,3.09,0.0,True,Bolivia,Paraguay,1.0,0.0,3.0,0.0,4.0,0.0
+ABPPkfnK,2021-10-14,02:05,0:2,0:1,0:1,9.44,4.35,1.38,2.0,True,El Salvador,Mexico,0.0,1.0,0.0,1.0,0.0,2.0
+WKQLjzXD,2021-10-14,00:05,0:2,0:1,0:1,1.91,3.14,4.57,2.0,True,Honduras,Jamaica,0.0,1.0,0.0,1.0,0.0,2.0
+IHxvSjfD,2021-10-14,23:30,4:1,1:1,3:0,1.51,3.84,7.23,0.0,True,Canada,Panama,1.0,1.0,3.0,0.0,4.0,1.0
+SnKUlE1Q,2021-10-14,23:00,2:1,1:1,1:0,1.39,4.44,8.54,0.0,True,USA,Costa Rica,1.0,1.0,1.0,0.0,2.0,1.0
+r1uAsDEo,2021-10-13,19:00,1:4,1:2,0:2,8.12,3.83,1.45,2.0,True,Guinea,Morocco,1.0,2.0,0.0,2.0,1.0,4.0
+0lWAZ7S1,2021-10-13,18:45,1:2,1:1,0:1,2.12,3.14,3.86,2.0,True,Kosovo,Georgia,1.0,1.0,0.0,1.0,1.0,2.0
+OQ5lnWgH,2021-10-13,18:45,0:1,0:0,0:1,4.21,3.21,2.01,2.0,True,Albania,Poland,0.0,0.0,0.0,1.0,0.0,1.0
+hbqC26dl,2021-10-13,18:45,2:1,0:1,2:0,2.68,2.94,2.95,0.0,True,Bulgaria,Northern Ireland,0.0,1.0,2.0,0.0,2.0,1.0
+8j949air,2021-10-13,18:45,1:0,0:0,1:0,1.6,3.81,6.23,0.0,True,Denmark,Austria,0.0,0.0,1.0,0.0,1.0,0.0
+dx7YKgeI,2021-10-13,18:45,1:1,1:1,0:0,1.11,9.08,25.18,1.0,True,England,Hungary,1.0,1.0,0.0,0.0,1.0,1.0
+WARjoaS6,2021-10-13,18:45,0:1,0:0,0:1,15.64,5.71,1.23,2.0,True,Faroe Islands,Scotland,0.0,0.0,0.0,1.0,0.0,1.0
+lS90zrEl,2021-10-13,18:45,2:1,1:0,1:1,1.12,8.82,22.66,0.0,True,Israel,Moldova,1.0,0.0,1.0,1.0,2.0,1.0
+tOu83nsr,2021-10-13,18:45,0:4,0:3,0:1,15.81,6.8,1.19,2.0,True,Lithuania,Switzerland,0.0,3.0,0.0,1.0,0.0,4.0
+OnoYXZZa,2021-10-13,18:45,5:0,3:0,2:0,1.05,13.93,38.91,0.0,True,Portugal,Luxembourg,3.0,0.0,2.0,0.0,5.0,0.0
+URA2gm1p,2021-10-13,18:45,0:3,0:1,0:2,6.35,3.12,1.75,2.0,True,San Marino,Andorra,0.0,1.0,0.0,2.0,0.0,3.0
+hSxkUiZO,2021-10-13,18:45,3:1,1:1,2:0,1.13,8.47,23.08,0.0,True,Serbia,Azerbaijan,1.0,1.0,2.0,0.0,3.0,1.0
+63tip4PM,2021-10-13,18:45,2:0,0:0,2:0,1.83,3.25,5.19,0.0,True,Sweden,Greece,0.0,0.0,2.0,0.0,2.0,0.0
+Ussq5aIn,2021-10-13,18:45,1:1,1:0,0:1,1.74,3.65,5.04,1.0,True,Ukraine,Bosnia & Herzegovina,1.0,0.0,0.0,1.0,1.0,1.0
+GGxxidu3,2021-10-13,17:00,3:2,2:0,1:2,1.55,3.76,6.6,0.0,True,Saudi Arabia,China,2.0,0.0,1.0,2.0,3.0,2.0
+hxbFotnQ,2021-10-13,16:45,2:2,1:0,1:2,2.41,2.96,3.22,1.0,True,United Arab Emirates,Iraq,1.0,0.0,1.0,2.0,2.0,2.0
+2sOvSXEb,2021-10-13,16:00,1:2,0:1,1:1,2.39,2.79,3.44,2.0,True,Congo,Togo,0.0,1.0,1.0,1.0,1.0,2.0
+O00WGhl7,2021-10-13,16:00,0:4,0:2,0:2,19.77,7.64,1.13,2.0,True,Niger,Algeria,0.0,2.0,0.0,2.0,0.0,4.0
+YmikHG0t,2021-10-13,16:00,1:0,1:0,0:0,1.38,4.43,8.66,0.0,True,South Africa,Ethiopia,1.0,0.0,0.0,0.0,1.0,0.0
+AwxtjGf9,2021-10-13,16:00,3:1,1:1,2:0,1.61,3.83,5.69,0.0,True,Oman,Vietnam,1.0,1.0,2.0,0.0,3.0,1.0
+bJzrs0fs,2021-10-13,16:00,2:3,1:2,1:1,1.87,3.24,4.58,2.0,True,Syria,Lebanon,1.0,2.0,1.0,1.0,2.0,3.0
+xS8YFGW4,2021-10-12,14:00,0:2,0:1,0:1,4.8,3.33,1.85,,True,Kazakhstan,Finland,0.0,1.0,0.0,1.0,0.0,2.0
+t2fBnMWJ,2021-10-12,13:30,1:1,0:0,1:1,2.27,2.98,3.49,1.0,True,Iran,South Korea,0.0,0.0,1.0,1.0,1.0,1.0
+lvKzTDah,2021-10-12,13:00,1:3,1:1,0:2,8.56,4.28,1.39,2.0,True,Namibia,Senegal,1.0,1.0,0.0,2.0,1.0,3.0
+dSaNLdhP,2021-10-12,13:00,0:1,0:1,0:0,4.73,3.01,1.92,2.0,True,Zimbabwe,Ghana,0.0,1.0,0.0,0.0,0.0,1.0
+2DYXixQd,2021-10-12,10:14,2:1,1:0,1:1,1.95,3.29,4.09,0.0,True,Japan,Australia,1.0,0.0,1.0,1.0,2.0,1.0
+WSW0oGGC,2021-10-12,19:00,0:3,0:2,0:1,4.74,3.02,1.9,2.0,True,Libya,Egypt,0.0,2.0,0.0,1.0,0.0,3.0
+fwzwrZFc,2021-10-12,18:45,0:2,0:1,0:1,10.41,5.53,1.29,2.0,True,Belarus,Czech Republic ,0.0,1.0,0.0,1.0,0.0,2.0
+zoLbgYrf,2021-10-12,18:45,2:2,1:2,1:0,1.37,4.79,9.13,1.0,True,Croatia,Slovakia,1.0,2.0,1.0,0.0,2.0,2.0
+dhHZrF0i,2021-10-12,18:45,0:1,0:1,0:0,7.79,3.84,1.51,2.0,True,Estonia,Wales,0.0,1.0,0.0,0.0,0.0,1.0
+ns888J6l,2021-10-12,18:45,4:0,2:0,2:0,1.1,9.66,28.37,0.0,True,Iceland,Liechtenstein,2.0,0.0,2.0,0.0,4.0,0.0
+bLXnLsY3,2021-10-12,18:45,1:2,0:0,1:2,7.5,4.53,1.44,2.0,True,Latvia,Turkey,0.0,0.0,1.0,2.0,1.0,2.0
+WUsCSvbK,2021-10-12,18:45,0:4,0:0,0:4,13.17,6.88,1.21,2.0,True,North Macedonia,Germany,0.0,0.0,0.0,4.0,0.0,4.0
+fyDjefEs,2021-10-12,18:45,2:0,1:0,1:0,1.47,4.21,7.56,0.0,True,Norway,Montenegro,1.0,0.0,1.0,0.0,2.0,0.0
+WAFQGsa8,2021-10-12,18:45,1:0,1:0,0:0,1.62,3.98,5.52,0.0,True,Romania,Armenia,1.0,0.0,0.0,0.0,1.0,0.0
+8faGQcRt,2021-10-12,18:45,1:2,1:2,0:0,2.62,3.05,2.96,2.0,True,Slovenia,Russia,1.0,2.0,0.0,0.0,1.0,2.0
+0E5Cpb1F,2021-10-12,16:00,2:2,1:0,1:2,1.98,3.07,4.57,1.0,True,Cyprus,Malta,1.0,0.0,1.0,2.0,2.0,2.0
+x44zGC3D,2021-10-12,16:00,2:0,1:0,1:0,1.01,18.01,48.1,0.0,True,Burkina Faso,Djibouti,1.0,0.0,1.0,0.0,2.0,0.0
+hYu2euNM,2021-10-12,16:00,2:1,1:1,1:0,1.33,4.67,9.45,0.0,True,Ivory Coast,Malawi,1.0,1.0,1.0,0.0,2.0,1.0
+r3z5pzWI,2021-10-11,13:00,2:0,0:0,2:0,2.11,3.02,3.79,0.0,True,Gabon,Angola,0.0,0.0,2.0,0.0,2.0,0.0
+vVybdL7G,2021-10-11,13:00,0:1,0:0,0:1,8.67,3.85,1.44,2.0,True,Mozambique,Cameroon,0.0,0.0,0.0,1.0,0.0,1.0
+6kqth7Vu,2021-10-11,00:00,2:0,0:0,2:0,1.84,3.29,4.9,0.0,True,Chile,Paraguay ,0.0,0.0,2.0,0.0,2.0,0.0
+rujsXNaU,2021-10-11,23:30,3:0,2:0,1:0,1.61,3.59,6.5,0.0,True,Argentina,Uruguay ,2.0,0.0,1.0,0.0,3.0,0.0
+rapRUhAf,2021-10-11,23:00,3:0,1:0,2:0,1.15,7.66,16.71,0.0,True,Mexico,Honduras,1.0,0.0,2.0,0.0,3.0,0.0
+MkqVTCP0,2021-10-11,22:00,2:1,0:1,2:0,1.67,3.29,6.3,0.0,True,Costa Rica,El Salvador,0.0,1.0,2.0,0.0,2.0,1.0
+zZpNVYfl,2021-10-11,22:00,0:0,0:0,0:0,5.12,3.14,1.82,1.0,True,Jamaica,Canada,0.0,0.0,0.0,0.0,0.0,0.0
+4EYZSWv7,2021-10-11,22:00,1:0,0:0,1:0,3.89,3.13,2.07,0.0,True,Panama,USA,0.0,0.0,1.0,0.0,1.0,0.0
+dOmVZPFB,2021-10-11,21:00,0:0,0:0,0:0,4.41,3.1,1.99,1.0,True,Colombia,Brazil ,0.0,0.0,0.0,0.0,0.0,0.0
+ARiZYqVH,2021-10-11,20:30,2:1,1:1,1:0,3.94,3.07,2.11,0.0,True,Venezuela,Ecuador ,1.0,1.0,1.0,0.0,2.0,1.0
+4liwY3pO,2021-10-11,20:00,1:0,0:0,1:0,2.5,3.12,3.0,0.0,True,Bolivia,Peru ,0.0,0.0,1.0,0.0,1.0,0.0
+ObVPzmut,2021-10-11,19:00,0:0,0:0,0:0,10.21,4.37,1.35,1.0,True,Mauritania,Tunisia,0.0,0.0,0.0,0.0,0.0,0.0
+pn1JpO84,2021-10-11,16:00,1:0,0:0,1:0,1.47,3.84,7.53,0.0,True,Cape Verde,Liberia,0.0,0.0,1.0,0.0,1.0,0.0
+2qkYXask,2021-10-11,16:00,1:0,1:0,0:0,4.53,3.16,1.88,0.0,True,Madagascar,D.R. Congo,1.0,0.0,0.0,0.0,1.0,0.0
+x2ZTZ6fn,2021-10-11,16:00,1:1,0:0,1:1,1.71,3.41,5.19,1.0,True,Zambia,Equatorial Guinea,0.0,0.0,1.0,1.0,1.0,1.0
+GngxXJde,2021-10-10,13:00,0:1,0:1,0:0,1.59,3.48,6.56,2.0,True,Benin,Tanzania,0.0,1.0,0.0,0.0,0.0,1.0
+n1rGo4gb,2021-10-10,13:00,0:2,0:2,0:0,13.4,5.29,1.24,2.0,True,Central Africa,Nigeria,0.0,2.0,0.0,0.0,0.0,2.0
+naT9motq,2021-10-10,13:00,0:1,0:0,0:1,4.97,3.28,1.78,2.0,True,Kenya,Mali,0.0,0.0,0.0,1.0,0.0,1.0
+02XDn5ek,2021-10-10,13:00,1:0,1:0,0:0,1.56,3.41,7.57,0.0,True,Uganda,Rwanda,1.0,0.0,0.0,0.0,1.0,0.0
+CtXQwVDA,2021-10-10,19:00,0:3,0:2,0:1,19.23,7.14,1.14,2.0,True,Guinea Bissau,Morocco,0.0,2.0,0.0,1.0,0.0,3.0
+GQLSUZUu,2021-10-10,19:00,4:1,2:0,2:1,1.16,6.4,21.6,0.0,True,Senegal,Namibia,2.0,0.0,2.0,1.0,4.0,1.0
+8z3xkY9b,2021-10-10,18:45,0:5,0:2,0:3,57.18,23.63,1.01,2.0,True,Andorra,England,0.0,2.0,0.0,3.0,0.0,5.0
+pfPvl1rl,2021-10-10,18:45,0:2,0:1,0:1,14.28,6.19,1.22,2.0,True,Faroe Islands,Austria,0.0,1.0,0.0,1.0,0.0,2.0
+QZDBjWSC,2021-10-10,18:45,0:1,0:0,0:1,2.33,2.93,3.59,2.0,True,Hungary,Albania ,0.0,0.0,0.0,1.0,0.0,1.0
+IquGrilI,2021-10-10,18:45,0:1,0:0,0:1,9.13,5.05,1.35,2.0,True,Luxembourg,Serbia,0.0,0.0,0.0,1.0,0.0,1.0
+Wnq4f35K,2021-10-10,18:45,0:4,0:4,0:0,31.87,10.01,1.09,2.0,True,Moldova,Denmark,0.0,4.0,0.0,0.0,0.0,4.0
+OMH5ekkL,2021-10-10,18:45,2:0,1:0,1:0,1.35,4.77,10.26,0.0,True,Switzerland,Northern Ireland,1.0,0.0,1.0,0.0,2.0,0.0
+OKpWlSAi,2021-10-10,16:00,0:3,0:2,0:1,3.79,2.97,2.23,2.0,True,Azerbaijan,Ireland,0.0,2.0,0.0,1.0,0.0,3.0
+AFHHJbXu,2021-10-10,16:00,1:2,1:2,0:0,3.41,3.05,2.35,2.0,True,Finland,Ukraine,1.0,2.0,0.0,0.0,1.0,2.0
+vZs2yUck,2021-10-10,16:00,0:2,0:0,0:2,3.89,3.01,2.18,2.0,True,Georgia,Greece,0.0,0.0,0.0,2.0,0.0,2.0
+r91H6cy1,2021-10-10,16:00,3:2,1:2,2:0,1.79,3.59,4.75,0.0,True,Scotland,Israel,1.0,2.0,2.0,0.0,3.0,2.0
+jyINvrmp,2021-10-10,16:00,3:0,1:0,2:0,1.36,4.83,9.58,0.0,True,Sweden,Kosovo,1.0,0.0,2.0,0.0,3.0,0.0
+4YCybg0I,2021-10-10,16:00,3:1,1:0,2:1,1.33,4.57,10.05,0.0,True,Ghana,Zimbabwe,1.0,0.0,2.0,1.0,3.0,1.0
+fHKWTgpn,2021-10-10,16:00,1:1,0:1,1:0,2.58,2.98,2.89,1.0,True,Togo,Congo,0.0,1.0,1.0,0.0,1.0,1.0
+GI7xFznB,2021-10-09,13:00,0:2,0:1,0:1,4.58,3.56,1.81,2.0,True,Kazakhstan,Bosnia & Herzegovina,0.0,1.0,0.0,1.0,0.0,2.0
+QBsK0pR0,2021-10-09,13:00,3:1,1:0,2:1,3.58,3.12,2.25,0.0,True,Lithuania,Bulgaria,1.0,0.0,2.0,1.0,3.0,1.0
+rPBucDFO,2021-10-09,13:00,1:3,0:1,1:2,3.18,2.73,2.59,2.0,True,Ethiopia,South Africa,0.0,1.0,1.0,2.0,1.0,3.0
+OGzVxkTG,2021-10-09,13:00,2:2,0:0,2:2,1.74,3.46,4.91,1.0,True,Guinea,Sudan,0.0,0.0,2.0,2.0,2.0,2.0
+jm2OIEJf,2021-10-09,19:00,6:1,1:0,5:1,1.07,10.62,26.69,0.0,True,Algeria,Niger,1.0,0.0,5.0,1.0,6.0,1.0
+Uw1SHYY0,2021-10-09,19:00,0:4,0:1,0:3,36.56,16.42,1.02,2.0,True,Djibouti,Burkina Faso,0.0,1.0,0.0,3.0,0.0,4.0
+bFYhmxn0,2021-10-09,19:00,1:0,0:0,1:0,1.58,3.49,6.92,0.0,True,Egypt,Libya,0.0,0.0,1.0,0.0,1.0,0.0
+SOkiwGgk,2021-10-09,18:45,0:3,0:1,0:2,14.69,6.36,1.21,2.0,True,Cyprus,Croatia,0.0,1.0,0.0,2.0,0.0,3.0
+GdvmLB8p,2021-10-09,18:45,2:2,1:1,1:1,1.78,3.37,5.34,1.0,True,Czech Republic,Wales,1.0,1.0,1.0,1.0,2.0,2.0
+SjYptDpA,2021-10-09,18:45,2:0,0:0,2:0,2.64,3.04,2.98,0.0,True,Estonia,Belarus,0.0,0.0,2.0,0.0,2.0,0.0
+IT0cEZKJ,2021-10-09,18:45,2:1,0:1,2:0,1.11,10.76,21.33,0.0,True,Germany,Romania,0.0,1.0,2.0,0.0,2.0,1.0
+bqGZBwej,2021-10-09,18:45,0:3,0:2,0:1,19.46,8.44,1.14,2.0,True,Gibraltar,Montenegro,0.0,2.0,0.0,1.0,0.0,3.0
+jBMxEuqR,2021-10-09,18:45,1:1,0:1,1:0,2.34,3.22,3.23,1.0,True,Iceland,Armenia,0.0,1.0,1.0,0.0,1.0,1.0
+Q1A0a0Bp,2021-10-09,18:45,0:1,0:1,0:0,31.84,12.4,1.07,2.0,True,Latvia,Netherlands,0.0,1.0,0.0,0.0,0.0,1.0
+xWrMzxjs,2021-10-09,18:45,0:4,0:1,0:3,22.35,7.65,1.14,2.0,True,Liechtenstein,North Macedonia,0.0,1.0,0.0,3.0,0.0,4.0
+xziXMFQ5,2021-10-09,18:45,0:4,0:1,0:3,6.52,3.45,1.65,2.0,True,Malta,Slovenia,0.0,1.0,0.0,3.0,0.0,4.0
+0xlayfO1,2021-10-09,18:45,1:0,1:0,0:0,1.9,3.38,4.42,0.0,True,Russia,Slovakia,1.0,0.0,0.0,0.0,1.0,0.0
+bmYl4kcC,2021-10-09,18:45,1:1,1:1,0:0,2.45,3.35,3.01,1.0,True,Turkey,Norway,1.0,1.0,0.0,0.0,1.0,1.0
+x6Xdnd16,2021-10-09,16:00,3:1,1:0,2:1,2.7,2.7,3.04,0.0,True,Angola,Gabon,1.0,0.0,2.0,1.0,3.0,1.0
+6Hwjbsw4,2021-10-09,16:00,3:1,1:0,2:1,1.3,4.86,10.44,0.0,True,Cameroon,Mozambique,1.0,0.0,2.0,1.0,3.0,1.0
+p8xfc1hA,2021-10-08,13:00,0:3,0:1,0:2,6.99,3.57,1.55,2.0,True,Malawi,Ivory Coast,0.0,1.0,0.0,2.0,0.0,3.0
+j19jyeXQ,2021-10-08,02:05,1:0,1:0,0:0,2.96,2.77,2.75,0.0,True,El Salvador,Panama,1.0,0.0,0.0,0.0,1.0,0.0
+ry6rwH2E,2021-10-08,01:40,1:1,1:1,0:0,1.55,3.97,6.1,1.0,True,Mexico,Canada,1.0,1.0,0.0,0.0,1.0,1.0
+t8gcfice,2021-10-08,01:00,2:0,1:0,1:0,2.69,3.05,2.83,0.0,True,Peru,Chile,1.0,0.0,1.0,0.0,2.0,0.0
+jwylHE48,2021-10-08,00:30,3:0,3:0,0:0,1.18,6.86,16.64,0.0,True,Ecuador,Bolivia,3.0,0.0,0.0,0.0,3.0,0.0
+xb5nxyIK,2021-10-08,00:05,0:0,0:0,0:0,2.48,2.86,3.24,1.0,True,Honduras,Costa Rica,0.0,0.0,0.0,0.0,0.0,0.0
+drnJWEur,2021-10-08,23:45,2:0,0:0,2:0,1.32,4.96,9.7,0.0,True,USA,Jamaica,0.0,0.0,2.0,0.0,2.0,0.0
+OWr2gBC1,2021-10-08,23:30,1:3,1:0,0:3,11.35,4.88,1.31,2.0,True,Venezuela,Brazil,1.0,0.0,0.0,3.0,1.0,3.0
+2Ns6hVR7,2021-10-08,23:00,0:0,0:0,0:0,6.41,3.56,1.63,1.0,True,Paraguay,Argentina,0.0,0.0,0.0,0.0,0.0,0.0
+UXkgeXsk,2021-10-08,23:00,0:0,0:0,0:0,2.02,3.04,4.37,1.0,True,Uruguay,Colombia,0.0,0.0,0.0,0.0,0.0,0.0
+jTsvg7IL,2021-10-08,19:00,5:0,4:0,1:0,1.62,3.32,6.61,0.0,True,Mali,Kenya,4.0,0.0,1.0,0.0,5.0,0.0
+YVJETVXC,2021-10-08,19:00,3:0,2:0,1:0,1.21,5.97,13.49,0.0,True,Tunisia,Mauritania,2.0,0.0,1.0,0.0,3.0,0.0
+EidsVEIq,2021-10-08,18:30,3:1,1:1,2:0,1.34,4.68,10.2,0.0,True,Australia,Oman ,1.0,1.0,2.0,0.0,3.0,1.0
+08fkThmd,2021-10-08,17:00,3:2,0:0,3:2,1.64,3.71,5.48,0.0,True,China,Vietnam ,0.0,0.0,3.0,2.0,3.0,2.0
+MHeoUYXk,2021-10-08,17:00,1:0,0:0,1:0,4.44,3.29,1.88,0.0,True,Saudi Arabia,Japan,0.0,0.0,1.0,0.0,1.0,0.0
+l87POIvD,2021-10-08,16:45,0:1,0:0,0:1,5.6,3.55,1.66,2.0,True,United Arab Emirates,Iran,0.0,0.0,0.0,1.0,0.0,1.0
+CMIISkmJ,2021-10-08,16:00,2:0,1:0,1:0,3.04,2.8,2.6,0.0,True,Equatorial Guinea,Zambia,1.0,0.0,1.0,0.0,2.0,0.0
+Emp8mQOo,2021-10-08,16:00,0:1,0:0,0:1,1.09,9.03,22.71,2.0,True,Nigeria,Central Africa,0.0,0.0,0.0,1.0,0.0,1.0
+UJtrhRXR,2021-10-08,16:00,0:1,0:1,0:0,3.19,2.51,2.8,2.0,True,Rwanda,Uganda,0.0,1.0,0.0,0.0,0.0,1.0
+Sb6TNxfJ,2021-10-07,14:30,0:0,0:0,0:0,1.65,3.52,6.71,1.0,True,Iraq,Lebanon ,0.0,0.0,0.0,0.0,0.0,0.0
+6D32wMJR,2021-10-07,13:00,2:0,1:0,1:0,1.47,3.8,7.63,0.0,True,D.R. Congo,Madagascar,1.0,0.0,1.0,0.0,2.0,0.0
+hvqCnpvh,2021-10-07,13:00,1:2,1:0,0:2,3.96,2.97,2.08,2.0,True,Liberia,Cape Verde,1.0,0.0,0.0,2.0,1.0,2.0
+8MkUYuSr,2021-10-07,13:00,0:1,0:0,0:1,2.84,2.8,2.78,2.0,True,Tanzania,Benin,0.0,0.0,0.0,1.0,0.0,1.0
+WWCKPbP6,2021-10-07,11:00,2:1,0:0,2:1,1.3,4.96,10.87,0.0,True,South Korea,Syria,0.0,0.0,2.0,1.0,2.0,1.0
+vTYIuiqb,2021-10-07,19:00,5:0,2:0,3:0,1.13,7.93,17.92,0.0,True,Morocco,Guinea Bissau,2.0,0.0,3.0,0.0,5.0,0.0
+IJXMvBb4,2021-10-07,16:00,1:1,0:0,1:1,5.72,3.35,1.68,1.0,True,Sudan,Guinea,0.0,0.0,1.0,1.0,1.0,1.0
+GQ9I1Z4L,2021-09-10,00:30,2:0,2:0,0:0,1.31,5.08,11.02,0.0,True,Brazil,Peru,2.0,0.0,0.0,0.0,2.0,0.0
+zBjkdDSr,2021-09-10,23:30,3:0,1:0,2:0,1.05,13.24,32.38,0.0,True,Argentina,Bolivia,1.0,0.0,2.0,0.0,3.0,0.0
+xzBE2FkF,2021-09-10,23:00,3:1,2:0,1:1,1.97,3.08,4.52,0.0,True,Colombia,Chile,2.0,0.0,1.0,1.0,3.0,1.0
+Y14N0gKR,2021-09-10,22:30,2:1,1:0,1:1,1.71,3.48,5.46,0.0,True,Paraguay,Venezuela,1.0,0.0,1.0,1.0,2.0,1.0
+rDBA3ez9,2021-09-10,22:30,1:0,0:0,1:0,1.71,3.36,6.02,0.0,True,Uruguay,Ecuador,0.0,0.0,1.0,0.0,1.0,0.0
+lxPiGge1,2021-09-09,02:30,1:4,1:0,0:4,5.34,3.28,1.75,2.0,True,Honduras,USA,1.0,0.0,0.0,4.0,1.0,4.0
+4p7vvcm8,2021-09-09,01:00,1:1,1:0,0:1,1.56,3.63,6.89,1.0,True,Costa Rica,Jamaica,1.0,0.0,0.0,1.0,1.0,1.0
+SSNeFDA7,2021-09-09,00:05,1:1,1:0,0:1,6.18,3.49,1.63,1.0,True,Panama,Mexico,1.0,0.0,0.0,1.0,1.0,1.0
+fFPmHZue,2021-09-09,23:30,3:0,2:0,1:0,1.53,3.79,6.98,0.0,True,Canada,El Salvador,2.0,0.0,1.0,0.0,3.0,0.0
+MqUJWjfU,2021-09-09,18:45,5:0,1:0,4:0,1.02,19.39,66.01,0.0,True,Albania,San Marino,1.0,0.0,4.0,0.0,5.0,0.0
+pEmHQXpN,2021-09-09,18:45,0:1,0:1,0:0,21.32,8.68,1.13,2.0,True,Belarus,Belgium ,0.0,1.0,0.0,0.0,0.0,1.0
+pIwTsWKL,2021-09-09,18:45,2:1,0:0,2:1,3.23,2.96,2.51,0.0,True,Greece,Sweden,0.0,0.0,2.0,1.0,2.0,1.0
+xdS7ZhAB,2021-09-09,18:45,2:1,2:0,0:1,1.13,8.78,20.85,0.0,True,Hungary,Andorra,2.0,0.0,0.0,1.0,2.0,1.0
+hvq8TKrE,2021-09-09,18:45,0:4,0:2,0:2,16.3,8.09,1.16,2.0,True,Iceland,Germany,0.0,2.0,0.0,2.0,0.0,4.0
+AJD1dVZE,2021-09-09,18:45,5:0,4:0,1:0,1.04,16.7,47.77,0.0,True,Italy,Lithuania,4.0,0.0,1.0,0.0,5.0,0.0
+StqOrC5F,2021-09-09,18:45,0:2,0:1,0:1,15.7,6.84,1.19,2.0,True,Kosovo,Spain,0.0,1.0,0.0,1.0,0.0,2.0
+xWMjLdjf,2021-09-09,18:45,0:0,0:0,0:0,2.52,3.15,3.0,1.0,True,North Macedonia,Romania,0.0,0.0,0.0,0.0,0.0,0.0
+dj4y98JK,2021-09-09,18:45,0:0,0:0,0:0,5.86,3.79,1.63,1.0,True,Northern Ireland,Switzerland,0.0,0.0,0.0,0.0,0.0,0.0
+MJ0QizQu,2021-09-09,18:45,1:1,0:0,1:1,6.04,3.53,1.68,1.0,True,Poland,England,0.0,0.0,1.0,1.0,1.0,1.0
+zNv3VeWi,2021-09-09,18:45,0:0,0:0,0:0,1.24,6.07,12.91,1.0,True,Wales,Estonia,0.0,0.0,0.0,0.0,0.0,0.0
+xEsU8Drs,2021-09-09,16:00,1:1,1:0,0:1,1.1,9.49,27.69,1.0,True,Armenia,Liechtenstein,1.0,0.0,0.0,1.0,1.0,1.0
+tvvllIWg,2021-09-08,19:00,0:1,0:1,0:0,2.03,3.01,4.1,2.0,True,Angola,Libya,0.0,1.0,0.0,0.0,0.0,1.0
+pzXNKzkr,2021-09-08,19:00,1:1,0:1,1:0,8.19,3.86,1.45,1.0,True,Burkina Faso,Algeria,0.0,1.0,1.0,0.0,1.0,1.0
+MivEtXTi,2021-09-08,19:00,2:4,0:3,2:1,2.04,3.01,4.01,2.0,True,Sudan,Guinea Bissau,0.0,3.0,2.0,1.0,2.0,4.0
+jFdQY023,2021-09-08,18:45,3:0,1:0,2:0,1.67,3.56,5.93,0.0,True,Croatia,Slovenia,1.0,0.0,2.0,0.0,3.0,0.0
+rmxPa4t7,2021-09-08,18:45,2:0,1:0,1:0,1.18,7.05,20.21,0.0,True,France,Finland,1.0,0.0,1.0,0.0,2.0,0.0
+vgtCqXYB,2021-09-08,18:45,1:1,0:1,1:0,3.87,3.24,2.08,1.0,True,Ireland,Serbia,0.0,1.0,1.0,0.0,1.0,1.0
+jutH7O34,2021-09-08,18:45,0:0,0:0,0:0,1.52,3.97,7.17,1.0,True,Montenegro,Latvia,0.0,0.0,0.0,0.0,0.0,0.0
+v5xD84lb,2021-09-08,18:45,5:1,3:1,2:0,1.01,25.64,76.25,0.0,True,Norway,Gibraltar,3.0,1.0,2.0,0.0,5.0,1.0
+ChTLNzf2,2021-09-08,18:45,2:0,1:0,1:0,1.13,8.98,19.93,0.0,True,Russia,Malta,1.0,0.0,1.0,0.0,2.0,0.0
+xzy9QxAq,2021-09-08,18:45,2:0,0:0,2:0,1.41,4.54,9.06,0.0,True,Slovakia,Cyprus,0.0,0.0,2.0,0.0,2.0,0.0
+xQ7UXlhj,2021-09-08,18:45,0:1,0:1,0:0,1.84,3.4,4.8,2.0,True,Austria,Scotland,0.0,1.0,0.0,0.0,0.0,1.0
+t0gf2c25,2021-09-08,18:45,2:2,0:0,2:2,1.26,5.85,12.4,1.0,True,Bosnia & Herzegovina,Kazakhstan,0.0,0.0,2.0,2.0,2.0,2.0
+OIRgviFM,2021-09-08,18:45,5:0,3:0,2:0,1.32,5.28,10.1,0.0,True,Denmark,Israel,3.0,0.0,2.0,0.0,5.0,0.0
+6345Z1Tf,2021-09-08,18:45,2:1,0:0,2:1,2.12,3.03,4.08,0.0,True,Faroe Islands,Moldova,0.0,0.0,2.0,1.0,2.0,1.0
+hSQOaz6Q,2021-09-08,18:45,6:1,3:0,3:1,1.3,5.8,9.65,0.0,True,Netherlands,Turkey,3.0,0.0,3.0,1.0,6.0,1.0
+pGA8S0ul,2021-09-08,18:00,0:3,0:1,0:2,6.73,3.35,1.63,2.0,True,Iraq,Iran ,0.0,1.0,0.0,2.0,0.0,3.0
+AJy8pDJ5,2021-09-08,16:00,0:3,0:2,0:1,21.82,8.18,1.14,2.0,True,Azerbaijan,Portugal,0.0,2.0,0.0,1.0,0.0,3.0
+zNEcTMwU,2021-09-08,16:00,1:2,1:1,0:1,3.52,2.93,2.24,2.0,True,Cape Verde,Nigeria,1.0,1.0,0.0,1.0,1.0,2.0
+x0jIAWqO,2021-09-08,16:00,1:3,1:1,0:2,6.38,3.37,1.63,2.0,True,Congo,Senegal,1.0,1.0,0.0,2.0,1.0,3.0
+GfP9UBI6,2021-09-08,16:00,1:0,0:0,1:0,2.39,2.79,3.39,0.0,True,Equatorial Guinea,Mauritania,0.0,0.0,1.0,0.0,1.0,0.0
+f3q9mNYA,2021-09-08,16:00,0:1,0:1,0:0,3.39,3.0,2.3,2.0,True,Oman,Saudi Arabia,0.0,1.0,0.0,0.0,0.0,1.0
+bJECRKff,2021-09-08,16:00,1:1,0:1,1:0,3.43,3.08,2.24,1.0,True,Syria,United Arab Emirates,0.0,1.0,1.0,0.0,1.0,1.0
+t0u5l3J4,2021-09-07,15:00,0:1,0:1,0:0,7.84,4.6,1.4,2.0,True,China,Japan ,0.0,1.0,0.0,0.0,0.0,1.0
+OMevaZpC,2021-09-07,13:00,1:0,0:0,1:0,2.47,2.81,3.26,0.0,True,Ethiopia,Zimbabwe,0.0,0.0,1.0,0.0,1.0,0.0
+Q5MhaNNc,2021-09-07,13:00,1:0,1:0,0:0,3.25,2.58,2.68,0.0,True,Malawi,Mozambique,1.0,0.0,0.0,0.0,1.0,0.0
+viX5v24L,2021-09-07,13:00,3:2,2:2,1:0,2.1,2.98,3.89,0.0,True,Tanzania,Madagascar,2.0,2.0,1.0,0.0,3.0,2.0
+x4Q5Vi30,2021-09-07,13:00,0:2,0:1,0:1,4.32,2.88,2.05,2.0,True,Zambia,Tunisia,0.0,1.0,0.0,1.0,0.0,2.0
+xSYDnslH,2021-09-07,12:00,0:1,0:1,0:0,10.01,5.82,1.27,2.0,True,Vietnam,Australia ,0.0,1.0,0.0,0.0,0.0,1.0
+htEGQvA0,2021-09-07,11:00,1:0,0:0,1:0,1.23,5.73,14.79,0.0,True,South Korea,Lebanon ,0.0,0.0,1.0,0.0,1.0,0.0
+nFNl038i,2021-09-07,19:00,2:1,2:0,0:1,2.2,2.88,3.76,0.0,True,Ivory Coast,Cameroon,2.0,0.0,0.0,1.0,2.0,1.0
+xW0POtno,2021-09-07,16:00,0:1,0:0,0:1,3.49,2.62,2.48,2.0,True,Central Africa,Liberia ,0.0,0.0,0.0,1.0,0.0,1.0
+pWdz0FV5,2021-09-07,16:00,1:0,0:0,1:0,2.9,2.67,2.85,0.0,True,South Africa,Ghana,0.0,0.0,1.0,0.0,1.0,0.0
+00Y1urkF,2021-09-06,13:00,1:1,1:1,0:0,2.46,2.71,3.39,1.0,True,Benin,D.R. Congo,1.0,1.0,0.0,0.0,1.0,1.0
+f1lVfTm9,2021-09-06,13:00,0:0,0:0,0:0,3.7,2.61,2.4,1.0,True,Uganda,Mali,0.0,0.0,0.0,0.0,0.0,0.0
+v3sljo0h,2021-09-06,01:00,1:0,1:0,0:0,1.64,3.76,5.5,0.0,True,Peru,Venezuela ,1.0,0.0,0.0,0.0,1.0,0.0
+UXu9OHmL,2021-09-06,00:00,1:1,0:0,1:1,1.61,3.69,5.68,1.0,True,USA,Canada,0.0,0.0,1.0,1.0,1.0,1.0
+0GWvJeBr,2021-09-06,23:00,0:1,0:1,0:0,6.45,3.62,1.58,2.0,True,Costa Rica,Mexico,0.0,1.0,0.0,0.0,0.0,1.0
+b7pDNy3R,2021-09-06,23:00,0:0,0:0,0:0,2.98,2.85,2.62,1.0,True,El Salvador,Honduras,0.0,0.0,0.0,0.0,0.0,0.0
+zVzclPU4,2021-09-06,22:00,1:1,1:0,0:1,3.43,3.0,2.33,1.0,True,Paraguay,Colombia ,1.0,0.0,0.0,1.0,1.0,1.0
+ptrpiRpn,2021-09-06,22:00,4:2,2:0,2:2,1.16,7.27,17.88,0.0,True,Uruguay,Bolivia,2.0,0.0,2.0,2.0,4.0,2.0
+ruMqIFQl,2021-09-06,22:00,0:3,0:2,0:1,1.91,3.26,4.25,2.0,True,Jamaica,Panama,0.0,2.0,0.0,1.0,0.0,3.0
+ELZ0mqpB,2021-09-06,21:00,0:0,0:0,0:0,1.82,3.56,4.44,1.0,True,Ecuador,Chile ,0.0,0.0,0.0,0.0,0.0,0.0
+2mupkbHm,2021-09-06,19:00,1:1,0:0,1:1,5.41,3.16,1.76,1.0,True,Gabon,Egypt,0.0,0.0,1.0,1.0,1.0,1.0
+phCtEf1H,2021-09-06,18:45,3:0,2:0,1:0,1.45,4.68,7.07,0.0,True,Belgium,Czech Republic,2.0,0.0,1.0,0.0,3.0,0.0
+dvj1ElwA,2021-09-06,18:45,6:0,4:0,2:0,1.07,12.68,26.4,0.0,True,Germany,Armenia,4.0,0.0,2.0,0.0,6.0,0.0
+McX6zlDe,2021-09-06,18:45,1:1,0:1,1:0,3.55,3.05,2.29,1.0,True,Kosovo,Greece,0.0,1.0,1.0,0.0,1.0,1.0
+hQ3ZELTK,2021-09-06,18:45,2:0,2:0,0:0,1.04,16.36,40.12,0.0,True,Romania,Liechtenstein,2.0,0.0,0.0,0.0,2.0,0.0
+M1oPuUWp,2021-09-06,18:45,1:7,0:4,1:3,87.22,29.4,1.01,2.0,True,San Marino,Poland,0.0,4.0,1.0,3.0,1.0,7.0
+bwwqnQfA,2021-09-06,18:45,4:0,3:0,1:0,1.11,9.37,25.86,0.0,True,Spain,Georgia,3.0,0.0,1.0,0.0,4.0,0.0
+YHItmRd1,2021-09-06,18:45,0:0,0:0,0:0,4.57,3.45,1.87,1.0,True,Switzerland,Italy,0.0,0.0,0.0,0.0,0.0,0.0
+z5Z64D9o,2021-09-06,16:00,1:0,0:0,1:0,3.0,2.87,2.74,0.0,True,Albania,Hungary,0.0,0.0,1.0,0.0,1.0,0.0
+veJxl7se,2021-09-06,16:00,1:0,0:0,1:0,1.53,3.92,7.28,0.0,True,Bulgaria,Lithuania,0.0,0.0,1.0,0.0,1.0,0.0
+lWgKrcmP,2021-09-06,16:00,4:0,1:0,3:0,1.01,28.94,73.4,0.0,True,England,Andorra,1.0,0.0,3.0,0.0,4.0,0.0
+WW41DgzQ,2021-09-06,16:00,2:2,0:1,2:1,2.68,2.99,2.95,1.0,True,Iceland,North Macedonia,0.0,1.0,2.0,1.0,2.0,2.0
+GjkM9jaU,2021-09-06,16:00,0:1,0:0,0:1,2.39,2.79,3.43,2.0,True,Togo,Namibia,0.0,0.0,0.0,1.0,0.0,1.0
+fmwiKVNj,2021-09-05,13:00,2:3,2:1,0:2,7.55,3.8,1.54,2.0,True,Belarus,Wales ,2.0,1.0,0.0,2.0,2.0,3.0
+YimZgm3F,2021-09-05,13:00,1:1,1:1,0:0,2.64,2.7,3.11,1.0,True,Rwanda,Kenya,1.0,1.0,0.0,0.0,1.0,1.0
+hdp0eqjE,2021-09-05,18:45,0:1,0:0,0:1,25.33,9.77,1.11,2.0,True,Faroe Islands,Denmark,0.0,0.0,0.0,1.0,0.0,1.0
+2VZZlsTs,2021-09-05,18:45,5:2,3:1,2:1,3.7,3.35,2.1,0.0,True,Israel,Austria,3.0,1.0,2.0,1.0,5.0,2.0
+IumThjUF,2021-09-05,18:45,1:0,1:0,0:0,1.15,7.69,25.1,0.0,True,Scotland,Moldova,1.0,0.0,0.0,0.0,1.0,0.0
+xCWjK1mA,2021-09-05,18:45,0:3,0:0,0:3,65.99,20.51,1.02,2.0,True,Gibraltar,Turkey,0.0,0.0,0.0,3.0,0.0,3.0
+OUux7iDg,2021-09-05,18:45,4:0,1:0,3:0,1.15,8.27,18.45,0.0,True,Netherlands,Montenegro,1.0,0.0,3.0,0.0,4.0,0.0
+EH9GqIGL,2021-09-05,18:45,0:1,0:0,0:1,3.91,3.27,2.07,2.0,True,Slovakia,Croatia,0.0,0.0,0.0,1.0,0.0,1.0
+OOra1HHB,2021-09-05,18:45,1:1,1:0,0:1,5.72,3.85,1.65,1.0,True,Ukraine,France,1.0,0.0,0.0,1.0,1.0,1.0
+nobKPHtm,2021-09-05,16:00,0:2,0:1,0:1,8.77,4.58,1.4,2.0,True,Cyprus,Russia,0.0,1.0,0.0,1.0,0.0,2.0
+vVcPhyCP,2021-09-05,16:00,1:1,0:1,1:0,1.53,3.77,7.64,1.0,True,Ireland,Azerbaijan,0.0,1.0,1.0,0.0,1.0,1.0
+pxzaIuIM,2021-09-05,16:00,0:2,0:1,0:1,11.86,5.83,1.27,2.0,True,Latvia,Norway,0.0,1.0,0.0,1.0,0.0,2.0
+EyvoVXJI,2021-09-05,16:00,4:1,2:0,2:1,1.23,6.3,13.88,0.0,True,Serbia,Luxembourg,2.0,0.0,2.0,1.0,4.0,1.0
+IkG7ovn9,2021-09-05,16:00,1:0,1:0,0:0,1.25,6.04,13.41,0.0,True,Slovenia,Malta,1.0,0.0,0.0,0.0,1.0,0.0
+29fj3wma,2021-09-04,13:00,1:0,0:0,1:0,1.38,4.54,9.78,0.0,True,Finland,Kazakhstan,0.0,0.0,1.0,0.0,1.0,0.0
+K8V2x0Gp,2021-09-04,19:00,2:0,2:0,0:0,1.25,5.03,14.55,0.0,True,Cameroon,Malawi,2.0,0.0,0.0,0.0,2.0,0.0
+x6gS1y1g,2021-09-04,19:00,1:0,1:0,0:0,1.17,6.51,18.17,0.0,True,Ghana,Ethiopia,1.0,0.0,0.0,0.0,1.0,0.0
+W6NcXDYm,2021-09-04,19:00,3:0,0:0,3:0,1.21,5.77,15.27,0.0,True,Tunisia,Equatorial Guinea,0.0,0.0,3.0,0.0,3.0,0.0
+rsR1WXmf,2021-09-04,16:00,1:2,0:1,1:1,3.02,2.69,2.76,2.0,True,Mauritania,Zambia,0.0,1.0,1.0,1.0,1.0,2.0
+SdBkVr9H,2021-09-04,16:00,2:0,2:0,0:0,1.16,7.05,16.97,0.0,True,Nigeria,Liberia,2.0,0.0,0.0,0.0,2.0,0.0
+YBZ6yKVj,2021-09-03,13:00,0:0,0:0,0:0,7.71,3.61,1.51,1.0,True,Mozambique,Ivory Coast,0.0,0.0,0.0,0.0,0.0,0.0
+j9cW0eGa,2021-09-03,13:00,0:0,0:0,0:0,3.77,3.07,2.1,1.0,True,Zimbabwe,South Africa,0.0,0.0,0.0,0.0,0.0,0.0
+fFmdRJ32,2021-09-03,02:05,0:0,0:0,0:0,9.2,4.83,1.34,1.0,True,El Salvador,USA,0.0,0.0,0.0,0.0,0.0,0.0
+jss5PcYE,2021-09-03,02:00,2:1,0:0,2:1,1.22,6.11,13.37,0.0,True,Mexico,Jamaica,0.0,0.0,2.0,1.0,2.0,1.0
+8Ii0QwJ8,2021-09-03,01:05,0:0,0:0,0:0,2.35,3.01,3.28,1.0,True,Panama,Costa Rica,0.0,0.0,0.0,0.0,0.0,0.0
+S4TNuhr2,2021-09-03,01:00,0:1,0:0,0:1,5.41,3.4,1.77,2.0,True,Chile,Brazil,0.0,0.0,0.0,1.0,0.0,1.0
+GnHCrfbq,2021-09-03,01:00,1:1,1:1,0:0,3.31,3.04,2.38,1.0,True,Peru,Uruguay,1.0,1.0,0.0,0.0,1.0,1.0
+tCaE2zR1,2021-09-03,00:05,1:1,0:1,1:0,1.52,3.87,6.93,1.0,True,Canada,Honduras,0.0,1.0,1.0,0.0,1.0,1.0
+fwGGsEDk,2021-09-03,00:00,1:3,0:1,1:2,8.79,4.67,1.38,2.0,True,Venezuela,Argentina,0.0,1.0,1.0,2.0,1.0,3.0
+U9764yL2,2021-09-03,21:00,2:0,0:0,2:0,1.63,3.76,5.77,0.0,True,Ecuador,Paraguay,0.0,0.0,2.0,0.0,2.0,0.0
+lEUJtYSe,2021-09-03,20:00,1:1,0:0,1:1,3.75,3.28,2.08,1.0,True,Bolivia,Colombia,0.0,0.0,1.0,1.0,1.0,1.0
+EithQdRK,2021-09-03,19:00,8:0,4:0,4:0,1.02,19.95,32.91,0.0,True,Algeria,Djibouti ,4.0,0.0,4.0,0.0,8.0,0.0
+hx00N9TT,2021-09-03,19:00,2:0,1:0,1:0,1.2,5.86,14.87,0.0,True,Morocco,Sudan ,1.0,0.0,1.0,0.0,2.0,0.0
+4QCFkjrJ,2021-09-03,18:45,2:0,2:0,0:0,1.55,3.59,8.11,0.0,True,Andorra,San Marino,2.0,0.0,0.0,0.0,2.0,0.0
+A1EUF1EE,2021-09-03,18:45,1:0,1:0,0:0,1.18,6.93,17.2,0.0,True,Czech Republic,Belarus,1.0,0.0,0.0,0.0,1.0,0.0
+O4nLPi0T,2021-09-03,18:45,2:5,1:2,1:3,28.86,12.16,1.07,2.0,True,Estonia,Belgium,1.0,2.0,1.0,3.0,2.0,5.0
+0AaUjfun,2021-09-03,18:45,0:4,0:0,0:4,8.53,4.37,1.43,2.0,True,Hungary,England,0.0,0.0,0.0,4.0,0.0,4.0
+OSInMxyl,2021-09-03,18:45,0:2,0:0,0:2,2.65,3.15,2.86,2.0,True,Iceland,Romania,0.0,0.0,0.0,2.0,0.0,2.0
+SfOdcBK8,2021-09-03,18:45,1:1,1:1,0:0,1.08,11.34,30.05,1.0,True,Italy,Bulgaria,1.0,1.0,0.0,0.0,1.0,1.0
+t4TsNILs,2021-09-03,18:45,0:2,0:1,0:1,68.66,30.92,1.01,2.0,True,Liechtenstein,Germany,0.0,1.0,0.0,1.0,0.0,2.0
+nLrG1QBf,2021-09-03,18:45,1:4,0:1,1:3,4.37,3.19,1.98,2.0,True,Lithuania,Northern Ireland ,0.0,1.0,1.0,3.0,1.0,4.0
+4I2D7wMf,2021-09-03,18:45,0:0,0:0,0:0,1.75,3.57,5.18,1.0,True,North Macedonia,Armenia,0.0,0.0,0.0,0.0,0.0,0.0
+n7ZfxeQh,2021-09-03,18:45,4:1,2:1,2:0,1.58,3.81,6.71,0.0,True,Poland,Albania,2.0,1.0,2.0,0.0,4.0,1.0
+tQtCoELd,2021-09-03,18:45,2:1,1:1,1:0,5.07,3.52,1.78,0.0,True,Sweden,Spain,1.0,1.0,1.0,0.0,2.0,1.0
+8nscjPlh,2021-09-03,18:00,3:0,2:0,1:0,1.87,3.53,4.12,0.0,True,Australia,China ,2.0,0.0,1.0,0.0,3.0,0.0
+nwt1kq4b,2021-09-03,18:00,3:1,0:1,3:0,1.24,6.02,11.63,0.0,True,Saudi Arabia,Vietnam,0.0,1.0,3.0,0.0,3.0,1.0
+2iL3TtQs,2021-09-03,16:45,0:0,0:0,0:0,1.23,5.85,12.89,1.0,True,United Arab Emirates,Lebanon,0.0,0.0,0.0,0.0,0.0,0.0
+xhGVxMHd,2021-09-03,16:00,0:1,0:1,0:0,2.11,3.02,4.16,2.0,True,Georgia,Kosovo,0.0,1.0,0.0,0.0,0.0,1.0
+6wZctOZ8,2021-09-03,16:00,0:1,0:1,0:0,2.14,2.92,3.81,2.0,True,Madagascar,Benin,0.0,1.0,0.0,0.0,0.0,1.0
+rwiEBCUH,2021-09-03,16:00,1:1,1:0,0:1,2.93,2.71,2.78,1.0,True,Namibia,Congo,1.0,0.0,0.0,1.0,1.0,1.0
+SfpdPGtR,2021-09-03,16:00,0:2,0:0,0:2,6.91,3.36,1.59,2.0,True,Niger,Burkina Faso,0.0,0.0,0.0,2.0,0.0,2.0
+hIZXY22K,2021-09-03,16:00,1:0,0:0,1:0,1.31,4.91,10.64,0.0,True,Iran,Syria ,0.0,0.0,1.0,0.0,1.0,0.0
+hzVgs4K2,2021-09-02,13:00,1:1,1:1,0:0,1.51,3.76,7.12,1.0,True,D.R. Congo,Tanzania,1.0,1.0,0.0,0.0,1.0,1.0
+0vkRe9Y2,2021-09-02,13:00,0:0,0:0,0:0,2.34,2.79,3.49,1.0,True,Kenya,Uganda,0.0,0.0,0.0,0.0,0.0,0.0
+0rZyYMHQ,2021-09-02,11:00,0:0,0:0,0:0,1.42,4.19,8.65,1.0,True,South Korea,Iraq ,0.0,0.0,0.0,0.0,0.0,0.0
+jBnhi5Zo,2021-09-02,10:14,0:1,0:0,0:1,1.15,7.34,17.9,2.0,True,Japan,Oman,0.0,0.0,0.0,1.0,0.0,1.0
+dlDC76XE,2021-09-02,19:00,1:0,1:0,0:0,1.47,3.62,8.65,0.0,True,Egypt,Angola,1.0,0.0,0.0,0.0,1.0,0.0
+8Qutjv2s,2021-09-02,19:00,2:1,1:1,1:0,2.44,2.84,3.25,0.0,True,Libya,Gabon,1.0,1.0,1.0,0.0,2.0,1.0
+l4oNdkJd,2021-09-02,19:00,1:0,1:0,0:0,1.69,3.29,5.74,0.0,True,Mali,Rwanda,1.0,0.0,0.0,0.0,1.0,0.0
+pSSkuXaG,2021-09-02,18:45,2:0,2:0,0:0,1.48,4.13,7.57,0.0,True,Denmark,Scotland,2.0,0.0,0.0,0.0,2.0,0.0
+xOdiqwcJ,2021-09-02,18:45,0:4,0:2,0:2,8.38,4.5,1.42,2.0,True,Faroe Islands,Israel,0.0,2.0,0.0,2.0,0.0,4.0
+MwyTbOeD,2021-09-02,18:45,1:1,1:1,0:0,1.16,7.99,17.5,1.0,True,France,Bosnia & Herzegovina,1.0,1.0,0.0,0.0,1.0,1.0
+x02efETm,2021-09-02,18:45,3:1,0:0,3:1,1.2,6.28,18.21,0.0,True,Latvia,Gibraltar,0.0,0.0,3.0,1.0,3.0,1.0
+tvpileKt,2021-09-02,18:45,2:1,2:0,0:1,2.13,3.09,3.93,0.0,True,Luxembourg,Azerbaijan,2.0,0.0,0.0,1.0,2.0,1.0
+GQkyMZuC,2021-09-02,18:45,3:0,1:0,2:0,3.67,3.04,2.25,0.0,True,Malta,Cyprus,1.0,0.0,2.0,0.0,3.0,0.0
+bcTrmLcf,2021-09-02,18:45,0:2,0:1,0:1,19.99,7.47,1.16,2.0,True,Moldova,Austria,0.0,1.0,0.0,1.0,0.0,2.0
+tUYT4MmN,2021-09-02,18:45,1:1,1:1,0:0,4.67,3.72,1.78,1.0,True,Norway,Netherlands,1.0,1.0,0.0,0.0,1.0,1.0
+pdnUYFKg,2021-09-02,18:45,2:1,0:1,2:0,1.17,7.16,19.48,0.0,True,Portugal,Ireland,0.0,1.0,2.0,0.0,2.0,1.0
+8v9KrxWR,2021-09-02,18:45,0:0,0:0,0:0,2.78,3.21,2.72,1.0,True,Russia,Croatia,0.0,0.0,0.0,0.0,0.0,0.0
+bN62zEw8,2021-09-02,18:45,1:1,1:1,0:0,2.0,3.12,4.41,1.0,True,Slovenia,Slovakia,1.0,1.0,0.0,0.0,1.0,1.0
+hAXh39CI,2021-09-02,18:45,2:2,2:1,0:1,1.64,3.86,5.55,1.0,True,Turkey,Montenegro,2.0,1.0,0.0,1.0,2.0,2.0
+UciSITyo,2021-09-02,16:00,1:1,0:1,1:0,4.27,3.15,1.93,1.0,True,Guinea Bissau,Guinea,0.0,1.0,1.0,0.0,1.0,1.0
+phYAChFB,2021-09-02,16:00,2:0,0:0,2:0,1.17,6.49,16.59,0.0,True,Senegal,Togo,0.0,0.0,2.0,0.0,2.0,0.0
+rTFPHx2h,2021-09-01,14:00,2:2,0:1,2:1,9.08,4.63,1.39,1.0,True,Kazakhstan,Ukraine,0.0,1.0,2.0,1.0,2.0,2.0
+t0FgU2ON,2021-09-01,13:00,1:1,0:1,1:0,6.89,3.62,1.54,1.0,True,Central Africa,Cape Verde,0.0,1.0,1.0,0.0,1.0,1.0
+bm45OENH,2021-06-16,01:30,2:0,1:0,1:0,1.04,11.62,23.6,0.0,True,El Salvador,Saint Kitts and Nevis ,1.0,0.0,1.0,0.0,2.0,0.0
+pr9PT9ac,2021-06-16,01:00,3:0,0:0,3:0,1.31,4.68,10.1,0.0,True,Canada,Haiti ,0.0,0.0,3.0,0.0,3.0,0.0
+UZQx667j,2021-06-16,23:00,0:0,0:0,0:0,3.68,3.16,2.03,1.0,True,Curacao,Panama ,0.0,0.0,0.0,0.0,0.0,0.0
+nq5rhp29,2021-06-16,19:00,1:2,,,28.6,19.2,1.01,2.0,False,Chinese Taipei,Kuwait ,,,,,,
+vkjxnx1O,2021-06-16,18:00,3:1,1:0,2:1,1.75,3.41,4.92,0.0,True,China,Syria ,1.0,0.0,2.0,1.0,3.0,1.0
+nVBq3kgD,2021-06-16,18:00,3:0,2:0,1:0,1.67,3.53,5.35,0.0,True,Palestine,Yemen ,2.0,0.0,1.0,0.0,3.0,0.0
+8vDu4Vw7,2021-06-16,18:00,3:0,2:0,1:0,2.34,3.09,3.15,0.0,True,Saudi Arabia,Uzbekistan ,2.0,0.0,1.0,0.0,3.0,0.0
+Ao48S5MO,2021-06-16,17:10,0:3,0:1,0:2,32.18,14.15,1.04,2.0,True,Bangladesh,Oman ,0.0,1.0,0.0,2.0,0.0,3.0
+WjkYKuyK,2021-06-16,16:45,0:1,0:0,0:1,1.85,3.68,3.84,2.0,True,Thailand,Malaysia ,0.0,0.0,0.0,1.0,0.0,1.0
+h0jULLLD,2021-06-16,16:45,3:2,2:0,1:2,1.49,3.98,6.64,0.0,True,United Arab Emirates,Vietnam ,2.0,0.0,1.0,2.0,3.0,2.0
+4EGQjL3j,2021-06-16,16:30,4:0,0:0,4:0,1.2,6.2,14.51,0.0,True,Bahrain,Hong Kong ,0.0,0.0,4.0,0.0,4.0,0.0
+QNHMi1lp,2021-06-16,16:30,1:0,1:0,0:0,1.47,3.81,7.97,0.0,True,Iran,Iraq ,1.0,0.0,0.0,0.0,1.0,0.0
+vJ5vgQn3,2021-06-16,16:00,1:0,0:0,1:0,1.52,3.79,6.78,0.0,True,Australia,Jordan ,0.0,0.0,1.0,0.0,1.0,0.0
+xz9uodGU,2021-06-15,15:00,1:1,1:1,0:0,1.19,6.61,13.19,1.0,True,Philippines,Maldives ,1.0,1.0,0.0,0.0,1.0,1.0
+QcvIn97t,2021-06-15,14:00,1:1,0:0,1:1,2.41,2.99,3.12,1.0,True,India,Afghanistan ,0.0,0.0,1.0,1.0,1.0,1.0
+UTJubcC9,2021-06-15,10:28,5:1,3:1,2:0,1.09,10.14,19.38,0.0,True,Japan,Kyrgyzstan ,3.0,1.0,2.0,0.0,5.0,1.0
+rXNqcHRF,2021-06-15,10:28,4:0,1:0,3:0,1.05,12.96,24.43,0.0,True,Tajikistan,Myanmar ,1.0,0.0,3.0,0.0,4.0,0.0
+hSnJUk4o,2021-06-13,06:00,2:1,0:1,2:0,1.14,7.91,16.88,0.0,True,South Korea,Lebanon,0.0,1.0,2.0,0.0,2.0,1.0
+jqSY6nhp,2021-06-13,23:05,2:1,0:0,2:1,1.6,3.65,5.44,0.0,True,Panama,Curacao ,0.0,0.0,2.0,1.0,2.0,1.0
+6iALUkpi,2021-06-13,21:00,0:1,0:1,0:0,6.96,4.1,1.46,2.0,True,Haiti,Canada ,0.0,1.0,0.0,0.0,0.0,1.0
+pp01Pf8B,2021-06-13,20:00,0:4,0:3,0:1,6.09,3.86,1.54,2.0,True,Saint Kitts and Nevis,El Salvador ,0.0,3.0,0.0,1.0,0.0,4.0
+jcPqXrQq,2021-06-12,19:00,0:0,0:0,0:0,2.85,3.01,2.57,1.0,True,Kuwait,Jordan ,0.0,0.0,0.0,0.0,0.0,0.0
+IkKS6Xgl,2021-06-12,18:00,0:3,0:0,0:3,28.73,17.31,1.02,2.0,True,Singapore,Saudi Arabia ,0.0,0.0,0.0,3.0,0.0,3.0
+6FGO7Dvr,2021-06-12,18:00,0:1,0:1,0:0,22.2,10.49,1.07,2.0,True,Yemen,Uzbekistan ,0.0,1.0,0.0,0.0,0.0,1.0
+S28mXT7g,2021-06-12,17:10,1:2,1:1,0:1,15.91,6.07,1.19,2.0,True,Afghanistan,Oman ,1.0,1.0,0.0,1.0,1.0,2.0
+Es5CitXn,2021-06-12,17:00,5:0,2:0,3:0,1.01,20.44,31.25,0.0,True,China,Maldives ,2.0,0.0,3.0,0.0,5.0,0.0
+0hEXGBIl,2021-06-12,16:45,0:5,0:2,0:3,28.8,17.28,1.02,2.0,True,Indonesia,United Arab Emirates ,0.0,2.0,0.0,3.0,0.0,5.0
+U9N1MXfR,2021-06-12,16:45,1:2,0:1,1:1,7.09,3.77,1.5,2.0,True,Malaysia,Vietnam ,0.0,1.0,1.0,1.0,1.0,2.0
+zgwraqdA,2021-06-12,16:30,0:1,0:1,0:0,21.73,9.45,1.08,2.0,True,Hong Kong,Iraq ,0.0,1.0,0.0,0.0,0.0,1.0
+pKOmW2uj,2021-06-12,16:00,0:3,0:2,0:1,34.45,20.84,1.01,2.0,True,Nepal,Australia ,0.0,2.0,0.0,1.0,0.0,3.0
+Eqxnb3BG,2021-06-11,14:30,0:10,0:4,0:6,58.67,22.33,1.01,2.0,True,Cambodia,Iran ,0.0,4.0,0.0,6.0,0.0,10.0
+Sp9Gj0ng,2021-06-11,14:00,3:0,1:0,2:0,1.05,12.23,27.18,0.0,True,Philippines,Guam ,1.0,0.0,2.0,0.0,3.0,0.0
+G6ToxGkj,2021-06-11,07:00,1:8,0:5,1:3,8.11,4.99,1.34,2.0,True,Myanmar,Kyrgyzstan ,0.0,5.0,1.0,3.0,1.0,8.0
+KvI4BS3N,2021-06-09,11:00,0:5,0:3,0:2,36.8,24.6,1.01,2.0,True,Sri Lanka,South Korea,0.0,3.0,0.0,2.0,0.0,5.0
+tlJ0C8lH,2021-06-09,06:00,3:2,0:0,3:2,5.34,3.85,1.6,0.0,True,Turkmenistan,Lebanon,0.0,0.0,3.0,2.0,3.0,2.0
+Moav12EA,2021-06-09,01:30,1:1,0:0,1:1,1.2,6.56,14.59,1.0,True,Chile,Bolivia ,0.0,0.0,1.0,1.0,1.0,1.0
+tpcBD6Y1,2021-06-09,01:05,4:0,1:0,3:0,1.23,6.69,9.28,0.0,True,Canada,Suriname ,1.0,0.0,3.0,0.0,4.0,0.0
+WEwT0Tld,2021-06-09,01:05,3:0,1:0,2:0,1.23,6.19,10.63,0.0,True,El Salvador,Antigua and Barbuda ,1.0,0.0,2.0,0.0,3.0,0.0
+llmUPzOO,2021-06-09,01:05,3:0,1:0,2:0,1.13,8.25,17.23,0.0,True,Panama,Dominican Republic ,1.0,0.0,2.0,0.0,3.0,0.0
+AclQQG8I,2021-06-09,01:00,1:1,0:0,1:1,1.77,3.74,4.25,1.0,True,Barbados,Dominica ,0.0,0.0,1.0,1.0,1.0,1.0
+SOaz2ra4,2021-06-09,00:30,0:2,0:1,0:1,6.49,3.67,1.59,2.0,True,Paraguay,Brazil ,0.0,1.0,0.0,1.0,0.0,2.0
+h4roQqI7,2021-06-09,00:00,0:0,0:0,0:0,1.91,3.6,3.72,1.0,True,Curacao,Guatemala ,0.0,0.0,0.0,0.0,0.0,0.0
+Wd6R34Ui,2021-06-09,23:00,2:2,0:2,2:0,2.87,2.97,2.67,1.0,True,Colombia,Argentina ,0.0,2.0,2.0,0.0,2.0,2.0
+hOvP19Zk,2021-06-09,23:00,1:2,0:0,1:2,3.29,3.62,2.02,2.0,True,Grenada,Montserrat ,0.0,0.0,1.0,2.0,1.0,2.0
+lY0W2Oqb,2021-06-09,22:30,0:0,0:0,0:0,4.64,3.36,1.84,1.0,True,Venezuela,Uruguay ,0.0,0.0,0.0,0.0,0.0,0.0
+zk3r0MTG,2021-06-09,21:00,1:2,0:0,1:2,1.37,4.82,8.22,2.0,True,Ecuador,Peru ,0.0,0.0,1.0,2.0,1.0,2.0
+l8BBxE7U,2021-06-09,21:00,1:0,0:0,1:0,1.5,3.97,6.47,0.0,True,Haiti,Nicaragua ,0.0,0.0,1.0,0.0,1.0,0.0
+bck9oipo,2021-06-09,21:00,2:0,1:0,1:0,1.75,3.43,4.65,0.0,True,Trinidad & Tobago,Saint Kitts and Nevis ,1.0,0.0,1.0,0.0,2.0,0.0
+dl3sjXyU,2021-06-09,20:00,0:2,0:2,0:0,2.09,3.83,3.0,2.0,True,Guyana,Puerto Rico ,0.0,2.0,0.0,0.0,0.0,2.0
+EDqsRP21,2021-06-09,20:00,0:1,0:0,0:1,6.11,4.7,1.44,2.0,True,Saint Vincent and the Grenadines,Cuba ,0.0,0.0,0.0,1.0,0.0,1.0
+j3Iz5BO0,2021-06-08,18:00,5:0,3:0,2:0,1.06,11.28,25.93,0.0,True,Uzbekistan,Singapore ,3.0,0.0,2.0,0.0,5.0,0.0
+IZ1TmbWB,2021-06-08,17:00,2:0,0:0,2:0,1.1,9.35,21.91,0.0,True,China,Philippines ,0.0,0.0,2.0,0.0,2.0,0.0
+EJAaURiC,2021-06-08,17:00,0:1,0:1,0:0,6.99,3.79,1.51,2.0,True,Oman,Qatar ,0.0,1.0,0.0,0.0,0.0,1.0
+t2MuFkm1,2021-06-08,16:45,3:1,2:0,1:1,1.38,4.75,7.24,0.0,True,United Arab Emirates,Thailand ,2.0,0.0,1.0,1.0,3.0,1.0
+EFKmDTHD,2021-06-08,16:45,4:0,0:0,4:0,1.39,4.55,7.55,0.0,True,Vietnam,Indonesia ,0.0,0.0,4.0,0.0,4.0,0.0
+86yjcNQM,2021-06-08,16:30,3:0,0:0,3:0,1.49,3.88,7.2,0.0,True,Iran,Bahrain ,0.0,0.0,3.0,0.0,3.0,0.0
+0S6zf6Xd,2021-06-08,16:00,0:3,0:1,0:2,24.5,11.2,1.07,2.0,True,Nepal,Jordan,0.0,1.0,0.0,2.0,0.0,3.0
+KtufdstT,2021-06-07,14:30,4:1,,,1.01,22.1,44.1,0.0,False,Iraq,Cambodia ,,,,,,
+zTBeV7x6,2021-06-07,14:00,0:2,0:0,0:2,6.25,3.25,1.66,2.0,True,Bangladesh,India ,0.0,0.0,0.0,2.0,0.0,2.0
+dQ0XnIoI,2021-06-07,14:00,0:3,,,42.5,22.5,1.01,2.0,False,Guam,Syria ,,,,,,
+8EVWaJsc,2021-06-07,10:30,4:1,2:1,2:0,1.02,19.63,30.55,0.0,True,Japan,Tajikistan ,2.0,1.0,2.0,0.0,4.0,1.0
+n5Uzawc3,2021-06-07,07:00,0:1,0:1,0:0,1.04,14.07,29.89,2.0,True,Kyrgyzstan,Mongolia ,0.0,1.0,0.0,0.0,0.0,1.0
+SYbLRdgC,2021-06-06,00:00,0:13,,,38.67,19.5,1.01,2.0,False,Anguilla,Panama ,,,,,,
+pI32FS3k,2021-06-06,00:00,0:7,0:3,0:4,40.5,16.5,1.01,2.0,True,Aruba,Canada ,0.0,3.0,0.0,4.0,0.0,7.0
+b1uL2kKq,2021-06-06,23:00,0:7,0:2,0:5,38.17,20.5,1.01,2.0,True,United States Virgin Islands,El Salvador ,0.0,2.0,0.0,5.0,0.0,7.0
+URWpiDMN,2021-06-06,21:00,0:0,0:0,0:0,25.4,14.2,1.02,1.0,True,Bahamas,Trinidad & Tobago ,0.0,0.0,0.0,0.0,0.0,0.0
+rB83vzwI,2021-06-06,19:00,0:10,0:5,0:5,39.25,17.25,1.01,2.0,True,Turks and Caicos Islands,Haiti ,0.0,5.0,0.0,5.0,0.0,10.0
+nR3jQLf9,2021-06-06,18:00,3:0,3:0,0:0,1.05,12.38,32.43,0.0,True,Saudi Arabia,Yemen ,3.0,0.0,0.0,0.0,3.0,0.0
+nkQiEUJ4,2021-06-05,11:00,5:0,2:0,3:0,1.05,11.76,32.76,0.0,True,South Korea,Turkmenistan,2.0,0.0,3.0,0.0,5.0,0.0
+jN8z66Rp,2021-06-05,06:00,3:2,3:1,0:1,1.02,18.73,44.5,0.0,True,Lebanon,Sri Lanka,3.0,1.0,0.0,1.0,3.0,2.0
+4K9auGNB,2021-06-05,01:00,3:0,1:0,2:0,1.1,8.74,20.82,0.0,True,Nicaragua,Belize ,1.0,0.0,2.0,0.0,3.0,0.0
+4ASDpsUT,2021-06-05,00:30,2:0,0:0,2:0,1.31,5.31,9.74,0.0,True,Brazil,Ecuador ,0.0,0.0,2.0,0.0,2.0,0.0
+EVfHSxv6,2021-06-05,23:00,1:1,0:1,1:0,1.41,4.39,7.61,1.0,True,Dominican Republic,Barbados ,0.0,1.0,1.0,0.0,1.0,1.0
+6mtZSoYl,2021-06-05,22:00,10:0,5:0,5:0,1.03,15.64,33.67,0.0,True,Guatemala,Saint Vincent and the Grenadines ,5.0,0.0,5.0,0.0,10.0,0.0
+A9bLkK1a,2021-06-05,16:00,0:4,0:3,0:1,19.85,8.95,1.11,2.0,True,Maldives,Syria ,0.0,3.0,0.0,1.0,0.0,4.0
+Mow9oNEN,2021-06-04,02:00,0:3,0:1,0:2,3.81,3.16,2.11,2.0,True,Peru,Colombia ,0.0,1.0,0.0,2.0,0.0,3.0
+h67N4pFo,2021-06-04,00:00,1:1,1:1,0:0,1.52,4.1,6.61,1.0,True,Argentina,Chile ,1.0,1.0,0.0,0.0,1.0,1.0
+rev5n3aH,2021-06-04,22:00,0:0,0:0,0:0,1.63,3.61,6.09,1.0,True,Uruguay,Paraguay ,0.0,0.0,0.0,0.0,0.0,0.0
+v3Jut1xo,2021-06-04,20:00,3:1,1:1,2:0,1.85,3.48,4.37,0.0,True,Bolivia,Venezuela ,1.0,1.0,2.0,0.0,3.0,1.0
+WCrDx52M,2021-06-04,19:00,3:0,2:0,1:0,1.49,4.02,6.89,0.0,True,Australia,Kuwait ,2.0,0.0,1.0,0.0,3.0,0.0
+QH2fPuAF,2021-06-04,18:00,4:0,3:0,1:0,1.7,3.59,4.95,0.0,True,Palestine,Singapore ,3.0,0.0,1.0,0.0,4.0,0.0
+pvJrY9hm,2021-06-04,17:00,0:1,0:1,0:0,27.01,11.82,1.06,2.0,True,India,Qatar ,0.0,1.0,0.0,0.0,0.0,1.0
+8fZhOgQE,2021-06-04,16:45,2:2,1:1,1:1,1.22,6.42,11.03,1.0,True,Thailand,Indonesia ,1.0,1.0,1.0,1.0,2.0,2.0
+tls70jY7,2021-06-04,16:45,4:0,1:0,3:0,1.26,5.78,10.07,0.0,True,United Arab Emirates,Malaysia ,1.0,0.0,3.0,0.0,4.0,0.0
+IHrw0Pt4,2021-06-04,16:30,8:0,2:0,6:0,1.02,15.41,34.67,0.0,True,Bahrain,Cambodia ,2.0,0.0,6.0,0.0,8.0,0.0
+llwIyPHS,2021-06-04,16:00,2:0,1:0,1:0,2.27,3.07,3.32,0.0,True,Nepal,Chinese Taipei,1.0,0.0,1.0,0.0,2.0,0.0
+vRqZ05Rc,2021-06-03,14:30,3:1,1:0,2:1,1.02,21.44,28.75,0.0,True,Iran,Hong Kong ,1.0,0.0,2.0,1.0,3.0,1.0
+ng0uZkws,2021-06-03,14:00,1:1,0:0,1:1,8.08,3.83,1.46,1.0,True,Bangladesh,Afghanistan ,0.0,0.0,1.0,1.0,1.0,1.0
+OOjUTRIr,2021-06-03,21:30,5:0,1:0,4:0,1.03,14.68,33.29,0.0,True,Cuba,British Virgin Islands ,1.0,0.0,4.0,0.0,5.0,0.0
+vHbl8BdM,2021-06-03,21:00,4:0,1:0,3:0,1.03,15.49,31.5,0.0,True,Montserrat,United States Virgin Islands ,1.0,0.0,3.0,0.0,4.0,0.0
+l0cPlvH5,2021-05-30,11:30,0:7,,,32.75,26.94,1.01,2.0,False,Guam,China ,,,,,,
+WWSF2ivb,2021-04-01,18:45,1:4,0:1,1:3,18.84,6.14,1.2,2.0,True,Andorra,Hungary ,0.0,1.0,1.0,3.0,1.0,4.0
+pf39YLr1,2021-04-01,18:45,0:4,0:0,0:4,3.05,3.18,2.5,2.0,True,Austria,Denmark ,0.0,0.0,0.0,4.0,0.0,4.0
+Wln7aenO,2021-04-01,18:45,0:1,0:0,0:1,8.48,4.62,1.41,2.0,True,Bosnia & Herzegovina,France ,0.0,0.0,0.0,1.0,0.0,1.0
+8bJ6iCD6,2021-04-01,18:45,2:1,1:0,1:1,1.34,5.1,10.04,0.0,True,England,Poland ,1.0,0.0,1.0,1.0,2.0,1.0
+ImicFUN3,2021-04-01,18:45,1:2,0:1,1:1,1.11,10.17,24.66,2.0,True,Germany,North Macedonia ,0.0,1.0,1.0,1.0,1.0,2.0
+bqKWb9wN,2021-04-01,18:45,1:1,0:0,1:1,1.64,3.54,6.61,1.0,True,Greece,Georgia ,0.0,0.0,1.0,1.0,1.0,1.0
+KE2ktbSJ,2021-04-01,18:45,1:4,0:2,1:2,22.61,7.9,1.15,2.0,True,Liechtenstein,Iceland ,0.0,2.0,1.0,2.0,1.0,4.0
+SGaX9l4E,2021-04-01,18:45,0:2,0:0,0:2,24.38,9.32,1.12,2.0,True,Lithuania,Italy ,0.0,0.0,0.0,2.0,0.0,2.0
+jRpZ7MZJ,2021-04-01,18:45,1:4,1:1,0:3,9.92,4.47,1.39,2.0,True,Moldova,Israel ,1.0,1.0,0.0,3.0,1.0,4.0
+OQigGA8c,2021-04-01,18:45,0:0,0:0,0:0,1.8,3.26,5.5,1.0,True,Northern Ireland,Bulgaria ,0.0,0.0,0.0,0.0,0.0,0.0
+xzJzbThT,2021-04-01,18:45,0:2,0:0,0:2,69.64,14.22,1.04,2.0,True,San Marino,Albania ,0.0,0.0,0.0,2.0,0.0,2.0
+4xqPgWE9,2021-04-01,18:45,4:0,1:0,3:0,1.18,6.91,19.46,0.0,True,Scotland,Faroe Islands ,1.0,0.0,3.0,0.0,4.0,0.0
+h0xmopAG,2021-04-01,18:45,3:1,2:0,1:1,1.07,11.81,31.73,0.0,True,Spain,Kosovo ,2.0,0.0,1.0,1.0,3.0,1.0
+8Yum4JXh,2021-04-01,18:45,1:1,1:0,0:1,1.25,5.72,13.62,1.0,True,Ukraine,Kazakhstan ,1.0,0.0,0.0,1.0,1.0,1.0
+WhMfKG50,2021-04-01,16:00,3:2,0:0,3:2,4.1,3.64,1.91,0.0,True,Armenia,Romania ,0.0,0.0,3.0,2.0,3.0,2.0
+zqESLUQL,2021-03-31,00:00,5:0,2:0,3:0,1.18,7.21,10.82,0.0,True,Bermuda,Aruba ,2.0,0.0,3.0,0.0,5.0,0.0
+tId9Ub9g,2021-03-31,23:30,1:0,0:0,1:0,1.04,13.53,30.37,0.0,True,Barbados,Anguilla ,0.0,0.0,1.0,0.0,1.0,0.0
+OrBpDEGN,2021-03-31,18:45,8:0,4:0,4:0,1.13,8.69,24.26,0.0,True,Belgium,Belarus ,4.0,0.0,4.0,0.0,8.0,0.0
+OSfYWvXF,2021-03-31,18:45,3:0,0:0,3:0,1.07,11.95,36.61,0.0,True,Croatia,Malta ,0.0,0.0,3.0,0.0,3.0,0.0
+v5E4bKQj,2021-03-31,18:45,0:7,0:1,0:6,68.67,27.66,1.01,2.0,True,Gibraltar,Netherlands ,0.0,1.0,0.0,6.0,0.0,7.0
+WSx4og4a,2021-03-31,18:45,1:3,1:1,0:2,23.27,9.14,1.12,2.0,True,Luxembourg,Portugal ,1.0,1.0,0.0,2.0,1.0,3.0
+WYVfJL2G,2021-03-31,18:45,0:1,0:1,0:0,4.43,3.52,1.87,2.0,True,Montenegro,Norway ,0.0,1.0,0.0,0.0,0.0,1.0
+t4kwWbnM,2021-03-31,18:45,2:1,1:0,1:1,4.66,3.41,1.87,0.0,True,Slovakia,Russia ,1.0,0.0,1.0,1.0,2.0,1.0
+UZfMosso,2021-03-31,18:45,3:3,2:1,1:2,1.15,8.22,20.07,1.0,True,Turkey,Latvia ,2.0,1.0,1.0,2.0,3.0,3.0
+rTiH7hvo,2021-03-31,18:45,1:0,0:0,1:0,3.28,3.22,2.34,0.0,True,Wales,Czech Republic ,0.0,0.0,1.0,0.0,1.0,0.0
+CCJW5i9f,2021-03-31,17:30,5:0,2:0,3:0,1.38,4.53,8.79,0.0,True,Saudi Arabia,Palestine ,2.0,0.0,3.0,0.0,5.0,0.0
+bsgpROIp,2021-03-31,16:00,1:2,0:1,1:1,9.23,4.59,1.39,2.0,True,Azerbaijan,Serbia ,0.0,1.0,1.0,1.0,1.0,2.0
+rDiTNeBa,2021-03-31,16:00,1:0,1:0,0:0,4.82,3.33,1.87,0.0,True,Cyprus,Slovenia ,1.0,0.0,0.0,0.0,1.0,0.0
+fcSkyz5d,2021-03-30,10:30,0:14,0:5,0:9,65.0,23.61,1.01,2.0,True,Mongolia,Japan ,0.0,5.0,0.0,9.0,0.0,14.0
+6kosAXR9,2021-03-29,22:00,1:1,0:1,1:0,7.31,4.98,1.37,1.0,True,Montserrat,El Salvador ,0.0,1.0,1.0,0.0,1.0,1.0
+ht0bZmeL,2021-03-29,21:00,1:2,1:2,0:0,11.87,6.51,1.21,2.0,True,Cuba,Curacao ,1.0,2.0,0.0,0.0,1.0,2.0
+0nuUfeNb,2021-03-29,21:00,1:1,0:0,1:1,13.07,5.17,1.25,1.0,True,Puerto Rico,Trinidad & Tobago ,0.0,0.0,1.0,1.0,1.0,1.0
+Ot24Vvfm,2021-03-29,20:00,1:2,0:1,1:1,24.26,8.22,1.11,2.0,True,Dominica,Panama ,0.0,1.0,1.0,1.0,1.0,2.0
+rNfGehpc,2021-03-29,18:45,3:1,3:1,0:0,1.08,10.93,30.22,0.0,True,Austria,Faroe Islands ,3.0,1.0,0.0,0.0,3.0,1.0
+hKSnnuD0,2021-03-29,18:45,1:1,1:0,0:1,2.74,3.16,2.76,1.0,True,Israel,Scotland ,1.0,0.0,0.0,1.0,1.0,1.0
+lQ0TAUl8,2021-03-29,18:45,0:2,0:1,0:1,14.16,6.21,1.23,2.0,True,Bulgaria,Italy ,0.0,1.0,0.0,1.0,0.0,2.0
+tlPbxArq,2021-03-29,18:45,0:3,0:2,0:1,5.55,3.71,1.68,2.0,True,Kosovo,Sweden ,0.0,2.0,0.0,1.0,0.0,3.0
+xW0L5Hj7,2021-03-29,18:45,5:0,1:0,4:0,1.08,11.03,33.76,0.0,True,North Macedonia,Liechtenstein ,1.0,0.0,4.0,0.0,5.0,0.0
+GtvayFua,2021-03-29,18:45,3:0,1:0,2:0,1.01,22.39,72.4,0.0,True,Poland,Andorra ,1.0,0.0,2.0,0.0,3.0,0.0
+jZ4P4y6D,2021-03-29,18:45,0:1,0:1,0:0,10.2,5.87,1.3,2.0,True,Romania,Germany ,0.0,1.0,0.0,0.0,0.0,1.0
+ANRJ1Bg4,2021-03-29,18:45,0:3,0:1,0:2,66.8,18.98,1.02,2.0,True,San Marino,Hungary ,0.0,1.0,0.0,2.0,0.0,3.0
+Kh3yjTCr,2021-03-29,18:45,1:0,1:0,0:0,1.07,12.51,36.19,0.0,True,Switzerland,Lithuania ,1.0,0.0,0.0,0.0,1.0,0.0
+nJiv6u3t,2021-03-29,18:45,1:1,0:0,1:1,1.76,3.47,5.39,1.0,True,Ukraine,Finland ,0.0,0.0,1.0,1.0,1.0,1.0
+fXbYkEfh,2021-03-29,16:00,0:2,0:1,0:1,13.85,6.08,1.24,2.0,True,Albania,England ,0.0,1.0,0.0,1.0,0.0,2.0
+6BE7HEkJ,2021-03-29,16:00,2:0,0:0,2:0,3.81,3.17,2.14,0.0,True,Armenia,Iceland ,0.0,0.0,2.0,0.0,2.0,0.0
+f1IPYUxp,2021-03-29,16:00,8:0,5:0,3:0,1.1,10.37,25.53,0.0,True,Denmark,Moldova ,5.0,0.0,3.0,0.0,8.0,0.0
+ljpKqhj9,2021-03-29,16:00,1:2,1:0,0:2,16.54,6.8,1.2,2.0,True,Georgia,Spain ,1.0,0.0,0.0,2.0,1.0,2.0
+AuoBbF1U,2021-03-28,13:00,0:2,0:2,0:0,30.78,10.38,1.09,2.0,True,Kazakhstan,France ,0.0,2.0,0.0,0.0,0.0,2.0
+tpLJNjd9,2021-03-28,00:00,0:6,0:3,0:3,36.17,18.06,1.03,2.0,True,Aruba,Suriname ,0.0,3.0,0.0,3.0,0.0,6.0
+SbnwBDC3,2021-03-28,23:00,0:3,0:3,0:0,17.65,8.61,1.12,2.0,True,United States Virgin Islands,Antigua and Barbuda ,0.0,3.0,0.0,0.0,0.0,3.0
+pj30WKvs,2021-03-28,22:00,0:6,0:3,0:3,32.89,18.3,1.03,2.0,True,Anguilla,Dominican Republic ,0.0,3.0,0.0,3.0,0.0,6.0
+Ek1fzUuF,2021-03-28,22:00,0:3,,,26.0,15.0,1.08,2.0,False,British Virgin Islands,Guatemala ,,,,,,
+0SCrqbOn,2021-03-28,20:30,0:7,,,36.88,17.26,1.01,2.0,False,Turks and Caicos Islands,Nicaragua ,,,,,,
+2kbCRDVG,2021-03-28,19:45,1:1,0:0,1:1,5.46,4.05,1.63,1.0,True,Czech Republic,Belgium ,0.0,0.0,1.0,1.0,1.0,1.0
+EeYA3XOi,2021-03-28,19:45,0:1,0:0,0:1,1.56,3.97,6.6,2.0,True,Ireland,Luxembourg ,0.0,0.0,0.0,1.0,0.0,1.0
+z1qemFZn,2021-03-28,19:45,2:2,0:2,2:0,5.04,3.81,1.72,1.0,True,Serbia,Portugal ,0.0,2.0,2.0,0.0,2.0,2.0
+jwuDPdPk,2021-03-28,19:45,2:2,0:2,2:0,1.21,6.5,15.8,1.0,True,Slovakia,Malta ,0.0,2.0,2.0,0.0,2.0,2.0
+fPf4TZ04,2021-03-28,17:00,4:2,1:1,3:1,1.45,4.53,7.5,0.0,True,Belarus,Estonia ,1.0,1.0,3.0,1.0,4.0,2.0
+pxdUXKH9,2021-03-28,17:00,1:0,1:0,0:0,1.13,8.69,21.98,0.0,True,Croatia,Cyprus ,1.0,0.0,0.0,0.0,1.0,0.0
+2Lvt6BSa,2021-03-28,17:00,2:0,1:0,1:0,1.02,22.05,56.21,0.0,True,Netherlands,Latvia ,1.0,0.0,1.0,0.0,2.0,0.0
+h82nN33i,2021-03-28,17:00,0:3,0:2,0:1,2.17,3.37,3.53,2.0,True,Norway,Turkey ,0.0,2.0,0.0,1.0,0.0,3.0
+Y3VL6rJA,2021-03-27,14:00,4:1,2:1,2:0,1.07,12.17,38.31,0.0,True,Montenegro,Gibraltar ,2.0,1.0,2.0,0.0,4.0,1.0
+U7K2hhb0,2021-03-27,14:00,2:1,2:1,0:0,1.9,3.29,4.76,0.0,True,Russia,Slovenia ,2.0,1.0,0.0,0.0,2.0,1.0
+pzcYBgcc,2021-03-26,02:25,2:0,1:0,1:0,1.18,6.65,14.43,0.0,True,El Salvador,Grenada ,1.0,0.0,1.0,0.0,2.0,0.0
+nNLFOWt3,2021-03-26,00:00,5:1,2:0,3:1,1.02,23.58,30.11,0.0,True,Canada,Bermuda ,2.0,0.0,3.0,1.0,5.0,1.0
+hfuXmmAE,2021-03-26,00:00,1:0,0:0,1:0,1.13,7.83,19.5,0.0,True,Panama,Barbados ,0.0,0.0,1.0,0.0,1.0,0.0
+hMyMdHhn,2021-03-26,23:00,3:0,3:0,0:0,1.58,4.14,5.4,0.0,True,Trinidad & Tobago,Guyana ,3.0,0.0,0.0,0.0,3.0,0.0
+YwpcyAQ8,2021-03-26,22:00,5:0,4:0,1:0,1.04,14.07,28.35,0.0,True,Curacao,Saint Vincent and the Grenadines ,4.0,0.0,1.0,0.0,5.0,0.0
+I3Nwpv9t,2021-03-26,21:00,2:0,0:0,2:0,1.11,8.46,23.04,0.0,True,Haiti,Belize ,0.0,0.0,2.0,0.0,2.0,0.0
+GKURakOG,2021-03-26,19:45,0:1,0:1,0:0,12.07,5.07,1.3,2.0,True,Andorra,Albania ,0.0,1.0,0.0,0.0,0.0,1.0
+ANmkHjgi,2021-03-26,19:45,3:0,2:0,1:0,1.14,8.95,18.83,0.0,True,Germany,Iceland ,2.0,0.0,1.0,0.0,3.0,0.0
+UkiomCvB,2021-03-26,19:45,3:3,1:0,2:3,4.01,3.25,2.06,1.0,True,Hungary,Poland ,1.0,0.0,2.0,3.0,3.0,3.0
+l4Phbi52,2021-03-26,19:45,2:0,2:0,0:0,1.17,6.94,20.48,0.0,True,Italy,Northern Ireland ,2.0,0.0,0.0,0.0,2.0,0.0
+GMsQZe5m,2021-03-26,19:45,0:1,0:0,0:1,10.88,5.09,1.32,2.0,True,Liechtenstein,Armenia ,0.0,0.0,0.0,1.0,0.0,1.0
+4Ulw7tkQ,2021-03-26,19:45,1:1,1:0,0:1,2.47,2.89,3.37,1.0,True,Moldova,Faroe Islands ,1.0,0.0,0.0,1.0,1.0,1.0
+44Nvgv71,2021-03-26,19:45,3:2,1:0,2:2,2.08,3.2,4.0,0.0,True,Romania,North Macedonia ,1.0,0.0,2.0,2.0,3.0,2.0
+0Mm8gNKQ,2021-03-26,19:45,2:2,0:0,2:2,3.12,3.14,2.49,1.0,True,Scotland,Austria ,0.0,0.0,2.0,2.0,2.0,2.0
+Knvum6u4,2021-03-26,19:45,1:1,1:0,0:1,1.22,6.57,14.69,1.0,True,Spain,Greece ,1.0,0.0,0.0,1.0,1.0,1.0
+lSVeqOvT,2021-03-26,19:45,1:0,1:0,0:0,1.33,5.07,10.88,0.0,True,Sweden,Georgia ,1.0,0.0,0.0,0.0,1.0,0.0
+zs3u8SYQ,2021-03-26,17:00,1:3,0:3,1:0,9.34,4.44,1.41,2.0,True,Bulgaria,Switzerland ,0.0,3.0,1.0,0.0,1.0,3.0
+ji6HWaDD,2021-03-26,17:00,0:2,0:1,0:1,4.87,3.59,1.79,2.0,True,Israel,Denmark ,0.0,1.0,0.0,1.0,0.0,2.0
+Ysvswdzp,2021-03-25,13:00,3:0,1:0,2:0,1.11,9.06,22.06,0.0,True,Tajikistan,Mongolia ,1.0,0.0,2.0,0.0,3.0,0.0
+fmogxjB2,2021-03-25,00:00,1:0,0:0,1:0,1.16,7.06,17.87,0.0,True,Guatemala,Cuba ,0.0,0.0,1.0,0.0,1.0,0.0
+f9MTlTf8,2021-03-25,23:00,1:0,0:0,1:0,1.3,4.81,11.97,0.0,True,Dominican Republic,Dominica ,0.0,0.0,1.0,0.0,1.0,0.0
+WWhUCZsi,2021-03-25,22:00,2:2,2:2,0:0,2.3,3.42,3.04,1.0,True,Antigua and Barbuda,Montserrat ,2.0,2.0,0.0,0.0,2.0,2.0
+8WMBPCRd,2021-03-25,22:00,3:0,,,1.07,9.0,27.0,0.0,False,Suriname,Cayman Islands ,,,,,,
+EVxIccwt,2021-03-25,20:00,1:0,1:0,0:0,1.79,3.79,4.11,0.0,True,Saint Kitts and Nevis,Puerto Rico ,1.0,0.0,0.0,0.0,1.0,0.0
+reMrhbM7,2021-03-25,19:45,3:1,2:1,1:0,1.36,4.99,9.59,0.0,True,Belgium,Wales ,2.0,1.0,1.0,0.0,3.0,1.0
+2eXrq6s8,2021-03-25,19:45,0:0,0:0,0:0,4.7,3.38,1.87,1.0,True,Cyprus,Slovakia ,0.0,0.0,0.0,0.0,0.0,0.0
+l0ZtsgV3,2021-03-25,19:45,2:6,1:4,1:2,34.82,14.05,1.06,2.0,True,Estonia,Czech Republic ,1.0,4.0,1.0,2.0,2.0,6.0
+8xUVf0xk,2021-03-25,19:45,2:2,0:0,2:2,2.82,3.17,2.69,1.0,True,Finland,Bosnia & Herzegovina ,0.0,0.0,2.0,2.0,2.0,2.0
+xj7bD8hG,2021-03-25,19:45,1:1,1:0,0:1,1.29,5.64,11.55,1.0,True,France,Ukraine ,1.0,0.0,0.0,1.0,1.0,1.0
+S0P3HaXS,2021-03-25,19:45,0:3,0:2,0:1,63.26,23.96,1.01,2.0,True,Gibraltar,Norway ,0.0,2.0,0.0,1.0,0.0,3.0
+U9BVCJup,2021-03-25,19:45,1:2,1:1,0:1,6.04,3.32,1.73,2.0,True,Latvia,Montenegro ,1.0,1.0,0.0,1.0,1.0,2.0
+U9mPOydg,2021-03-25,19:45,1:3,0:2,1:1,27.35,9.54,1.11,2.0,True,Malta,Russia ,0.0,2.0,1.0,1.0,1.0,3.0
+6BzwXgk6,2021-03-25,19:45,1:0,1:0,0:0,1.03,16.1,46.79,0.0,True,Portugal,Azerbaijan ,1.0,0.0,0.0,0.0,1.0,0.0
+KEvsWD4C,2021-03-25,19:45,3:2,1:1,2:1,1.92,3.23,4.75,0.0,True,Serbia,Ireland ,1.0,1.0,2.0,1.0,3.0,2.0
+Amenvdvq,2021-03-25,19:45,1:0,1:0,0:0,5.03,3.48,1.8,0.0,True,Slovenia,Croatia ,1.0,0.0,0.0,0.0,1.0,0.0
+CfUP52YG,2021-03-25,17:00,4:2,2:0,2:2,5.18,3.79,1.71,0.0,True,Turkey,Netherlands ,2.0,0.0,2.0,2.0,4.0,2.0
+6g7iWmNa,2020-12-05,16:00,5:0,,,1.01,17.17,38.17,0.0,False,Qatar,Bangladesh,,,,,,
+SrdEw8Gn,2020-11-18,00:30,0:2,0:2,0:0,5.88,3.84,1.64,2.0,True,Peru,Argentina ,0.0,2.0,0.0,0.0,0.0,2.0
+z9aMynoa,2020-11-18,23:00,2:2,1:2,1:0,1.34,5.06,9.76,1.0,True,Paraguay,Bolivia ,1.0,2.0,1.0,0.0,2.0,2.0
+pK69vl1t,2020-11-18,23:00,0:2,0:2,0:0,4.56,3.34,1.92,2.0,True,Uruguay,Brazil ,0.0,2.0,0.0,0.0,0.0,2.0
+EabQz605,2020-11-18,21:00,6:1,4:1,2:0,2.76,3.22,2.68,0.0,True,Ecuador,Colombia ,4.0,1.0,2.0,0.0,6.0,1.0
+6ZfIxSVh,2020-11-18,21:00,2:1,1:1,1:0,3.54,3.25,2.18,0.0,True,Venezuela,Chile ,1.0,1.0,1.0,0.0,2.0,1.0
+EoJiM6oC,2020-11-14,00:30,1:0,0:0,1:0,1.21,6.6,13.68,0.0,True,Brazil,Venezuela ,0.0,0.0,1.0,0.0,1.0,0.0
+OG0rqUhP,2020-11-14,23:00,2:0,2:0,0:0,1.93,3.38,4.31,0.0,True,Chile,Peru ,2.0,0.0,0.0,0.0,2.0,0.0
+zeKmNnW5,2020-11-14,20:30,0:3,0:1,0:2,1.96,3.4,4.12,2.0,True,Colombia,Uruguay ,0.0,1.0,0.0,2.0,0.0,3.0
+ADC0KpGO,2020-11-13,00:00,1:1,1:1,0:0,1.37,4.77,9.11,1.0,True,Argentina,Paraguay ,1.0,1.0,0.0,0.0,1.0,1.0
+WMDdLQ0I,2020-11-13,20:00,2:3,1:0,1:3,4.78,3.55,1.79,2.0,True,Bolivia,Ecuador ,1.0,0.0,1.0,3.0,2.0,3.0
+SUGuP81g,2020-10-14,00:30,2:2,2:1,0:1,3.18,3.15,2.4,1.0,True,Chile,Colombia ,2.0,1.0,0.0,1.0,2.0,2.0
+zXu5VAOP,2020-10-14,00:00,2:4,1:1,1:3,8.12,4.75,1.41,2.0,True,Peru,Brazil ,1.0,1.0,1.0,3.0,2.0,4.0
+6FSWQUWt,2020-10-14,22:00,0:1,0:0,0:1,2.48,3.04,3.15,2.0,True,Venezuela,Paraguay ,0.0,0.0,0.0,1.0,0.0,1.0
+tYKqOSGa,2020-10-14,21:00,4:2,2:0,2:2,2.73,3.13,2.75,0.0,True,Ecuador,Uruguay ,2.0,0.0,2.0,2.0,4.0,2.0
+p6RzQlnm,2020-10-14,20:00,1:2,1:1,0:1,5.94,4.34,1.55,2.0,True,Bolivia,Argentina ,1.0,1.0,0.0,1.0,1.0,2.0
+tYbE8mHC,2020-10-10,00:30,5:0,2:0,3:0,1.03,18.44,57.65,0.0,True,Brazil,Bolivia ,2.0,0.0,3.0,0.0,5.0,0.0
+nBaA9T16,2020-10-10,23:30,3:0,3:0,0:0,1.38,4.68,9.14,0.0,True,Colombia,Venezuela ,3.0,0.0,0.0,0.0,3.0,0.0
+dts1Wj9J,2020-10-09,00:30,1:0,1:0,0:0,1.25,6.08,12.42,0.0,True,Argentina,Ecuador ,1.0,0.0,0.0,0.0,1.0,0.0
+8K06A9n0,2020-10-09,22:45,2:1,1:0,1:1,1.79,3.66,4.31,0.0,True,Uruguay,Chile ,1.0,0.0,1.0,1.0,2.0,1.0
+fy3I77WI,2020-10-09,22:30,2:2,0:0,2:2,2.31,3.13,3.33,1.0,True,Paraguay,Peru ,0.0,0.0,2.0,2.0,2.0,2.0
+EySqGjkh,2019-11-20,17:00,0:0,0:0,0:0,1.63,3.65,5.44,1.0,True,Lebanon,North Korea,0.0,0.0,0.0,0.0,0.0,0.0
+bap5vRX9,2019-11-20,16:00,5:0,3:0,2:0,1.01,18.15,42.7,0.0,True,Jordan,Chinese Taipei,3.0,0.0,2.0,0.0,5.0,0.0
+jNE9vCFJ,2019-11-19,15:00,1:0,1:0,0:0,1.21,5.95,12.43,0.0,True,Oman,India,1.0,0.0,0.0,0.0,1.0,0.0
+IianR1u3,2019-11-19,15:00,1:2,0:1,1:1,2.19,3.09,3.45,2.0,True,Yemen,Singapore,0.0,1.0,1.0,1.0,1.0,2.0
+UDDDwWUP,2019-11-19,14:00,0:1,0:0,0:1,13.91,7.21,1.16,2.0,True,Afghanistan,Qatar ,0.0,0.0,0.0,1.0,0.0,1.0
+W0tR2Rdo,2019-11-19,14:00,0:0,0:0,0:0,2.01,2.99,4.19,1.0,True,Iraq,Bahrain ,0.0,0.0,0.0,0.0,0.0,0.0
+lhD5dpy5,2019-11-19,14:00,1:1,0:1,1:0,1.62,3.73,5.32,1.0,True,Kyrgyzstan,Tajikistan,0.0,1.0,1.0,0.0,1.0,1.0
+reruAlmE,2019-11-19,14:00,1:0,1:0,0:0,1.26,5.59,10.41,0.0,True,Syria,Philippines,1.0,0.0,0.0,0.0,1.0,0.0
+lYSc4YYr,2019-11-19,13:00,0:0,0:0,0:0,2.08,3.17,3.67,1.0,True,Vietnam,Thailand,0.0,0.0,0.0,0.0,0.0,0.0
+MoR52C3e,2019-11-19,12:45,2:0,1:0,1:0,1.3,5.17,9.74,0.0,True,Malaysia,Indonesia,1.0,0.0,1.0,0.0,2.0,0.0
+p4pV1oCi,2019-11-19,12:00,2:0,1:0,1:0,1.43,4.29,7.18,0.0,True,Hong Kong,Cambodia,1.0,0.0,1.0,0.0,2.0,0.0
+v10rSsQd,2019-11-19,12:00,2:0,1:0,1:0,1.34,4.67,8.95,0.0,True,Uzbekistan,Palestine,1.0,0.0,1.0,0.0,2.0,0.0
+KK58hMHt,2019-11-19,11:00,3:1,2:0,1:1,1.21,5.94,11.91,0.0,True,Maldives,Guam,2.0,0.0,1.0,1.0,3.0,1.0
+hSQmFA4b,2019-11-19,11:00,2:0,1:0,1:0,1.03,14.8,39.81,0.0,True,Turkmenistan,Sri Lanka,1.0,0.0,1.0,0.0,2.0,0.0
+SrC9e4jB,2019-11-19,10:30,1:0,1:0,0:0,1.4,4.71,6.98,0.0,True,Myanmar,Mongolia,1.0,0.0,0.0,0.0,1.0,0.0
+hMq9womG,2019-11-19,09:00,0:1,0:1,0:0,21.69,8.25,1.11,2.0,True,Nepal,Kuwait,0.0,1.0,0.0,0.0,0.0,1.0
+40idtm3c,2019-11-15,16:00,0:1,0:1,0:0,4.99,3.54,1.71,2.0,True,Jordan,Australia,0.0,1.0,0.0,0.0,0.0,1.0
+nPt1u7I3,2019-11-15,16:00,9:0,2:0,7:0,1.05,10.97,32.33,0.0,True,Kuwait,Chinese Taipei,2.0,0.0,7.0,0.0,9.0,0.0
+zFWMG8NC,2019-11-14,15:00,4:1,0:0,4:1,1.04,12.49,31.39,0.0,True,Oman,Bangladesh,0.0,0.0,4.0,1.0,4.0,1.0
+xdMa3bmd,2019-11-14,15:00,1:0,0:0,1:0,3.98,3.42,1.9,0.0,True,Yemen,Palestine,0.0,0.0,1.0,0.0,1.0,0.0
+E5VQFSxJ,2019-11-14,14:00,1:1,1:0,0:1,2.47,3.29,2.76,1.0,True,Afghanistan,India,1.0,0.0,0.0,1.0,1.0,1.0
+QJTIbFpU,2019-11-14,14:00,2:1,1:1,1:0,6.02,3.19,1.69,0.0,True,Iraq,Iran,1.0,1.0,1.0,0.0,2.0,1.0
+4Cw0noe7,2019-11-14,14:00,2:1,1:1,1:0,3.34,3.15,2.2,0.0,True,Syria,China,1.0,1.0,1.0,0.0,2.0,1.0
+I9YzICKu,2019-11-14,13:00,0:0,0:0,0:0,6.99,3.98,1.49,1.0,True,Lebanon,South Korea,0.0,0.0,0.0,0.0,0.0,0.0
+jcmNAzdF,2019-11-14,13:00,1:0,1:0,0:0,2.52,3.03,2.91,0.0,True,Vietnam,United Arab Emirates,1.0,0.0,0.0,0.0,1.0,0.0
+UmnR9fBL,2019-11-14,12:45,2:1,1:1,1:0,3.35,3.43,2.08,0.0,True,Malaysia,Thailand,1.0,1.0,1.0,0.0,2.0,1.0
+SSFpfZho,2019-11-14,12:00,0:0,0:0,0:0,9.36,4.82,1.31,1.0,True,Hong Kong,Bahrain,0.0,0.0,0.0,0.0,0.0,0.0
+OhIe4vYk,2019-11-14,12:00,2:3,1:1,1:2,1.87,3.24,4.42,2.0,True,Uzbekistan,Saudi Arabia,1.0,1.0,1.0,2.0,2.0,3.0
+hQJdb66h,2019-11-14,11:15,0:2,0:1,0:1,13.35,6.27,1.19,2.0,True,Kyrgyzstan,Japan,0.0,1.0,0.0,1.0,0.0,2.0
+r3x4o5AD,2019-11-14,11:00,1:2,0:0,1:2,7.11,4.21,1.45,2.0,True,Maldives,Philippines,0.0,0.0,1.0,2.0,1.0,2.0
+d0XvHWZo,2019-11-14,11:00,3:1,1:0,2:1,2.81,3.09,2.57,0.0,True,Turkmenistan,North Korea,1.0,0.0,2.0,1.0,3.0,1.0
+WGI0cQLb,2019-11-14,10:30,4:3,2:1,2:2,7.03,4.18,1.44,0.0,True,Myanmar,Tajikistan,2.0,1.0,2.0,2.0,4.0,3.0
+v3VA0yGH,2019-10-16,16:30,1:0,,,8.42,3.83,1.45,0.0,False,Bahrain,Iran,,,,,,
+thXIHl86,2019-10-16,16:30,2:1,,,1.5,3.88,6.72,0.0,False,Qatar,Oman,,,,,,
+Q9hhsTmi,2019-10-16,16:00,3:0,,,1.02,15.61,44.43,0.0,False,Jordan,Nepal,,,,,,
+SlTEIUh0,2019-10-15,14:00,1:1,,,1.21,5.82,13.43,1.0,False,India,Bangladesh,,,,,,
+6XLT9FSI,2019-10-15,14:00,0:3,,,17.52,7.83,1.12,2.0,False,Sri Lanka,Lebanon,,,,,,
+AkvdmRu1,2019-10-15,14:00,4:0,,,1.01,16.31,38.01,0.0,False,Syria,Guam,,,,,,
+SMWP90AS,2019-10-15,13:00,0:0,,,3.94,3.38,1.9,1.0,False,Palestine,Saudi Arabia,,,,,,
+nTGl0Syt,2019-10-15,12:15,0:3,,,23.35,8.62,1.09,2.0,False,Tajikistan,Japan,,,,,,
+dnzhl7Qf,2019-10-15,12:00,0:0,,,14.48,7.26,1.15,1.0,False,Philippines,China,,,,,,
+rXqFCdR2,2019-10-15,12:00,2:1,,,3.22,3.2,2.25,0.0,False,Thailand,United Arab Emirates,,,,,,
+UVIi5KIq,2019-10-15,11:45,1:3,,,11.6,5.17,1.25,2.0,False,Singapore,Uzbekistan,,,,,,
+xfaAIqBj,2019-10-15,11:40,1:7,,,52.63,16.9,1.01,2.0,False,Chinese Taipei,Australia,,,,,,
+IgUEaeVN,2019-10-15,11:30,0:4,,,25.86,13.39,1.04,2.0,False,Cambodia,Iraq,,,,,,
+MNrJBGt9,2019-10-15,11:30,1:3,,,5.45,3.79,1.61,2.0,False,Indonesia,Vietnam,,,,,,
+hUHPAeDC,2019-10-15,08:30,0:0,0:0,0:0,6.8,3.75,1.52,1.0,True,North Korea,South Korea ,0.0,0.0,0.0,0.0,0.0,0.0
+b3Khanin,2019-10-15,08:00,1:2,0:2,1:0,14.27,7.27,1.15,2.0,True,Mongolia,Kyrgyzstan,0.0,2.0,1.0,0.0,1.0,2.0
+M91PBMuG,2019-10-11,17:00,3:0,1:0,2:0,1.09,9.23,22.32,0.0,True,Saudi Arabia,Singapore,1.0,0.0,2.0,0.0,3.0,0.0
+dvt61H0B,2019-10-11,16:00,2:0,1:0,1:0,1.04,12.23,37.37,0.0,True,Iraq,Hong Kong,1.0,0.0,1.0,0.0,2.0,0.0
+b306JPep,2019-10-11,16:00,0:0,0:0,0:0,1.67,3.55,5.15,1.0,True,Jordan,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0
+A5SKByb6,2019-10-11,16:00,2:1,1:0,1:1,1.68,3.53,5.2,0.0,True,Lebanon,Turkmenistan,1.0,0.0,1.0,1.0,2.0,1.0
+Ui2SlgZe,2019-10-11,16:00,5:0,1:0,4:0,1.07,9.9,31.22,0.0,True,United Arab Emirates,Indonesia,1.0,0.0,4.0,0.0,5.0,0.0
+pQwAJAwf,2019-10-10,15:00,3:0,2:0,1:0,1.06,11.05,28.65,0.0,True,Oman,Afghanistan,2.0,0.0,1.0,0.0,3.0,0.0
+M5kruq6U,2019-10-10,14:30,7:0,5:0,2:0,1.26,5.32,10.86,0.0,True,Kyrgyzstan,Myanmar,5.0,0.0,2.0,0.0,7.0,0.0
+ENpmkmBl,2019-10-10,14:00,2:1,1:0,1:1,1.05,12.52,27.88,0.0,True,Syria,Maldives,1.0,0.0,1.0,1.0,2.0,1.0
+ryx22co5,2019-10-10,13:30,14:0,7:0,7:0,1.01,19.75,48.83,0.0,True,Iran,Cambodia,7.0,0.0,7.0,0.0,14.0,0.0
+6Zv6KjOm,2019-10-10,13:00,0:2,0:1,0:1,38.92,18.51,1.01,2.0,True,Bangladesh,Qatar,0.0,1.0,0.0,1.0,0.0,2.0
+tS5WmDl2,2019-10-10,13:00,1:0,1:0,0:0,1.58,3.7,5.91,0.0,True,Vietnam,Malaysia,1.0,0.0,0.0,0.0,1.0,0.0
+zXoqjTer,2019-10-10,12:00,7:0,6:0,1:0,1.01,21.88,43.17,0.0,True,China,Guam,6.0,0.0,1.0,0.0,7.0,0.0
+000TAteM,2019-10-10,12:00,5:0,2:0,3:0,1.14,7.31,17.0,0.0,True,Uzbekistan,Yemen,2.0,0.0,3.0,0.0,5.0,0.0
+hMNwO5mT,2019-10-10,09:00,5:0,3:0,2:0,1.01,22.57,48.71,0.0,True,Australia,Nepal,3.0,0.0,2.0,0.0,5.0,0.0
+S8c87tkb,2019-09-11,17:00,2:0,1:0,1:0,1.14,6.96,19.08,0.0,True,Namibia,Eritrea ,1.0,0.0,1.0,0.0,2.0,0.0
+ro7jKJY3,2019-09-11,17:00,0:0,,,1.47,3.83,7.01,1.0,False,Sudan,Chad ,,,,,,
+fPUacdRj,2019-09-11,16:30,2:1,0:1,2:0,1.15,6.83,18.04,0.0,True,Guinea Bissau,Sao Tome and Principe ,0.0,1.0,2.0,0.0,2.0,1.0
+b9u2LW8s,2019-09-11,16:30,0:0,,,1.05,11.65,30.86,1.0,False,Qatar,India,,,,,,
+dlBfJwlA,2019-09-11,16:00,7:0,4:0,3:0,1.07,10.21,26.49,0.0,True,Rwanda,Seychelles ,4.0,0.0,3.0,0.0,7.0,0.0
+0MHoLaJc,2019-09-11,16:00,2:0,1:0,1:0,1.39,3.98,8.69,0.0,True,Togo,Comoros ,1.0,0.0,1.0,0.0,2.0,0.0
+EqbHDrB3,2019-09-11,16:00,2:2,2:1,0:1,16.01,6.18,1.19,1.0,True,Yemen,Saudi Arabia ,2.0,1.0,0.0,1.0,2.0,2.0
+pdKVPRIG,2019-09-10,15:30,0:3,0:3,0:0,7.59,4.25,1.43,2.0,True,Kuwait,Australia,0.0,3.0,0.0,0.0,0.0,3.0
+dlkP3blN,2019-09-10,15:00,2:1,1:0,1:1,1.91,2.99,4.62,0.0,True,Angola,Gambia ,1.0,0.0,1.0,1.0,2.0,1.0
+4leDekYK,2019-09-10,15:00,0:5,,,36.12,13.03,1.04,2.0,False,Maldives,China,,,,,,
+GYVebxCp,2019-09-10,14:00,2:0,1:0,1:0,1.37,4.25,8.76,0.0,True,Mozambique,Mauritius ,1.0,0.0,1.0,0.0,2.0,0.0
+d0gzQC0Q,2019-09-10,14:00,1:0,1:0,0:0,1.52,4.13,5.9,0.0,True,Afghanistan,Bangladesh,1.0,0.0,0.0,0.0,1.0,0.0
+OlUCDcTg,2019-09-10,14:00,0:1,,,28.57,12.18,1.05,2.0,False,Sri Lanka,North Korea,,,,,,
+pbV8EwEm,2019-09-10,14:00,0:2,0:1,0:1,12.39,6.93,1.18,2.0,True,Turkmenistan,South Korea,0.0,1.0,0.0,1.0,0.0,2.0
+OziH5KJA,2019-09-10,13:00,0:0,0:0,0:0,1.15,6.82,19.43,1.0,True,Eswatini,Djibouti ,0.0,0.0,0.0,0.0,0.0,0.0
+Yob48MZi,2019-09-10,13:00,3:1,0:0,3:1,1.1,7.64,25.21,0.0,True,Zimbabwe,Somalia ,0.0,0.0,3.0,1.0,3.0,1.0
+dv4KjF4q,2019-09-10,12:45,1:2,1:1,0:1,5.09,4.09,1.59,2.0,True,Malaysia,United Arab Emirates,1.0,1.0,0.0,1.0,1.0,2.0
+zV2OkZJk,2019-09-10,12:30,0:3,0:0,0:3,4.05,3.74,1.8,2.0,True,Indonesia,Thailand,0.0,0.0,0.0,3.0,0.0,3.0
+zkmWsoMB,2019-09-10,12:20,0:2,,,33.02,13.71,1.03,2.0,False,Myanmar,Japan,,,,,,
+2RkL4vZG,2019-09-10,12:00,1:0,0:0,1:0,1.98,3.08,4.02,0.0,True,Malawi,Botswana ,0.0,0.0,1.0,0.0,1.0,0.0
+ANwf4JGh,2019-09-10,12:00,0:2,0:1,0:1,30.86,11.21,1.06,2.0,True,Hong Kong,Iran,0.0,1.0,0.0,1.0,0.0,2.0
+Sn2LC2Q9,2019-09-10,11:45,2:1,2:1,0:0,5.07,3.87,1.63,0.0,True,Singapore,Palestine,2.0,1.0,0.0,0.0,2.0,1.0
+lExb3wWb,2019-09-10,11:30,0:1,0:0,0:1,13.43,7.39,1.16,2.0,True,Cambodia,Bahrain,0.0,0.0,0.0,1.0,0.0,1.0
+vJJZOoYM,2019-09-10,11:10,0:2,0:1,0:1,1.49,4.07,6.44,2.0,True,Chinese Taipei,Nepal,0.0,1.0,0.0,1.0,0.0,2.0
+Eunzs5yI,2019-09-10,09:00,0:1,0:0,0:1,12.25,5.96,1.22,2.0,True,Mongolia,Tajikistan,0.0,0.0,0.0,1.0,0.0,1.0
+rufHf9mR,2019-09-10,05:30,1:4,0:2,1:2,9.44,4.97,1.31,2.0,True,Guam,Philippines,0.0,2.0,1.0,2.0,1.0,4.0
+AigT2I3T,2019-09-09,16:30,1:0,,,1.96,3.26,3.96,0.0,False,Sierra Leone,Liberia ,,,,,,
+MVIsMu4i,2019-09-09,16:00,1:0,,,1.27,5.07,10.58,0.0,False,Equatorial Guinea,South Sudan ,,,,,,
+MBf092Ko,2019-09-08,13:00,1:1,,,2.04,3.0,3.97,1.0,False,Lesotho,Ethiopia ,,,,,,
+6adC6044,2019-09-08,13:00,2:1 pen.,,,2.09,3.05,3.72,1.0,False,Tanzania,Burundi ,,,,,,
+EV2Ueqjn,2019-09-07,14:00,0:0,,,2.11,2.92,3.9,1.0,False,Botswana,Malawi ,,,,,,
+thZQf35h,2019-09-07,17:00,0:1,,,2.51,2.8,3.14,2.0,False,Gambia,Angola ,,,,,,
+lOPojuKN,2019-09-06,12:00,1:1,,,3.12,2.87,2.44,1.0,False,Comoros,Togo ,,,,,,
+65LRQ73A,2019-09-06,17:00,7:0,2:0,5:0,1.07,9.68,33.43,0.0,True,Kuwait,Nepal,2.0,0.0,5.0,0.0,7.0,0.0
+Eepo6unt,2019-09-06,16:30,1:1,1:0,0:1,3.03,2.92,2.48,1.0,True,Bahrain,Iraq,1.0,0.0,0.0,1.0,1.0,1.0
+Ey4VQhoK,2019-09-06,16:30,6:0,4:0,2:0,1.06,11.27,25.45,0.0,True,Qatar,Afghanistan,4.0,0.0,2.0,0.0,6.0,0.0
+SzbAjlE6,2019-09-05,15:00,1:0,0:0,1:0,13.44,5.29,1.21,0.0,True,Somalia,Zimbabwe ,0.0,0.0,1.0,0.0,1.0,0.0
+IcUkkaZT,2019-09-05,14:30,1:3,0:1,1:2,3.04,2.99,2.28,2.0,True,Chad,Sudan ,0.0,1.0,1.0,2.0,1.0,3.0
+0YaRRYVD,2019-09-05,14:00,1:2,1:0,0:2,5.12,3.58,1.67,2.0,True,India,Oman,1.0,0.0,0.0,2.0,1.0,2.0
+hU98F4ti,2019-09-05,14:00,2:0,0:0,2:0,4.45,3.34,1.83,0.0,True,Palestine,Uzbekistan,0.0,0.0,2.0,0.0,2.0,0.0
+2Zu4FJbs,2019-09-05,14:00,0:2,0:1,0:1,12.71,6.4,1.19,2.0,True,Sri Lanka,Turkmenistan,0.0,1.0,0.0,1.0,0.0,2.0
+69eFoTMn,2019-09-05,14:00,1:0,1:0,0:0,2.38,3.11,3.0,0.0,True,Tajikistan,Kyrgyzstan,1.0,0.0,0.0,0.0,1.0,0.0
+GpMieedS,2019-09-05,12:30,2:3,2:1,0:2,1.8,3.54,4.28,2.0,True,Indonesia,Malaysia,2.0,1.0,0.0,2.0,2.0,3.0
+K6GHpJso,2019-09-05,12:00,0:3,0:2,0:1,7.11,4.18,1.4,2.0,True,Seychelles,Rwanda ,0.0,2.0,0.0,1.0,0.0,3.0
+xfNmdysM,2019-09-05,12:00,0:0,0:0,0:0,2.1,3.24,3.55,1.0,True,Thailand,Vietnam,0.0,0.0,0.0,0.0,0.0,0.0
+WK8CEOec,2019-09-05,11:45,2:2,1:2,1:0,2.62,2.94,2.85,1.0,True,Singapore,Yemen,1.0,2.0,1.0,0.0,2.0,2.0
+hnqk5a1n,2019-09-05,11:30,1:1,1:1,0:0,4.06,3.63,1.82,1.0,True,Cambodia,Hong Kong,1.0,1.0,0.0,0.0,1.0,1.0
+Ak24cB38,2019-09-05,11:30,2:5,1:2,1:3,5.96,4.14,1.51,2.0,True,Philippines,Syria,1.0,2.0,1.0,3.0,2.0,5.0
+vqkVRml4,2019-09-05,11:10,1:2,0:2,1:0,16.88,6.47,1.16,2.0,True,Chinese Taipei,Jordan,0.0,2.0,1.0,0.0,1.0,2.0
+vNgNq7ia,2019-09-05,09:00,1:0,1:0,0:0,4.78,4.02,1.63,0.0,True,Mongolia,Myanmar,1.0,0.0,0.0,0.0,1.0,0.0

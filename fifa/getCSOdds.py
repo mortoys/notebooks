@@ -29,9 +29,9 @@ def getHalfResult(html):
     soup = BeautifulSoup(html, "html.parser")
     try:
         result = soup.select_one('#event-status .result').text
-        r1 = result[result.find('result')+7: result.rfind(' (')]
-        r2 = result[result.find('(')+1: result.rfind(', ')]
-        r3 = result[result.rfind(', ')+2: result.rfind(')')]
+        r1 = result[result.find('result')+7: result.find(' ', result.find(':'))]
+        r2 = result[result.find('(')+1: result.find(', ')]
+        r3 = result[result.find(', ')+2: result.find(', ')+5]
         return r1, r2 ,r3
     except:
         return None,None,None
