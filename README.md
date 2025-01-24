@@ -33,3 +33,8 @@ https://www.sporttery.cn/jc/jsq/zqbf/
 
 1. 未来人力价值越高，代表未来收益越高，生育越有价值
 2. 人均消费越低，生育越划算
+
+数据来源：
+https://data.stats.gov.cn/easyquery.htm?cn=E0103
+爬虫脚本：
+https://github.com/songjian/cnstats
